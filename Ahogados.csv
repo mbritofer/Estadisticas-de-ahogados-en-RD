@@ -1,0 +1,2739 @@
+Id,Año,Mes,Día,Rango de hora,Sexo,Rango de edad,Lugar,Provincia
+1,2011,Enero,Domingo, 6:00-11:59,Mujer,9-May,Río,San Cristóbal
+2,2011,Enero,Domingo, 6:00-11:59,Hombre,75-79,Río,Santiago
+3,2011,Enero,Miércoles, 6:00-11:59,Hombre,80 y mas,Río,Santiago
+4,2011,Enero,Jueves,18:00-23:59,Hombre,N/D,Río,San Juan
+5,2011,Enero,Sábado, 6:00-11:59,Hombre,N/D,Canal,Santiago
+6,2011,Enero,Lunes,0:00-05:59,Hombre,14-Oct,Mar,Santo Domingo
+7,2011,Enero,Lunes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+8,2011,Enero,Jueves, 6:00-11:59,Hombre,30-34,Mar,Santo Domingo
+9,2011,Enero,Jueves, 6:00-11:59,Hombre,35-39,Río,La Altagracia
+10,2011,Enero,Sábado,18:00-23:59,Hombre,35-39,Río,Santo Domingo
+11,2011,Enero,Domingo,12:00-17:59,Hombre,0-4,Cisterna,La Altagracia
+12,2011,Enero,Domingo,12:00-17:59,Hombre,40-44,Mar,La Altagracia
+13,2011,Enero,Lunes,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+14,2011,Enero,Lunes,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+15,2011,Enero,Martes,12:00-17:59,Mujer,0-4,Río,Monte Plata
+16,2011,Enero,Jueves, 6:00-11:59,Hombre,25-29,Pozo,Santo Domingo
+17,2011,Enero,Jueves,12:00-17:59,Hombre,55-59,Mar,Puerto Plata
+18,2011,Enero,Domingo,12:00-17:59,Hombre,25-29,Río,Valverde
+19,2011,Enero,Domingo,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+20,2011,Enero,Lunes,18:00-23:59,Hombre,14-Oct,Río,Peravia
+21,2011,Enero,Jueves, 6:00-11:59,Mujer,70-74,Canal,San Juan
+22,2011,Enero,Viernes,18:00-23:59,Mujer,30-34,Piscina,Azua
+23,2011,Enero,Viernes,18:00-23:59,Hombre,35-39,Río,Santiago
+24,2011,Enero,Sábado,12:00-17:59,Hombre,9-May,Otros,San Pedro de Macorís
+25,2011,Enero,Lunes,12:00-17:59,Hombre,0-4,Cubeta,La Vega
+26,2011,Febrero,Lunes, 6:00-11:59,Hombre,40-44,Otros,Santiago Rodriguez
+27,2011,Febrero,Miércoles, 6:00-11:59,Hombre,70-74,Río,Santiago
+28,2011,Febrero,Jueves,12:00-17:59,Hombre,25-29,Río,Hato Mayor
+29,2011,Febrero,Domingo, 6:00-11:59,Hombre,25-29,Cisterna,Santo Domingo
+30,2011,Febrero,Domingo,18:00-23:59,Hombre,N/D,Río,Monte Plata
+31,2011,Febrero,Lunes,0:00-05:59,Mujer,0-4,Mar,Distrito Nacional
+32,2011,Febrero,Lunes,12:00-17:59,Mujer,60-64,Piscina,Peravia
+33,2011,Febrero,Lunes,18:00-23:59,Mujer,15-19,Cisterna,San Cristóbal
+34,2011,Febrero,Martes,12:00-17:59,Hombre,60-64,Mar,Puerto Plata
+35,2011,Febrero,Domingo,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+36,2011,Febrero,Domingo,18:00-23:59,Hombre,N/D,Mar,San Cristóbal
+37,2011,Marzo,Martes, 6:00-11:59,Hombre,N/D,Mar,Barahona
+38,2011,Marzo,Martes,18:00-23:59,Hombre,0-4,Otros,Santiago
+39,2011,Marzo,Miércoles, 6:00-11:59,Mujer,15-19,Río,Distrito Nacional
+40,2011,Marzo,Jueves,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+41,2011,Marzo,Jueves,12:00-17:59,Hombre,20-24,Río,Espaillat
+42,2011,Marzo,Viernes,12:00-17:59,Hombre,14-Oct,Canal,Bahoruco
+43,2011,Marzo,Viernes,12:00-17:59,Hombre,9-May,Otros,Duarte
+44,2011,Marzo,Viernes,18:00-23:59,Mujer,14-Oct,Mar,Distrito Nacional
+45,2011,Marzo,Domingo,12:00-17:59,Hombre,20-24,Río,Puerto Plata
+46,2011,Marzo,Domingo,18:00-23:59,Hombre,9-May,Canal,Bahoruco
+47,2011,Marzo,Domingo,18:00-23:59,Hombre,15-19,Río,Puerto Plata
+48,2011,Marzo,Martes,12:00-17:59,Mujer,50-54,Mar,Samaná
+49,2011,Marzo,Martes,12:00-17:59,Mujer,0-4,Canal,San Juan
+50,2011,Marzo,Miércoles,12:00-17:59,Mujer,20-24,Canal,Barahona
+51,2011,Marzo,Jueves,18:00-23:59,Hombre,50-54,Río,Monseñor Nouel
+52,2011,Marzo,Jueves,18:00-23:59,Hombre,0-4,Otros,Espaillat
+53,2011,Marzo,Viernes, 6:00-11:59,Hombre,N/D,Mar,La Altagracia
+54,2011,Marzo,Sábado,12:00-17:59,Mujer,0-4,Canal,Sánchez Ramírez
+55,2011,Marzo,Sábado,12:00-17:59,Hombre,55-59,Río,Puerto Plata
+56,2011,Marzo,Jueves, 6:00-11:59,Hombre,15-19,Pozo,El Seybo
+57,2011,Marzo,Viernes,12:00-17:59,Hombre,50-54,Mar,La Altagracia
+58,2011,Marzo,Domingo,12:00-17:59,Hombre,25-29,Mar,Puerto Plata
+59,2011,Marzo,Lunes, 6:00-11:59,Hombre,9-May,Cisterna,Puerto Plata
+60,2011,Marzo,Jueves,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+61,2011,Marzo,Jueves, 6:00-11:59,Hombre,0-4,Pozo,Santo Domingo
+62,2011,Marzo,Viernes,18:00-23:59,Hombre,0-4,Cisterna,Santo Domingo
+63,2011,Marzo,Lunes, 6:00-11:59,Hombre,N/D,Mar,Santo Domingo
+64,2011,Marzo,Martes,12:00-17:59,Hombre,9-May,Río,La Altagracia
+65,2011,Marzo,Martes,12:00-17:59,Hombre,9-May,Río,La Altagracia
+66,2011,Marzo,Miércoles, 6:00-11:59,Hombre,N/D,Mar,Samaná
+67,2011,Marzo,Miércoles,12:00-17:59,Hombre,N/D,Canal,Santiago
+68,2011,Marzo,Miércoles,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+69,2011,Marzo,Jueves, 6:00-11:59,Mujer,9-May,Río,Monseñor Nouel
+70,2011,Marzo,Jueves, 6:00-11:59,Mujer,14-Oct,Río,Monseñor Nouel
+71,2011,Marzo,Jueves,12:00-17:59,Mujer,0-4,Pozo,Sánchez Ramírez
+72,2011,Abril,Sábado,12:00-17:59,Hombre,14-Oct,Río,Peravia
+73,2011,Abril,Sábado,12:00-17:59,Hombre,0-4,Pozo,San Cristóbal
+74,2011,Abril,Sábado,12:00-17:59,Hombre,15-19,Río,Puerto Plata
+75,2011,Abril,Sábado,18:00-23:59,Hombre,50-54,Río,La Altagracia
+76,2011,Abril,Domingo,18:00-23:59,Hombre,25-29,Canal,Santiago
+77,2011,Abril,Domingo,18:00-23:59,Hombre,25-29,Piscina,Espaillat
+78,2011,Abril,Lunes,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+79,2011,Abril,Martes,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+80,2011,Abril,Martes,18:00-23:59,Hombre,35-39,Mar,San Cristóbal
+81,2011,Abril,Miércoles, 6:00-11:59,Hombre,14-Oct,Canal,Azua
+82,2011,Abril,Jueves,12:00-17:59,Hombre,40-44,Otros,Bahoruco
+83,2011,Abril,Viernes,12:00-17:59,Hombre,20-24,Mar,Samaná
+84,2011,Abril,Viernes,12:00-17:59,Hombre,14-Oct,Otros,La Altagracia
+85,2011,Abril,Sábado,18:00-23:59,Hombre,15-19,Río,Monte Plata
+86,2011,Abril,Domingo,12:00-17:59,Hombre,N/D,Otros,Sánchez Ramírez
+87,2011,Abril,Domingo,18:00-23:59,Hombre,14-Oct,Río,Monte Plata
+88,2011,Abril,Lunes,12:00-17:59,Hombre,75-79,Mar,La Romana
+89,2011,Abril,Jueves, 6:00-11:59,Hombre,14-Oct,Mar,María Trinidad Sánchez
+90,2011,Abril,Jueves, 6:00-11:59,Hombre,N/D,Río,Santo Domingo
+91,2011,Abril,Viernes,12:00-17:59,Hombre,15-19,Pozo,Monseñor Nouel
+92,2011,Abril,Viernes,18:00-23:59,Hombre,15-19,Río,Santiago
+93,2011,Abril,Domingo,18:00-23:59,Hombre,75-79,Canal,Santiago
+94,2011,Abril,Jueves, 6:00-11:59,Hombre,N/D,Canal,Santiago
+95,2011,Abril,Jueves,12:00-17:59,Hombre,9-May,Canal,Azua
+96,2011,Abril,Jueves,18:00-23:59,Hombre,0-4,Piscina,Samaná
+97,2011,Abril,Viernes,18:00-23:59,Hombre,14-Oct,Pozo,Distrito Nacional
+98,2011,Abril,Sábado,12:00-17:59,Hombre,20-24,Río,La Vega
+99,2011,Abril,Sábado,12:00-17:59,Hombre,20-24,Mar,Puerto Plata
+100,2011,Abril,Sábado,12:00-17:59,Hombre,9-May,Río,Sánchez Ramírez
+101,2011,Abril,Domingo, 6:00-11:59,Hombre,20-24,Río,Santo Domingo
+102,2011,Abril,Domingo,12:00-17:59,Mujer,9-May,Río,Peravia
+103,2011,Abril,Domingo,18:00-23:59,Hombre,15-19,Río,San Juan
+104,2011,Abril,Martes,12:00-17:59,Hombre,35-39,Río,Distrito Nacional
+105,2011,Abril,Martes,12:00-17:59,Hombre,14-Oct,Piscina,Peravia
+106,2011,Abril,Martes,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+107,2011,Abril,Martes,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+108,2011,Mayo,Domingo, 6:00-11:59,Hombre,9-May,Canal,Santiago
+109,2011,Mayo,Domingo,12:00-17:59,Hombre,14-Oct,Mar,Peravia
+110,2011,Mayo,Domingo,12:00-17:59,Hombre,20-24,Río,Santiago
+111,2011,Mayo,Domingo,12:00-17:59,Mujer,14-Oct,Río,Sánchez Ramírez
+112,2011,Mayo,Domingo,12:00-17:59,Hombre,15-19,Río,Sánchez Ramírez
+113,2011,Mayo,Domingo,12:00-17:59,Hombre,40-44,Mar,San Cristóbal
+114,2011,Mayo,Domingo,18:00-23:59,Hombre,20-24,Mar,Puerto Plata
+115,2011,Mayo,Lunes, 6:00-11:59,Mujer,9-May,Otros,Distrito Nacional
+116,2011,Mayo,Miércoles,12:00-17:59,Hombre,9-May,Canal,Santiago
+117,2011,Mayo,Viernes,18:00-23:59,Hombre,40-44,Otros,San Juan
+118,2011,Mayo,Sábado,12:00-17:59,Hombre,14-Oct,Piscina,Santo Domingo
+119,2011,Mayo,Lunes, 6:00-11:59,Hombre,35-39,Canal,Santiago
+120,2011,Mayo,Jueves,18:00-23:59,Hombre,50-54,Mar,Samaná
+121,2011,Mayo,Domingo,12:00-17:59,Mujer,9-May,Cisterna,Santiago
+122,2011,Mayo,Domingo,18:00-23:59,Hombre,15-19,Mar,Puerto Plata
+123,2011,Mayo,Lunes,18:00-23:59,Mujer,0-4,Río,La Altagracia
+124,2011,Mayo,Jueves,18:00-23:59,Mujer,20-24,Río,San Pedro de Macorís
+125,2011,Mayo,Viernes,12:00-17:59,Mujer,9-May,Río,Santo Domingo
+126,2011,Mayo,Miércoles, 6:00-11:59,Hombre,60-64,Otros,La Romana
+127,2011,Mayo,Jueves, 6:00-11:59,Hombre,20-24,Mar,María Trinidad Sánchez
+128,2011,Mayo,Jueves, 6:00-11:59,Mujer,50-54,Río,San Juan
+129,2011,Mayo,Jueves,18:00-23:59,Hombre,0-4,Otros,Monte Plata
+130,2011,Mayo,Sábado,18:00-23:59,Mujer,0-4,Cisterna,San Pedro de Macorís
+131,2011,Mayo,Domingo,18:00-23:59,Hombre,45-49,Canal,Duarte
+132,2011,Mayo,Martes,18:00-23:59,Hombre,14-Oct,Mar,Santo Domingo
+133,2011,Junio,Domingo, 6:00-11:59,Hombre,14-Oct,Río,Santo Domingo
+134,2011,Junio,Lunes,18:00-23:59,Hombre,40-44,Río,El Seybo
+135,2011,Junio,Martes,12:00-17:59,Hombre,30-34,Canal,Monte Cristi
+136,2011,Junio,Miércoles,12:00-17:59,Hombre,N/D,Río,Santiago
+137,2011,Junio,Jueves,18:00-23:59,Hombre,9-May,Otros,Santiago
+138,2011,Junio,Viernes,12:00-17:59,Hombre,25-29,Mar,La Altagracia
+139,2011,Junio,Viernes,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+140,2011,Junio,Domingo,18:00-23:59,Hombre,30-34,Otros,Barahona
+141,2011,Junio,Lunes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+142,2011,Junio,Martes,12:00-17:59,Hombre,0-4,Cisterna,Samaná
+143,2011,Junio,Miércoles,0:00-05:59,Mujer,35-39,Río,Elías Pina
+144,2011,Junio,Jueves,12:00-17:59,Hombre,40-44,Canal,Duarte
+145,2011,Junio,Domingo,12:00-17:59,Hombre,65-69,Río,El Seybo
+146,2011,Junio,Domingo,12:00-17:59,Hombre,15-19,Mar,Puerto Plata
+147,2011,Junio,Miércoles, 6:00-11:59,Hombre,20-24,Otros,Independencia
+148,2011,Junio,Jueves, 6:00-11:59,Hombre,20-24,Mar,San Pedro de Macorís
+149,2011,Junio,Jueves,12:00-17:59,Hombre,25-29,Río,La Vega
+150,2011,Junio,Viernes, 6:00-11:59,Hombre,0-4,Cisterna,Santo Domingo
+151,2011,Junio,Viernes,12:00-17:59,Hombre,40-44,Río,María Trinidad Sánchez
+152,2011,Junio,Viernes,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+153,2011,Junio,Sábado,18:00-23:59,Hombre,15-19,Mar,Santo Domingo
+154,2011,Junio,Sábado,18:00-23:59,Mujer,14-Oct,Cisterna,Samaná
+155,2011,Junio,Domingo,12:00-17:59,Hombre,9-May,Piscina,Santo Domingo
+156,2011,Junio,Domingo,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+157,2011,Junio,Domingo,18:00-23:59,Hombre,30-34,Río,San Pedro de Macorís
+158,2011,Junio,Lunes,12:00-17:59,Hombre,55-59,Piscina,Distrito Nacional
+159,2011,Junio,Miércoles,18:00-23:59,Hombre,9-May,Cisterna,Santo Domingo
+160,2011,Junio,Jueves,18:00-23:59,Hombre,30-34,Canal,San Juan
+161,2011,Julio,Viernes,12:00-17:59,Hombre,0-4,Pozo,El Seybo
+162,2011,Julio,Domingo, 6:00-11:59,Hombre,25-29,Río,La Vega
+163,2011,Julio,Martes,12:00-17:59,Hombre,N/D,Río,Dajabón
+164,2011,Julio,Martes,18:00-23:59,Hombre,20-24,Pozo,Barahona
+165,2011,Julio,Miércoles, 6:00-11:59,Hombre,35-39,Río,San Cristóbal
+166,2011,Julio,Miércoles,12:00-17:59,Hombre,30-34,Mar,San Cristóbal
+167,2011,Julio,Miércoles,12:00-17:59,Mujer,14-Oct,Piscina,Puerto Plata
+168,2011,Julio,Jueves, 6:00-11:59,Hombre,30-34,Río,Distrito Nacional
+169,2011,Julio,Jueves,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+170,2011,Julio,Jueves,18:00-23:59,Hombre,0-4,Cisterna,San Cristóbal
+171,2011,Julio,Viernes,18:00-23:59,Mujer,40-44,Río,Monte Plata
+172,2011,Julio,Sábado, 6:00-11:59,Hombre,70-74,Río,Santo Domingo
+173,2011,Julio,Sábado,12:00-17:59,Mujer,9-May,Piscina,Puerto Plata
+174,2011,Julio,Domingo, 6:00-11:59,Hombre,30-34,Pozo,Dajabón
+175,2011,Julio,Lunes,12:00-17:59,Mujer,30-34,Otros,Santo Domingo
+176,2011,Julio,Martes,18:00-23:59,Mujer,0-4,Piscina,Puerto Plata
+177,2011,Julio,Viernes,12:00-17:59,Hombre,25-29,Mar,Santo Domingo
+178,2011,Julio,Viernes,12:00-17:59,Hombre,0-4,Otros,Monseñor Nouel
+179,2011,Julio,Sábado,12:00-17:59,Mujer,45-49,Mar,Puerto Plata
+180,2011,Julio,Domingo, 6:00-11:59,Hombre,55-59,Canal,Monte Cristi
+181,2011,Julio,Miércoles, 6:00-11:59,Hombre,45-49,Canal,Monte Cristi
+182,2011,Julio,Jueves,12:00-17:59,Hombre,60-64,Mar,San Pedro de Macorís
+183,2011,Julio,Jueves,12:00-17:59,Mujer,55-59,Mar,Santo Domingo
+184,2011,Julio,Jueves,18:00-23:59,Hombre,25-29,Río,Santo Domingo
+185,2011,Julio,Domingo, 6:00-11:59,Hombre,30-34,Río,Santiago
+186,2011,Julio,Domingo, 6:00-11:59,Hombre,25-29,Pozo,Espaillat
+187,2011,Julio,Domingo,12:00-17:59,Mujer,0-4,Cisterna,La Altagracia
+188,2011,Julio,Lunes, 6:00-11:59,Hombre,14-Oct,Río,Azua
+189,2011,Julio,Lunes,12:00-17:59,Hombre,0-4,Piscina,Santo Domingo
+190,2011,Julio,Martes,12:00-17:59,Hombre,50-54,Mar,La Altagracia
+191,2011,Julio,Miércoles, 6:00-11:59,Hombre,55-59,Mar,Barahona
+192,2011,Julio,Miércoles, 6:00-11:59,Mujer,0-4,Cisterna,Valverde
+193,2011,Julio,Miércoles,12:00-17:59,Hombre,20-24,Río,Azua
+194,2011,Julio,Miércoles,12:00-17:59,Hombre,15-19,Río,Dajabón
+195,2011,Agosto,Martes,18:00-23:59,Mujer,9-May,Piscina,Hermanas Mirabal
+196,2011,Agosto,Jueves, 6:00-11:59,Hombre,N/D,Río,San Juan
+197,2011,Agosto,Jueves,12:00-17:59,Hombre,20-24,Otros,Santo Domingo
+198,2011,Agosto,Viernes, 6:00-11:59,Hombre,20-24,Río,La Altagracia
+199,2011,Agosto,Viernes, 6:00-11:59,Hombre,15-19,Río,La Altagracia
+200,2011,Agosto,Viernes, 6:00-11:59,Hombre,20-24,Mar,Peravia
+201,2011,Agosto,Viernes,12:00-17:59,Hombre,45-49,Río,Santo Domingo
+202,2011,Agosto,Viernes,12:00-17:59,Hombre,20-24,Otros,La Romana
+203,2011,Agosto,Viernes,18:00-23:59,Mujer,9-May,Cisterna,Santo Domingo
+204,2011,Agosto,Sábado,12:00-17:59,Hombre,30-34,Mar,La Altagracia
+205,2011,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,Santiago
+206,2011,Agosto,Domingo,12:00-17:59,Hombre,9-May,Mar,Puerto Plata
+207,2011,Agosto,Domingo,18:00-23:59,Mujer,20-24,Mar,San Cristóbal
+208,2011,Agosto,Lunes,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+209,2011,Agosto,Lunes,18:00-23:59,Hombre,40-44,Río,El Seybo
+210,2011,Agosto,Martes,12:00-17:59,Hombre,30-34,Canal,Monte Cristi
+211,2011,Agosto,Viernes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+212,2011,Agosto,Sábado,12:00-17:59,Mujer,9-May,Mar,Santo Domingo
+213,2011,Agosto,Sábado,12:00-17:59,Hombre,0-4,Canal,Elías Pina
+214,2011,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,Azua
+215,2011,Agosto,Martes,12:00-17:59,Hombre,14-Oct,Río,Espaillat
+216,2011,Agosto,Martes,12:00-17:59,Hombre,15-19,Río,Espaillat
+217,2011,Agosto,Miércoles,12:00-17:59,Hombre,20-24,Río,María Trinidad Sánchez
+218,2011,Agosto,Jueves, 6:00-11:59,Hombre,40-44,Canal,San Juan
+219,2011,Agosto,Jueves,12:00-17:59,Hombre,55-59,Río,Monte Plata
+220,2011,Agosto,Jueves,12:00-17:59,Hombre,N/D,Otros,Santiago
+221,2011,Agosto,Jueves,18:00-23:59,Hombre,35-39,Canal,Bahoruco
+222,2011,Agosto,Viernes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+223,2011,Agosto,Domingo,12:00-17:59,Hombre,15-19,Río,Azua
+224,2011,Agosto,Martes, 6:00-11:59,Hombre,30-34,Río,San Cristóbal
+225,2011,Agosto,Miércoles,12:00-17:59,Hombre,40-44,Río,San Cristóbal
+226,2011,Agosto,Miércoles,18:00-23:59,Hombre,70-74,Otros,Monte Plata
+227,2011,Agosto,Jueves, 6:00-11:59,Hombre,N/D,Río,San José de Ocoa
+228,2011,Agosto,Jueves, 6:00-11:59,Mujer,14-Oct,Otros,Santo Domingo
+229,2011,Agosto,Jueves, 6:00-11:59,Mujer,15-19,Río,San Cristóbal
+230,2011,Agosto,Jueves,12:00-17:59,Hombre,20-24,Cisterna,La Altagracia
+231,2011,Agosto,Viernes, 6:00-11:59,Hombre,15-19,Río,San Cristóbal
+232,2011,Agosto,Viernes, 6:00-11:59,Hombre,N/D,Canal,Sánchez Ramírez
+233,2011,Agosto,Viernes, 6:00-11:59,Hombre,9-May,Río,La Vega
+234,2011,Agosto,Viernes,12:00-17:59,Hombre,N/D,Río,El Seybo
+235,2011,Agosto,Viernes,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+236,2011,Agosto,Sábado,12:00-17:59,Hombre,35-39,Mar,Santo Domingo
+237,2011,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,La Altagracia
+238,2011,Agosto,Lunes,18:00-23:59,Hombre,60-64,Río,San Juan
+239,2011,Agosto,Martes, 6:00-11:59,Hombre,30-34,Canal,Valverde
+240,2011,Agosto,Martes,12:00-17:59,Hombre,N/D,Mar,Samaná
+241,2011,Agosto,Martes,12:00-17:59,Hombre,N/D,Mar,Samaná
+242,2011,Agosto,Martes,12:00-17:59,Hombre,N/D,Mar,Samaná
+243,2011,Agosto,Martes,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+244,2011,Agosto,Martes,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+245,2011,Agosto,Martes,18:00-23:59,Mujer,9-May,Río,San Cristóbal
+246,2011,Septiembre,Jueves,12:00-17:59,Hombre,45-49,Mar,Puerto Plata
+247,2011,Septiembre,Sábado, 6:00-11:59,Hombre,30-34,Cisterna,Santo Domingo
+248,2011,Septiembre,Domingo, 6:00-11:59,Hombre,25-29,Río,Santiago
+249,2011,Septiembre,Domingo, 6:00-11:59,Hombre,30-34,Río,Barahona
+250,2011,Septiembre,Miércoles,12:00-17:59,Mujer,0-4,Cubeta,Santiago
+251,2011,Septiembre,Miércoles,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+252,2011,Septiembre,Viernes,12:00-17:59,Hombre,65-69,Mar,Puerto Plata
+253,2011,Septiembre,Viernes,18:00-23:59,Mujer,30-34,Canal,San Juan
+254,2011,Septiembre,Sábado,12:00-17:59,Mujer,0-4,Río,Santiago
+255,2011,Septiembre,Domingo, 6:00-11:59,Hombre,20-24,Río,San Cristóbal
+256,2011,Septiembre,Domingo,12:00-17:59,Hombre,40-44,Otros,Barahona
+257,2011,Septiembre,Domingo,18:00-23:59,Hombre,25-29,Otros,María Trinidad Sánchez
+258,2011,Septiembre,Miércoles, 6:00-11:59,Hombre,20-24,Canal,Azua
+259,2011,Septiembre,Miércoles,12:00-17:59,Mujer,55-59,Mar,Santo Domingo
+260,2011,Septiembre,Jueves,18:00-23:59,Hombre,35-39,Pozo,La Vega
+261,2011,Septiembre,Sábado,18:00-23:59,Hombre,50-54,Río,Sánchez Ramírez
+262,2011,Septiembre,Domingo, 6:00-11:59,Hombre,40-44,Piscina,Santo Domingo
+263,2011,Septiembre,Lunes, 6:00-11:59,Hombre,15-19,Mar,Monte Cristi
+264,2011,Septiembre,Jueves,12:00-17:59,Hombre,30-34,Río,San Pedro de Macorís
+265,2011,Septiembre,Viernes,12:00-17:59,Hombre,35-39,Río,Peravia
+266,2011,Septiembre,Viernes,12:00-17:59,Hombre,60-64,Mar,Puerto Plata
+267,2011,Septiembre,Sábado,12:00-17:59,Hombre,0-4,Cisterna,Duarte
+268,2011,Septiembre,Sábado,12:00-17:59,Hombre,45-49,Pozo,Santo Domingo
+269,2011,Septiembre,Sábado,18:00-23:59,Hombre,25-29,Río,La Romana
+270,2011,Septiembre,Domingo,18:00-23:59,Hombre,0-4,Piscina,La Romana
+271,2011,Septiembre,Martes,18:00-23:59,Hombre,9-May,Río,La Altagracia
+272,2011,Septiembre,Viernes, 6:00-11:59,Hombre,N/D,Río,Espaillat
+273,2011,Octubre,Sábado, 6:00-11:59,Hombre,55-59,Río,Hermanas Mirabal
+274,2011,Octubre,Domingo,18:00-23:59,Hombre,20-24,Río,Monte Plata
+275,2011,Octubre,Lunes,12:00-17:59,Hombre,20-24,Río,Peravia
+276,2011,Octubre,Lunes,12:00-17:59,Hombre,14-Oct,Río,La Altagracia
+277,2011,Octubre,Martes, 6:00-11:59,Hombre,55-59,Río,Santo Domingo
+278,2011,Octubre,Martes,12:00-17:59,Hombre,25-29,Río,Monseñor Nouel
+279,2011,Octubre,Miércoles,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+280,2011,Octubre,Jueves,18:00-23:59,Hombre,20-24,Río,La Altagracia
+281,2011,Octubre,Viernes,12:00-17:59,Hombre,25-29,Río,María Trinidad Sánchez
+282,2011,Octubre,Domingo, 6:00-11:59,Hombre,N/D,Canal,Santiago
+283,2011,Octubre,Domingo, 6:00-11:59,Hombre,20-24,Mar,Puerto Plata
+284,2011,Octubre,Martes,12:00-17:59,Hombre,25-29,Canal,Barahona
+285,2011,Octubre,Domingo,12:00-17:59,Hombre,25-29,Mar,Puerto Plata
+286,2011,Octubre,Domingo,18:00-23:59,Hombre,20-24,Mar,La Romana
+287,2011,Octubre,Domingo,18:00-23:59,Hombre,15-19,Mar,La Romana
+288,2011,Octubre,Lunes,12:00-17:59,Hombre,55-59,Río,La Vega
+289,2011,Octubre,Miércoles,12:00-17:59,Hombre,30-34,Mar,La Altagracia
+290,2011,Octubre,Jueves,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+291,2011,Octubre,Viernes, 6:00-11:59,Mujer,0-4,Cubeta,Distrito Nacional
+292,2011,Octubre,Domingo,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+293,2011,Octubre,Lunes,12:00-17:59,Hombre,20-24,Río,Monte Plata
+294,2011,Octubre,Lunes,18:00-23:59,Hombre,9-May,Río,Monte Plata
+295,2011,Octubre,Martes,12:00-17:59,Hombre,20-24,Río,La Romana
+296,2011,Octubre,Sábado,12:00-17:59,Mujer,9-May,Río,La Vega
+297,2011,Octubre,Domingo,12:00-17:59,Hombre,N/D,Mar,Samaná
+298,2011,Octubre,Domingo,12:00-17:59,Hombre,50-54,Mar,San Pedro de Macorís
+299,2011,Octubre,Domingo,12:00-17:59,Hombre,15-19,Río,Monte Plata
+300,2011,Noviembre,Miércoles,12:00-17:59,Mujer,14-Oct,Mar,Azua
+301,2011,Noviembre,Viernes,18:00-23:59,Mujer,0-4,Cisterna,Santo Domingo
+302,2011,Noviembre,Sábado,18:00-23:59,Hombre,14-Oct,Río,Santiago
+303,2011,Noviembre,Domingo,0:00-05:59,Hombre,80 y mas,Río,La Altagracia
+304,2011,Noviembre,Domingo, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+305,2011,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+306,2011,Noviembre,Domingo,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+307,2011,Noviembre,Domingo,18:00-23:59,Hombre,9-May,Mar,San Cristóbal
+308,2011,Noviembre,Lunes,12:00-17:59,Hombre,20-24,Río,Hato Mayor
+309,2011,Noviembre,Jueves,12:00-17:59,Hombre,15-19,Río,Valverde
+310,2011,Noviembre,Viernes,12:00-17:59,Hombre,30-34,Canal,Santiago
+311,2011,Noviembre,Domingo,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+312,2011,Noviembre,Martes, 6:00-11:59,Hombre,35-39,Mar,La Altagracia
+313,2011,Noviembre,Martes,18:00-23:59,Hombre,50-54,Canal,Santiago
+314,2011,Noviembre,Martes,12:00-17:59,Hombre,60-64,Mar,Puerto Plata
+315,2011,Noviembre,Martes,12:00-17:59,Hombre,60-64,Mar,Puerto Plata
+316,2011,Noviembre,Martes,12:00-17:59,Hombre,15-19,Río,Barahona
+317,2011,Noviembre,Domingo,12:00-17:59,Hombre,0-4,Piscina,La Romana
+318,2011,Noviembre,Lunes,18:00-23:59,Hombre,20-24,Mar,Distrito Nacional
+319,2011,Noviembre,Martes,12:00-17:59,Hombre,14-Oct,Cubeta,San Cristóbal
+320,2011,Noviembre,Martes,12:00-17:59,Hombre,70-74,Mar,La Altagracia
+321,2011,Noviembre,Martes,18:00-23:59,Hombre,30-34,Río,Santo Domingo
+322,2011,Noviembre,Domingo,18:00-23:59,Hombre,50-54,Río,San Pedro de Macorís
+323,2011,Noviembre,Martes, 6:00-11:59,Hombre,45-49,Otros,Puerto Plata
+324,2011,Noviembre,Miércoles,12:00-17:59,Hombre,N/D,Mar,Samaná
+325,2011,Diciembre,Viernes, 6:00-11:59,Hombre,40-44,Río,La Vega
+326,2011,Diciembre,Miércoles, 6:00-11:59,Hombre,N/D,Río,Santiago
+327,2011,Diciembre,Viernes,18:00-23:59,Hombre,50-54,Mar,La Altagracia
+328,2011,Diciembre,Domingo, 6:00-11:59,Hombre,40-44,Mar,María Trinidad Sánchez
+329,2011,Diciembre,Domingo, 6:00-11:59,Hombre,N/D,Mar,María Trinidad Sánchez
+330,2011,Diciembre,Domingo, 6:00-11:59,Hombre,N/D,Mar,María Trinidad Sánchez
+331,2011,Diciembre,Lunes,12:00-17:59,Hombre,50-54,Río,San Cristóbal
+332,2011,Diciembre,Miércoles,12:00-17:59,Hombre,25-29,Canal,Monte Cristi
+333,2011,Diciembre,Lunes, 6:00-11:59,Hombre,0-4,Cubeta,Azua
+334,2011,Diciembre,Lunes,12:00-17:59,Hombre,80 y mas,Canal,Valverde
+335,2011,Diciembre,Lunes,12:00-17:59,Hombre,80 y mas,Mar,La Altagracia
+336,2011,Diciembre,Martes, 6:00-11:59,Hombre,9-May,Canal,Santiago
+337,2011,Diciembre,Miércoles, 6:00-11:59,Hombre,50-54,Mar,La Romana
+338,2011,Diciembre,Miércoles,12:00-17:59,Hombre,20-24,Río,Monte Plata
+339,2011,Diciembre,Sábado, 6:00-11:59,Hombre,15-19,Río,Peravia
+340,2011,Diciembre,Sábado,12:00-17:59,Hombre,60-64,Mar,Puerto Plata
+341,2011,Diciembre,Domingo,12:00-17:59,Hombre,55-59,Río,Espaillat
+342,2011,Diciembre,Domingo,18:00-23:59,Hombre,0-4,Cisterna,El Seybo
+343,2011,Diciembre,Lunes,18:00-23:59,Mujer,55-59,Mar,La Altagracia
+344,2011,Diciembre,Miércoles, 6:00-11:59,Hombre,N/D,Mar,Samaná
+345,2011,Diciembre,Domingo, 6:00-11:59,Mujer,0-4,Río,Monte Plata
+346,2011,Diciembre,Domingo,12:00-17:59,Hombre,9-May,Canal,La Vega
+347,2011,Diciembre,Lunes,18:00-23:59,Hombre,20-24,Río,Samaná
+348,2011,Diciembre,Lunes,18:00-23:59,Hombre,50-54,Otros,Puerto Plata
+349,2011,Diciembre,Martes,0:00-05:59,Hombre,N/D,Canal,Santiago
+350,2012,Enero,Domingo, 6:00-11:59,Mujer,40-44,Cubeta,San Juan
+351,2012,Enero,Domingo,12:00-17:59,Hombre,70-74,Mar,San Pedro de Macorís
+352,2012,Enero,Lunes, 6:00-11:59,Mujer,9-May,Pozo,Hato Mayor
+353,2012,Enero,Lunes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+354,2012,Enero,Martes,12:00-17:59,Hombre,55-59,Río,Espaillat
+355,2012,Enero,Miércoles,12:00-17:59,Hombre,25-29,Otros,Independencia
+356,2012,Enero,Domingo,12:00-17:59,Hombre,0-4,Canal,San Juan
+357,2012,Enero,Jueves,12:00-17:59,Mujer,25-29,Río,Distrito Nacional
+358,2012,Enero,Viernes,12:00-17:59,Hombre,20-24,Piscina,San Pedro de Macorís
+359,2012,Enero,Sábado, 6:00-11:59,Hombre,60-64,Mar,Puerto Plata
+360,2012,Enero,Lunes,12:00-17:59,Mujer,0-4,Cisterna,Santo Domingo
+361,2012,Enero,Martes,18:00-23:59,Hombre,0-4,Cubeta,Barahona
+362,2012,Enero,Jueves, 6:00-11:59,Hombre,70-74,Río,Duarte
+363,2012,Enero,Viernes,12:00-17:59,Hombre,65-69,Canal,Monte Cristi
+364,2012,Enero,Sábado,12:00-17:59,Hombre,25-29,Río,Santiago Rodriguez
+365,2012,Enero,Sábado,18:00-23:59,Hombre,N/D,Canal,Santiago
+366,2012,Enero,Miércoles,12:00-17:59,Hombre,25-29,Río,Santo Domingo
+367,2012,Enero,Miércoles,12:00-17:59,Hombre,50-54,Mar,Puerto Plata
+368,2012,Enero,Miércoles,12:00-17:59,Hombre,20-24,Otros,Santo Domingo
+369,2012,Enero,Jueves,18:00-23:59,Mujer,75-79,Mar,La Altagracia
+370,2012,Enero,Jueves,18:00-23:59,Hombre,30-34,Río,Monte Cristi
+371,2012,Enero,Viernes,12:00-17:59,Hombre,20-24,Río,Hermanas Mirabal
+372,2012,Enero,Lunes,12:00-17:59,Mujer,0-4,Cisterna,Puerto Plata
+373,2012,Enero,Martes,12:00-17:59,Hombre,0-4,Río,Puerto Plata
+374,2012,Febrero,Jueves,12:00-17:59,Mujer,0-4,Canal,Azua
+375,2012,Febrero,Jueves,12:00-17:59,Hombre,9-May,Río,La Vega
+376,2012,Febrero,Jueves,18:00-23:59,Hombre,50-54,Río,La Altagracia
+377,2012,Febrero,Sábado,12:00-17:59,Hombre,25-29,Río,San Cristóbal
+378,2012,Febrero,Domingo,12:00-17:59,Mujer,0-4,Canal,Azua
+379,2012,Febrero,Domingo, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+380,2012,Febrero,Domingo, 6:00-11:59,Hombre,14-Oct,Río,Santo Domingo
+381,2012,Febrero,Domingo,12:00-17:59,Hombre,0-4,Río,Duarte
+382,2012,Febrero,Lunes,0:00-05:59,Hombre,N/D,Piscina,Barahona
+383,2012,Febrero,Martes,12:00-17:59,Hombre,20-24,Río,Espaillat
+384,2012,Febrero,Jueves, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+385,2012,Febrero,Domingo,12:00-17:59,Mujer,14-Oct,Piscina,Santiago
+386,2012,Febrero,Domingo,12:00-17:59,Hombre,45-49,Río,Santiago
+387,2012,Febrero,Lunes, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+388,2012,Febrero,Martes,12:00-17:59,Hombre,60-64,Otros,Santo Domingo
+389,2012,Febrero,Miércoles, 6:00-11:59,Hombre,45-49,Canal,Duarte
+390,2012,Febrero,Sábado,18:00-23:59,Hombre,20-24,Río,Valverde
+391,2012,Febrero,Domingo,12:00-17:59,Hombre,14-Oct,Mar,La Altagracia
+392,2012,Febrero,Lunes,12:00-17:59,Hombre,40-44,Otros,Sánchez Ramírez
+393,2012,Febrero,Martes,18:00-23:59,Hombre,9-May,Río,Pedernales
+394,2012,Febrero,Martes,18:00-23:59,Hombre,N/D,Mar,San Pedro de Macorís
+395,2012,Marzo,Jueves, 6:00-11:59,Hombre,65-69,Otros,Dajabón
+396,2012,Marzo,Viernes,12:00-17:59,Hombre,0-4,Río,María Trinidad Sánchez
+397,2012,Marzo,Sábado,12:00-17:59,Hombre,20-24,Río,San Pedro de Macorís
+398,2012,Marzo,Domingo,18:00-23:59,Mujer,0-4,Cisterna,Sánchez Ramírez
+399,2012,Marzo,Domingo, 6:00-11:59,Hombre,15-19,Río,Barahona
+400,2012,Marzo,Domingo,12:00-17:59,Hombre,15-19,Río,Santiago
+401,2012,Marzo,Jueves,12:00-17:59,Hombre,65-69,Piscina,Samaná
+402,2012,Marzo,Sábado,12:00-17:59,Mujer,15-19,Río,Santiago Rodriguez
+403,2012,Marzo,Sábado,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+404,2012,Marzo,Domingo,12:00-17:59,Hombre,65-69,Piscina,San Pedro de Macorís
+405,2012,Marzo,Domingo,18:00-23:59,Hombre,40-44,Otros,Santo Domingo
+406,2012,Marzo,Lunes,18:00-23:59,Hombre,50-54,Canal,Hermanas Mirabal
+407,2012,Marzo,Viernes,18:00-23:59,Mujer,0-4,Cubeta,Distrito Nacional
+408,2012,Marzo,Sábado, 6:00-11:59,Hombre,20-24,Mar,Samaná
+409,2012,Marzo,Domingo,18:00-23:59,Hombre,55-59,Mar,María Trinidad Sánchez
+410,2012,Marzo,Martes,18:00-23:59,Hombre,0-4,Pozo,La Vega
+411,2012,Marzo,Sábado, 6:00-11:59,Hombre,20-24,Mar,Santo Domingo
+412,2012,Marzo,Domingo, 6:00-11:59,Hombre,9-May,Otros,San Pedro de Macorís
+413,2012,Marzo,Lunes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+414,2012,Marzo,Lunes,12:00-17:59,Hombre,0-4,Canal,Azua
+415,2012,Marzo,Martes,12:00-17:59,Hombre,45-49,Canal,La Vega
+416,2012,Marzo,Sábado,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+417,2012,Marzo,Sábado,18:00-23:59,Hombre,9-May,Río,Monseñor Nouel
+418,2012,Abril,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+419,2012,Abril,Domingo,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+420,2012,Abril,Lunes,12:00-17:59,Hombre,15-19,Mar,San Cristóbal
+421,2012,Abril,Lunes,12:00-17:59,Hombre,14-Oct,Río,San Juan
+422,2012,Abril,Martes,12:00-17:59,Hombre,20-24,Río,Puerto Plata
+423,2012,Abril,Martes,12:00-17:59,Hombre,14-Oct,Río,Monte Cristi
+424,2012,Abril,Miércoles,12:00-17:59,Hombre,N/D,Río,Barahona
+425,2012,Abril,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+426,2012,Abril,Miércoles,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+427,2012,Abril,Jueves,12:00-17:59,Hombre,25-29,Mar,Puerto Plata
+428,2012,Abril,Jueves,18:00-23:59,Hombre,15-19,Otros,Monte Cristi
+429,2012,Abril,Viernes, 6:00-11:59,Hombre,0-4,Pozo,Sánchez Ramírez
+430,2012,Abril,Viernes, 6:00-11:59,Hombre,70-74,Otros,San Juan
+431,2012,Abril,Sábado, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+432,2012,Abril,Sábado, 6:00-11:59,Hombre,15-19,Piscina,Santiago
+433,2012,Abril,Sábado,12:00-17:59,Hombre,15-19,Río,Santiago Rodriguez
+434,2012,Abril,Sábado,12:00-17:59,Hombre,25-29,Piscina,Santiago
+435,2012,Abril,Sábado,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+436,2012,Abril,Domingo, 6:00-11:59,Hombre,20-24,Otros,Santiago
+437,2012,Abril,Domingo, 6:00-11:59,Hombre,40-44,Río,El Seybo
+438,2012,Abril,Domingo,12:00-17:59,Hombre,0-4,Piscina,Santo Domingo
+439,2012,Abril,Domingo,12:00-17:59,Hombre,20-24,Mar,Peravia
+440,2012,Abril,Lunes,12:00-17:59,Hombre,9-May,Piscina,Santo Domingo
+441,2012,Abril,Lunes,12:00-17:59,Hombre,20-24,Otros,La Romana
+442,2012,Abril,Miércoles, 6:00-11:59,Mujer,25-29,Mar,La Altagracia
+443,2012,Abril,Miércoles, 6:00-11:59,Mujer,25-29,Mar,La Altagracia
+444,2012,Abril,Miércoles, 6:00-11:59,Hombre,30-34,Mar,La Altagracia
+445,2012,Abril,Jueves,18:00-23:59,Hombre,20-24,Río,Monte Plata
+446,2012,Abril,Domingo,12:00-17:59,Hombre,60-64,Río,María Trinidad Sánchez
+447,2012,Abril,Lunes, 6:00-11:59,Hombre,0-4,Río,Valverde
+448,2012,Abril,Viernes,18:00-23:59,Hombre,20-24,Río,San Juan
+449,2012,Abril,Sábado, 6:00-11:59,Hombre,20-24,Río,La Romana
+450,2012,Abril,Domingo,12:00-17:59,Hombre,20-24,Mar,San Cristóbal
+451,2012,Abril,Lunes,12:00-17:59,Hombre,80 y mas,Mar,La Altagracia
+452,2012,Abril,Lunes,12:00-17:59,Hombre,60-64,Río,Puerto Plata
+453,2012,Abril,Martes,12:00-17:59,Hombre,9-May,Cisterna,San Cristóbal
+454,2012,Abril,Martes,18:00-23:59,Hombre,15-19,Mar,San Pedro de Macorís
+455,2012,Abril,Miércoles,12:00-17:59,Hombre,70-74,Río,Hato Mayor
+456,2012,Abril,Jueves,12:00-17:59,Hombre,15-19,Río,La Vega
+457,2012,Abril,Sábado,12:00-17:59,Hombre,0-4,Otros,San Pedro de Macorís
+458,2012,Abril,Domingo,18:00-23:59,Hombre,60-64,Río,Sánchez Ramírez
+459,2012,Abril,Lunes,12:00-17:59,Hombre,15-19,Río,Valverde
+460,2012,Abril,Lunes,12:00-17:59,Hombre,14-Oct,Mar,Santo Domingo
+461,2012,Abril,Lunes,12:00-17:59,Hombre,45-49,Mar,Puerto Plata
+462,2012,Abril,Lunes,18:00-23:59,Hombre,15-19,Río,Peravia
+463,2012,Abril,Lunes,18:00-23:59,Hombre,30-34,Mar,Santo Domingo
+464,2012,Mayo,Martes,12:00-17:59,Hombre,0-4,Cubeta,Puerto Plata
+465,2012,Mayo,Miércoles,12:00-17:59,Hombre,30-34,Río,San Juan
+466,2012,Mayo,Viernes,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+467,2012,Mayo,Domingo, 6:00-11:59,Hombre,55-59,Río,Dajabón
+468,2012,Mayo,Domingo,18:00-23:59,Hombre,20-24,Río,Santo Domingo
+469,2012,Mayo,Domingo,18:00-23:59,Hombre,20-24,Río,Santo Domingo
+470,2012,Mayo,Domingo,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+471,2012,Mayo,Domingo,18:00-23:59,Hombre,14-Oct,Río,Santo Domingo
+472,2012,Mayo,Lunes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+473,2012,Mayo,Lunes,12:00-17:59,Hombre,15-19,Río,La Altagracia
+474,2012,Mayo,Martes,12:00-17:59,Hombre,55-59,Río,Monte Plata
+475,2012,Mayo,Martes,12:00-17:59,Hombre,25-29,Río,Espaillat
+476,2012,Mayo,Jueves, 6:00-11:59,Mujer,0-4,Cisterna,Samaná
+477,2012,Mayo,Viernes,12:00-17:59,Mujer,15-19,Río,La Altagracia
+478,2012,Mayo,Viernes,12:00-17:59,Hombre,25-29,Canal,Monte Cristi
+479,2012,Mayo,Sábado,12:00-17:59,Hombre,9-May,Río,Santiago
+480,2012,Mayo,Miércoles,12:00-17:59,Hombre,30-34,Río,Elías Pina
+481,2012,Mayo,Jueves, 6:00-11:59,Mujer,0-4,Cubeta,Puerto Plata
+482,2012,Mayo,Jueves,18:00-23:59,Mujer,0-4,Cubeta,Distrito Nacional
+483,2012,Mayo,Jueves,12:00-17:59,Hombre,0-4,Cisterna,Distrito Nacional
+484,2012,Mayo,Jueves,18:00-23:59,Hombre,9-May,Canal,Puerto Plata
+485,2012,Mayo,Jueves,18:00-23:59,Hombre,25-29,Río,Azua
+486,2012,Mayo,Viernes,12:00-17:59,Hombre,35-39,Río,Santiago
+487,2012,Mayo,Domingo, 6:00-11:59,Hombre,40-44,Río,Santiago
+488,2012,Mayo,Lunes,12:00-17:59,Hombre,0-4,Pozo,Sánchez Ramírez
+489,2012,Mayo,Lunes,18:00-23:59,Hombre,14-Oct,Río,San Juan
+490,2012,Mayo,Viernes, 6:00-11:59,Hombre,30-34,Mar,La Romana
+491,2012,Mayo,Sábado,12:00-17:59,Hombre,70-74,Mar,Distrito Nacional
+492,2012,Mayo,Domingo,12:00-17:59,Hombre,20-24,Otros,La Vega
+493,2012,Mayo,Lunes,18:00-23:59,Hombre,40-44,Otros,Santiago
+494,2012,Mayo,Miércoles, 6:00-11:59,Hombre,9-May,Río,San Cristóbal
+495,2012,Mayo,Jueves, 6:00-11:59,Hombre,30-34,Río,Distrito Nacional
+496,2012,Mayo,Jueves,18:00-23:59,Hombre,15-19,Río,La Vega
+497,2012,Junio,Viernes, 6:00-11:59,Mujer,40-44,Canal,Sánchez Ramírez
+498,2012,Junio,Sábado,18:00-23:59,Hombre,35-39,Río,Azua
+499,2012,Junio,Domingo,12:00-17:59,Hombre,14-Oct,Río,Puerto Plata
+500,2012,Junio,Domingo,12:00-17:59,Hombre,65-69,Otros,Dajabón
+501,2012,Junio,Domingo,18:00-23:59,Hombre,9-May,Río,Monte Plata
+502,2012,Junio,Lunes,18:00-23:59,Mujer,0-4,Río,Monte Plata
+503,2012,Junio,Lunes,18:00-23:59,Mujer,15-19,Canal,Dajabón
+504,2012,Junio,Martes,12:00-17:59,Hombre,0-4,Río,Puerto Plata
+505,2012,Junio,Miércoles,18:00-23:59,Hombre,9-May,Piscina,San Cristóbal
+506,2012,Junio,Miércoles,18:00-23:59,Hombre,15-19,Río,Puerto Plata
+507,2012,Junio,Jueves, 6:00-11:59,Mujer,50-54,Canal,Duarte
+508,2012,Junio,Jueves,12:00-17:59,Hombre,25-29,Mar,San Pedro de Macorís
+509,2012,Junio,Viernes,12:00-17:59,Hombre,25-29,Mar,Santo Domingo
+510,2012,Junio,Viernes,12:00-17:59,Hombre,45-49,Mar,El Seybo
+511,2012,Junio,Sábado,12:00-17:59,Hombre,35-39,Río,Barahona
+512,2012,Junio,Sábado,12:00-17:59,Hombre,25-29,Mar,Barahona
+513,2012,Junio,Sábado,18:00-23:59,Hombre,30-34,Río,Monseñor Nouel
+514,2012,Junio,Domingo,12:00-17:59,Hombre,N/D,Río,Samaná
+515,2012,Junio,Domingo,18:00-23:59,Hombre,15-19,Río,Espaillat
+516,2012,Junio,Lunes, 6:00-11:59,Hombre,N/D,Río,Distrito Nacional
+517,2012,Junio,Martes, 6:00-11:59,Hombre,0-4,Piscina,San Pedro de Macorís
+518,2012,Junio,Martes,18:00-23:59,Hombre,9-May,Cisterna,Monte Cristi
+519,2012,Junio,Jueves, 6:00-11:59,Hombre,25-29,Río,La Romana
+520,2012,Junio,Jueves,12:00-17:59,Hombre,40-44,Río,Hato Mayor
+521,2012,Junio,Jueves,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+522,2012,Junio,Viernes,12:00-17:59,Mujer,40-44,Río,Distrito Nacional
+523,2012,Junio,Sábado,18:00-23:59,Mujer,14-Oct,Río,María Trinidad Sánchez
+524,2012,Junio,Sábado,12:00-17:59,Hombre,15-19,Piscina,Puerto Plata
+525,2012,Junio,Sábado,18:00-23:59,Hombre,14-Oct,Mar,San Cristóbal
+526,2012,Junio,Domingo,12:00-17:59,Hombre,35-39,Canal,Monte Cristi
+527,2012,Junio,Jueves,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+528,2012,Junio,Jueves,12:00-17:59,Hombre,N/D,Río,María Trinidad Sánchez
+529,2012,Junio,Viernes,12:00-17:59,Mujer,14-Oct,Piscina,Santo Domingo
+530,2012,Junio,Domingo,18:00-23:59,Hombre,20-24,Río,Monte Plata
+531,2012,Junio,Martes,12:00-17:59,Hombre,15-19,Río,Santiago
+532,2012,Junio,Jueves,12:00-17:59,Hombre,20-24,Río,La Vega
+533,2012,Junio,Jueves,12:00-17:59,Hombre,0-4,Río,Samaná
+534,2012,Junio,Sábado, 6:00-11:59,Hombre,35-39,Canal,Santiago
+535,2012,Julio,Miércoles,12:00-17:59,Mujer,9-May,Cisterna,Distrito Nacional
+536,2012,Julio,Miércoles,12:00-17:59,Mujer,9-May,Cisterna,Distrito Nacional
+537,2012,Julio,Lunes,18:00-23:59,Mujer,0-4,Cisterna,Monte Cristi
+538,2012,Julio,Domingo,12:00-17:59,Hombre,9-May,Piscina,Santiago
+539,2012,Julio,Lunes,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+540,2012,Julio,Martes, 6:00-11:59,Hombre,9-May,Río,Duarte
+541,2012,Julio,Miércoles,12:00-17:59,Hombre,35-39,Río,La Vega
+542,2012,Julio,Miércoles,18:00-23:59,Hombre,9-May,Cisterna,Santo Domingo
+543,2012,Julio,Viernes,12:00-17:59,Hombre,30-34,Cisterna,San José de Ocoa
+544,2012,Julio,Sábado,18:00-23:59,Hombre,20-24,Río,La Romana
+545,2012,Julio,Domingo,12:00-17:59,Hombre,14-Oct,Río,María Trinidad Sánchez
+546,2012,Julio,Lunes,0:00-05:59,Hombre,20-24,Mar,Santo Domingo
+547,2012,Julio,Viernes,12:00-17:59,Hombre,45-49,Río,Santiago
+548,2012,Julio,Sábado,12:00-17:59,Hombre,15-19,Pozo,Santo Domingo
+549,2012,Julio,Domingo,0:00-05:59,Hombre,40-44,Río,San Pedro de Macorís
+550,2012,Julio,Domingo,12:00-17:59,Hombre,0-4,Río,Santiago
+551,2012,Julio,Domingo,12:00-17:59,Hombre,15-19,Otros,Sánchez Ramírez
+552,2012,Julio,Martes,12:00-17:59,Hombre,0-4,Otros,Santiago
+553,2012,Julio,Lunes, 6:00-11:59,Hombre,9-May,Otros,Santo Domingo
+554,2012,Julio,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+555,2012,Julio,Miércoles,12:00-17:59,Hombre,N/D,Mar,Monte Cristi
+556,2012,Julio,Jueves,12:00-17:59,Hombre,25-29,Mar,María Trinidad Sánchez
+557,2012,Julio,Jueves,18:00-23:59,Hombre,50-54,Mar,San Pedro de Macorís
+558,2012,Julio,Sábado,12:00-17:59,Hombre,35-39,Mar,San Pedro de Macorís
+559,2012,Julio,Sábado,12:00-17:59,Hombre,25-29,Otros,San Juan
+560,2012,Julio,Domingo,18:00-23:59,Hombre,9-May,Río,Santo Domingo
+561,2012,Agosto,Lunes,18:00-23:59,Mujer,45-49,Cisterna,Distrito Nacional
+562,2012,Agosto,Domingo,12:00-17:59,Mujer,0-4,Canal,Duarte
+563,2012,Agosto,Viernes,12:00-17:59,Hombre,9-May,Canal,Valverde
+564,2012,Agosto,Domingo,12:00-17:59,Hombre,20-24,Piscina,La Altagracia
+565,2012,Agosto,Domingo,12:00-17:59,Hombre,20-24,Mar,Peravia
+566,2012,Agosto,Lunes,12:00-17:59,Hombre,20-24,Otros,Independencia
+567,2012,Agosto,Lunes,18:00-23:59,Hombre,14-Oct,Canal,Santiago
+568,2012,Agosto,Miércoles,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+569,2012,Agosto,Jueves, 6:00-11:59,Hombre,0-4,Cisterna,Santo Domingo
+570,2012,Agosto,Sábado,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+571,2012,Agosto,Domingo,12:00-17:59,Hombre,9-May,Mar,Puerto Plata
+572,2012,Agosto,Sábado,18:00-23:59,Hombre,0-4,Canal,Monte Cristi
+573,2012,Agosto,Lunes,18:00-23:59,Hombre,15-19,Canal,Santiago
+574,2012,Agosto,Sábado, 6:00-11:59,Hombre,35-39,Río,Santo Domingo
+575,2012,Agosto,Sábado, 6:00-11:59,Hombre,N/D,Río,San Cristóbal
+576,2012,Agosto,Sábado, 6:00-11:59,Hombre,N/D,Río,Peravia
+577,2012,Agosto,Domingo,18:00-23:59,Hombre,25-29,Río,Santo Domingo
+578,2012,Agosto,Domingo,18:00-23:59,Hombre,15-19,Río,Peravia
+579,2012,Agosto,Domingo,18:00-23:59,Hombre,30-34,Río,Peravia
+580,2012,Agosto,Lunes, 6:00-11:59,Hombre,N/D,Mar,San Cristóbal
+581,2012,Agosto,Martes, 6:00-11:59,Hombre,N/D,Río,Santo Domingo
+582,2012,Agosto,Martes, 6:00-11:59,Hombre,55-59,Río,Santo Domingo
+583,2012,Agosto,Martes, 6:00-11:59,Hombre,N/D,Mar,Samaná
+584,2012,Agosto,Martes,12:00-17:59,Hombre,20-24,Otros,Bahoruco
+585,2012,Agosto,Miércoles, 6:00-11:59,Hombre,35-39,Río,Santo Domingo
+586,2012,Agosto,Miércoles, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+587,2012,Agosto,Miércoles,12:00-17:59,Hombre,35-39,Río,Monte Plata
+588,2012,Agosto,Miércoles,12:00-17:59,Hombre,30-34,Río,La Romana
+589,2012,Agosto,Viernes,12:00-17:59,Hombre,9-May,Río,Azua
+590,2012,Agosto,Viernes,18:00-23:59,Hombre,60-64,Canal,La Vega
+591,2012,Septiembre,Domingo, 6:00-11:59,Hombre,35-39,Río,Barahona
+592,2012,Septiembre,Domingo, 6:00-11:59,Hombre,25-29,Río,Monseñor Nouel
+593,2012,Septiembre,Lunes, 6:00-11:59,Hombre,20-24,Mar,San Cristóbal
+594,2012,Septiembre,Lunes,12:00-17:59,Hombre,20-24,Río,San Juan
+595,2012,Septiembre,Jueves,12:00-17:59,Hombre,60-64,Mar,Distrito Nacional
+596,2012,Septiembre,Jueves,18:00-23:59,Hombre,0-4,Cubeta,Santiago
+597,2012,Septiembre,Viernes,12:00-17:59,Hombre,25-29,Otros,San Pedro de Macorís
+598,2012,Septiembre,Domingo,12:00-17:59,Hombre,45-49,Mar,La Altagracia
+599,2012,Septiembre,Lunes,12:00-17:59,Mujer,0-4,Canal,Monte Cristi
+600,2012,Septiembre,Jueves,12:00-17:59,Hombre,35-39,Mar,Santo Domingo
+601,2012,Septiembre,Sábado,12:00-17:59,Hombre,20-24,Otros,Monte Cristi
+602,2012,Septiembre,Lunes, 6:00-11:59,Hombre,25-29,Mar,San Cristóbal
+603,2012,Septiembre,Lunes,12:00-17:59,Hombre,60-64,Canal,Santiago
+604,2012,Septiembre,Martes,12:00-17:59,Hombre,0-4,Canal,Valverde
+605,2012,Septiembre,Miércoles, 6:00-11:59,Hombre,35-39,Río,Espaillat
+606,2012,Septiembre,Jueves,12:00-17:59,Hombre,75-79,Mar,La Altagracia
+607,2012,Septiembre,Jueves,18:00-23:59,Hombre,30-34,Canal,Azua
+608,2012,Septiembre,Domingo,18:00-23:59,Hombre,14-Oct,Río,Santo Domingo
+609,2012,Septiembre,Lunes, 6:00-11:59,Hombre,40-44,Otros,Santo Domingo
+610,2012,Septiembre,Lunes,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+611,2012,Septiembre,Lunes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+612,2012,Septiembre,Lunes,12:00-17:59,Hombre,15-19,Río,Valverde
+613,2012,Septiembre,Martes,12:00-17:59,Hombre,14-Oct,Río,Santiago
+614,2012,Septiembre,Martes,18:00-23:59,Hombre,15-19,Otros,Distrito Nacional
+615,2012,Septiembre,Viernes, 6:00-11:59,Mujer,70-74,Canal,San Juan
+616,2012,Septiembre,Domingo,12:00-17:59,Hombre,30-34,Mar,Puerto Plata
+617,2012,Octubre,Lunes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+618,2012,Octubre,Lunes, 6:00-11:59,Hombre,14-Oct,Río,Santo Domingo
+619,2012,Octubre,Martes,18:00-23:59,Hombre,20-24,Río,Monte Plata
+620,2012,Octubre,Viernes, 6:00-11:59,Hombre,14-Oct,Río,Distrito Nacional
+621,2012,Octubre,Viernes,18:00-23:59,Hombre,55-59,Río,Monte Plata
+622,2012,Octubre,Sábado,12:00-17:59,Mujer,0-4,Pozo,Espaillat
+623,2012,Octubre,Sábado,12:00-17:59,Mujer,9-May,Cisterna,Santo Domingo
+624,2012,Octubre,Domingo,18:00-23:59,Hombre,45-49,Río,La Romana
+625,2012,Octubre,Martes,12:00-17:59,Mujer,30-34,Canal,Santiago
+626,2012,Octubre,Viernes, 6:00-11:59,Hombre,65-69,Río,Santo Domingo
+627,2012,Octubre,Sábado,12:00-17:59,Hombre,15-19,Otros,San Pedro de Macorís
+628,2012,Octubre,Domingo, 6:00-11:59,Hombre,35-39,Río,Santo Domingo
+629,2012,Octubre,Domingo,12:00-17:59,Hombre,9-May,Piscina,Distrito Nacional
+630,2012,Octubre,Lunes,12:00-17:59,Mujer,0-4,Canal,Valverde
+631,2012,Octubre,Viernes,18:00-23:59,Hombre,15-19,Río,Santiago
+632,2012,Octubre,Domingo, 6:00-11:59,Hombre,15-19,Río,Peravia
+633,2012,Octubre,Lunes,18:00-23:59,Hombre,0-4,Cisterna,La Altagracia
+634,2012,Octubre,Jueves,18:00-23:59,Hombre,20-24,Otros,San Pedro de Macorís
+635,2012,Octubre,Viernes, 6:00-11:59,Hombre,35-39,Río,San Pedro de Macorís
+636,2012,Octubre,Viernes, 6:00-11:59,Hombre,20-24,Río,La Altagracia
+637,2012,Octubre,Viernes,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+638,2012,Octubre,Viernes,12:00-17:59,Hombre,35-39,Río,La Altagracia
+639,2012,Octubre,Viernes,12:00-17:59,Hombre,40-44,Río,San Cristóbal
+640,2012,Octubre,Sábado,18:00-23:59,Mujer,15-19,Río,Monte Plata
+641,2012,Octubre,Sábado, 6:00-11:59,Hombre,35-39,Río,Peravia
+642,2012,Octubre,Sábado, 6:00-11:59,Hombre,15-19,Río,Peravia
+643,2012,Octubre,Sábado,12:00-17:59,Hombre,30-34,Río,La Altagracia
+644,2012,Octubre,Sábado,12:00-17:59,Hombre,20-24,Río,Azua
+645,2012,Octubre,Sábado,18:00-23:59,Hombre,50-54,Otros,Independencia
+646,2012,Octubre,Domingo,18:00-23:59,Hombre,20-24,Río,San José de Ocoa
+647,2012,Octubre,Lunes, 6:00-11:59,Hombre,60-64,Río,San Juan
+648,2012,Octubre,Lunes,18:00-23:59,Hombre,9-May,Cisterna,Santo Domingo
+649,2012,Octubre,Lunes,18:00-23:59,Hombre,15-19,Otros,Sánchez Ramírez
+650,2012,Octubre,Martes, 6:00-11:59,Hombre,40-44,Mar,Distrito Nacional
+651,2012,Octubre,Miércoles,12:00-17:59,Hombre,30-34,Mar,Santo Domingo
+652,2012,Octubre,Miércoles,18:00-23:59,Hombre,0-4,Cubeta,Puerto Plata
+653,2012,Noviembre,Viernes,12:00-17:59,Hombre,N/D,Río,Monseñor Nouel
+654,2012,Noviembre,Lunes,12:00-17:59,Hombre,14-Oct,Mar,Barahona
+655,2012,Noviembre,Miércoles,12:00-17:59,Hombre,9-May,Río,La Vega
+656,2012,Noviembre,Miércoles,12:00-17:59,Hombre,9-May,Río,La Vega
+657,2012,Noviembre,Viernes,12:00-17:59,Hombre,50-54,Río,Santo Domingo
+658,2012,Noviembre,Lunes,12:00-17:59,Mujer,9-May,Piscina,Puerto Plata
+659,2012,Noviembre,Lunes,12:00-17:59,Mujer,40-44,Río,Azua
+660,2012,Noviembre,Lunes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+661,2012,Noviembre,Lunes, 6:00-11:59,Hombre,N/D,Río,San Cristóbal
+662,2012,Noviembre,Miércoles,12:00-17:59,Hombre,14-Oct,Mar,Santo Domingo
+663,2012,Noviembre,Jueves,12:00-17:59,Hombre,35-39,Otros,El Seybo
+664,2012,Noviembre,Domingo,18:00-23:59,Hombre,75-79,Otros,Santiago
+665,2012,Noviembre,Lunes, 6:00-11:59,Mujer,9-May,Otros,Santiago
+666,2012,Noviembre,Lunes, 6:00-11:59,Hombre,20-24,Otros,Santiago
+667,2012,Noviembre,Martes,12:00-17:59,Hombre,15-19,Río,San José de Ocoa
+668,2012,Noviembre,Viernes,12:00-17:59,Mujer,0-4,Cubeta,Monte Cristi
+669,2012,Noviembre,Viernes,12:00-17:59,Mujer,9-May,Otros,La Altagracia
+670,2012,Noviembre,Viernes,12:00-17:59,Hombre,45-49,Río,San Pedro de Macorís
+671,2012,Noviembre,Domingo, 6:00-11:59,Hombre,45-49,Otros,Barahona
+672,2012,Noviembre,Martes,18:00-23:59,Hombre,55-59,Otros,Monte Plata
+673,2012,Diciembre,Miércoles,18:00-23:59,Hombre,65-69,Río,Santiago
+674,2012,Diciembre,Sábado,12:00-17:59,Hombre,30-34,Río,La Altagracia
+675,2012,Diciembre,Lunes,12:00-17:59,Hombre,70-74,Río,La Altagracia
+676,2012,Diciembre,Martes,12:00-17:59,Hombre,N/D,Mar,La Altagracia
+677,2012,Diciembre,Miércoles,12:00-17:59,Mujer,0-4,Cubeta,Azua
+678,2012,Diciembre,Viernes, 6:00-11:59,Hombre,N/D,Mar,Barahona
+679,2012,Diciembre,Sábado,18:00-23:59,Mujer,14-Oct,Río,San Cristóbal
+680,2012,Diciembre,Lunes,12:00-17:59,Hombre,50-54,Río,La Vega
+681,2012,Diciembre,Lunes,12:00-17:59,Hombre,30-34,Río,Sánchez Ramírez
+682,2012,Diciembre,Miércoles, 6:00-11:59,Hombre,0-4,Otros,San Cristóbal
+683,2012,Diciembre,Miércoles,12:00-17:59,Hombre,15-19,Mar,Espaillat
+684,2012,Diciembre,Domingo, 6:00-11:59,Hombre,65-69,Mar,Samaná
+685,2012,Diciembre,Domingo,18:00-23:59,Hombre,65-69,Otros,Monte Cristi
+686,2012,Diciembre,Jueves, 6:00-11:59,Hombre,20-24,Canal,San Juan
+687,2012,Diciembre,Jueves, 6:00-11:59,Hombre,65-69,Río,Monte Plata
+688,2012,Diciembre,Jueves,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+689,2012,Diciembre,Viernes,12:00-17:59,Hombre,0-4,Río,La Vega
+690,2013,Enero,Miércoles, 6:00-11:59,Hombre,20-24,Canal,Santiago
+691,2013,Enero,Sábado,12:00-17:59,Hombre,N/D,Río,Distrito Nacional
+692,2013,Enero,Domingo,18:00-23:59,Hombre,30-34,Mar,El Seybo
+693,2013,Enero,Domingo,18:00-23:59,Hombre,N/D,Río,San Cristóbal
+694,2013,Enero,Lunes,12:00-17:59,Hombre,55-59,Mar,Distrito Nacional
+695,2013,Enero,Miércoles,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+696,2013,Enero,Domingo,12:00-17:59,Hombre,25-29,Piscina,La Vega
+697,2013,Enero,Domingo,12:00-17:59,Hombre,N/D,Río,Santiago
+698,2013,Enero,Domingo,12:00-17:59,Hombre,0-4,Otros,La Altagracia
+699,2013,Enero,Lunes,18:00-23:59,Hombre,45-49,Mar,Puerto Plata
+700,2013,Enero,Jueves,18:00-23:59,Hombre,0-4,Cubeta,Santo Domingo
+701,2013,Enero,Viernes,12:00-17:59,Hombre,45-49,Otros,Espaillat
+702,2013,Enero,Sábado,12:00-17:59,Hombre,0-4,Cubeta,Distrito Nacional
+703,2013,Enero,Miércoles,12:00-17:59,Hombre,50-54,Mar,La Altagracia
+704,2013,Enero,Sábado, 6:00-11:59,Hombre,20-24,Piscina,Peravia
+705,2013,Enero,Sábado,12:00-17:59,Hombre,70-74,Mar,La Altagracia
+706,2013,Enero,Sábado,12:00-17:59,Hombre,0-4,Canal,Independencia
+707,2013,Enero,Sábado,12:00-17:59,Hombre,35-39,Río,Monte Plata
+708,2013,Enero,Lunes,18:00-23:59,Mujer,14-Oct,Piscina,Distrito Nacional
+709,2013,Enero,Lunes,18:00-23:59,Mujer,14-Oct,Piscina,Distrito Nacional
+710,2013,Febrero,Viernes, 6:00-11:59,Hombre,40-44,Canal,Monseñor Nouel
+711,2013,Febrero,Lunes, 6:00-11:59,Hombre,N/D,Mar,Santo Domingo
+712,2013,Febrero,Martes, 6:00-11:59,Mujer,55-59,Mar,Barahona
+713,2013,Febrero,Viernes, 6:00-11:59,Hombre,70-74,Río,La Altagracia
+714,2013,Febrero,Domingo,12:00-17:59,Hombre,20-24,Río,La Altagracia
+715,2013,Febrero,Domingo,18:00-23:59,Hombre,35-39,Río,Santo Domingo
+716,2013,Febrero,Lunes,12:00-17:59,Hombre,65-69,Mar,Samaná
+717,2013,Febrero,Miércoles,18:00-23:59,Mujer,0-4,Canal,Bahoruco
+718,2013,Febrero,Martes,12:00-17:59,Hombre,9-May,Piscina,La Romana
+719,2013,Febrero,Martes,12:00-17:59,Hombre,9-May,Piscina,La Romana
+720,2013,Febrero,Miércoles,12:00-17:59,Hombre,75-79,Río,Santiago
+721,2013,Febrero,Martes,12:00-17:59,Hombre,30-34,Río,Monseñor Nouel
+722,2013,Febrero,Martes,12:00-17:59,Hombre,35-39,Mar,La Romana
+723,2013,Febrero,Miércoles, 6:00-11:59,Hombre,0-4,Río,San Cristóbal
+724,2013,Marzo,Sábado, 6:00-11:59,Hombre,N/D,Mar,Santo Domingo
+725,2013,Marzo,Sábado,12:00-17:59,Mujer,0-4,Cubeta,El Seybo
+726,2013,Marzo,Sábado,18:00-23:59,Hombre,20-24,Otros,La Vega
+727,2013,Marzo,Domingo,12:00-17:59,Mujer,0-4,Cubeta,San Pedro de Macorís
+728,2013,Marzo,Domingo,12:00-17:59,Hombre,35-39,Pozo,La Vega
+729,2013,Marzo,Jueves,12:00-17:59,Hombre,15-19,Río,Puerto Plata
+730,2013,Marzo,Domingo,12:00-17:59,Hombre,0-4,Río,Peravia
+731,2013,Marzo,Domingo,12:00-17:59,Hombre,15-19,Río,Peravia
+732,2013,Marzo,Lunes, 6:00-11:59,Hombre,55-59,Canal,Santiago
+733,2013,Marzo,Martes, 6:00-11:59,Hombre,45-49,Mar,Puerto Plata
+734,2013,Marzo,Miércoles,12:00-17:59,Mujer,80 y mas,Río,Duarte
+735,2013,Marzo,Miércoles,18:00-23:59,Hombre,0-4,Canal,San Juan
+736,2013,Marzo,Jueves,18:00-23:59,Hombre,40-44,Mar,Azua
+737,2013,Marzo,Viernes,12:00-17:59,Mujer,0-4,Piscina,Santiago
+738,2013,Marzo,Viernes,12:00-17:59,Hombre,0-4,Cubeta,Santiago
+739,2013,Marzo,Sábado, 6:00-11:59,Hombre,60-64,Mar,Samaná
+740,2013,Marzo,Sábado,12:00-17:59,Mujer,14-Oct,Otros,Monte Cristi
+741,2013,Marzo,Sábado,12:00-17:59,Hombre,50-54,Río,Santo Domingo
+742,2013,Marzo,Lunes,12:00-17:59,Hombre,20-24,Río,Distrito Nacional
+743,2013,Marzo,Miércoles,12:00-17:59,Hombre,14-Oct,Mar,Santo Domingo
+744,2013,Marzo,Jueves, 6:00-11:59,Hombre,55-59,Canal,Santiago
+745,2013,Marzo,Viernes,18:00-23:59,Hombre,15-19,Río,Peravia
+746,2013,Marzo,Domingo, 6:00-11:59,Hombre,30-34,Cisterna,Santo Domingo
+747,2013,Marzo,Domingo,12:00-17:59,Mujer,0-4,Cisterna,Santo Domingo
+748,2013,Marzo,Domingo,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+749,2013,Marzo,Domingo,18:00-23:59,Hombre,20-24,Río,Peravia
+750,2013,Marzo,Lunes,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+751,2013,Marzo,Lunes,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+752,2013,Marzo,Martes, 6:00-11:59,Mujer,N/D,Mar,Santo Domingo
+753,2013,Marzo,Martes, 6:00-11:59,Hombre,40-44,Río,Elías Pina
+754,2013,Marzo,Martes,12:00-17:59,Hombre,35-39,Río,La Altagracia
+755,2013,Marzo,Martes,12:00-17:59,Mujer,9-May,Río,La Altagracia
+756,2013,Marzo,Martes,12:00-17:59,Hombre,9-May,Río,Monte Plata
+757,2013,Marzo,Miércoles,12:00-17:59,Hombre,20-24,Río,Santiago
+758,2013,Marzo,Viernes,12:00-17:59,Hombre,45-49,Mar,Santo Domingo
+759,2013,Marzo,Viernes,12:00-17:59,Hombre,15-19,Mar,María Trinidad Sánchez
+760,2013,Marzo,Domingo, 6:00-11:59,Mujer,20-24,Mar,San Pedro de Macorís
+761,2013,Marzo,Domingo,18:00-23:59,Mujer,0-4,Piscina,La Altagracia
+762,2013,Abril,Lunes,12:00-17:59,Hombre,14-Oct,Piscina,Distrito Nacional
+763,2013,Abril,Miércoles,18:00-23:59,Hombre,0-4,Río,Monte Plata
+764,2013,Abril,Viernes,0:00-05:59,Hombre,N/D,Pozo,Distrito Nacional
+765,2013,Abril,Viernes,18:00-23:59,Hombre,40-44,Río,Santiago
+766,2013,Abril,Sábado,18:00-23:59,Hombre,25-29,Cisterna,Santo Domingo
+767,2013,Abril,Domingo,12:00-17:59,Hombre,30-34,Río,San Pedro de Macorís
+768,2013,Abril,Domingo,12:00-17:59,Hombre,40-44,Mar,Puerto Plata
+769,2013,Abril,Domingo,18:00-23:59,Hombre,9-May,Río,Peravia
+770,2013,Abril,Lunes,12:00-17:59,Hombre,0-4,Río,San Cristóbal
+771,2013,Abril,Lunes,12:00-17:59,Hombre,45-49,Mar,La Altagracia
+772,2013,Abril,Miércoles,12:00-17:59,Mujer,0-4,Piscina,Samaná
+773,2013,Abril,Jueves,0:00-05:59,Hombre,N/D,Mar,Santo Domingo
+774,2013,Abril,Viernes,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+775,2013,Abril,Sábado, 6:00-11:59,Hombre,45-49,Río,Santiago
+776,2013,Abril,Sábado, 6:00-11:59,Hombre,15-19,Mar,San Cristóbal
+777,2013,Abril,Miércoles, 6:00-11:59,Hombre,N/D,Río,Distrito Nacional
+778,2013,Abril,Jueves, 6:00-11:59,Hombre,0-4,Otros,Santo Domingo
+779,2013,Abril,Sábado,18:00-23:59,Hombre,25-29,Canal,Peravia
+780,2013,Abril,Sábado,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+781,2013,Abril,Sábado,18:00-23:59,Hombre,35-39,Mar,Santo Domingo
+782,2013,Abril,Domingo,12:00-17:59,Mujer,15-19,Río,La Altagracia
+783,2013,Abril,Lunes,12:00-17:59,Hombre,25-29,Río,Santo Domingo
+784,2013,Abril,Martes, 6:00-11:59,Hombre,65-69,Río,Santiago
+785,2013,Abril,Jueves, 6:00-11:59,Hombre,55-59,Otros,Independencia
+786,2013,Abril,Jueves,18:00-23:59,Mujer,0-4,Río,Dajabón
+787,2013,Abril,Viernes,0:00-05:59,Hombre,40-44,Otros,Azua
+788,2013,Abril,Sábado, 6:00-11:59,Hombre,20-24,Mar,María Trinidad Sánchez
+789,2013,Abril,Sábado,12:00-17:59,Hombre,9-May,Río,Dajabón
+790,2013,Abril,Sábado,18:00-23:59,Hombre,40-44,Mar,Distrito Nacional
+791,2013,Abril,Domingo,12:00-17:59,Hombre,9-May,Río,Monte Plata
+792,2013,Abril,Lunes,12:00-17:59,Mujer,14-Oct,Río,Peravia
+793,2013,Abril,Lunes,12:00-17:59,Hombre,30-34,Río,Peravia
+794,2013,Abril,Lunes,12:00-17:59,Hombre,35-39,Piscina,Santo Domingo
+795,2013,Abril,Lunes,12:00-17:59,Hombre,20-24,Río,San Cristóbal
+796,2013,Abril,Lunes,12:00-17:59,Mujer,9-May,Cisterna,Santo Domingo
+797,2013,Abril,Lunes,18:00-23:59,Hombre,20-24,Otros,Santiago
+798,2013,Abril,Lunes,18:00-23:59,Hombre,25-29,Río,Sánchez Ramírez
+799,2013,Abril,Martes, 6:00-11:59,Mujer,N/D,Río,Distrito Nacional
+800,2013,Mayo,Jueves,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+801,2013,Mayo,Viernes,12:00-17:59,Hombre,35-39,Otros,Sánchez Ramírez
+802,2013,Mayo,Viernes,12:00-17:59,Hombre,25-29,Mar,Samaná
+803,2013,Mayo,Domingo,12:00-17:59,Mujer,14-Oct,Mar,Puerto Plata
+804,2013,Mayo,Jueves, 6:00-11:59,Hombre,50-54,Mar,Samaná
+805,2013,Mayo,Lunes, 6:00-11:59,Hombre,15-19,Pozo,San José de Ocoa
+806,2013,Mayo,Lunes,12:00-17:59,Hombre,20-24,Mar,La Altagracia
+807,2013,Mayo,Miércoles,12:00-17:59,Hombre,14-Oct,Canal,Santiago
+808,2013,Mayo,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Puerto Plata
+809,2013,Mayo,Jueves,12:00-17:59,Mujer,0-4,Canal,Valverde
+810,2013,Mayo,Jueves,12:00-17:59,Hombre,9-May,Canal,Bahoruco
+811,2013,Mayo,Viernes,18:00-23:59,Hombre,14-Oct,Río,La Altagracia
+812,2013,Mayo,Sábado,18:00-23:59,Hombre,9-May,Otros,Monte Cristi
+813,2013,Mayo,Domingo,12:00-17:59,Mujer,9-May,Piscina,Puerto Plata
+814,2013,Mayo,Jueves,18:00-23:59,Hombre,15-19,Río,Distrito Nacional
+815,2013,Mayo,Martes,18:00-23:59,Hombre,N/D,Canal,Independencia
+816,2013,Junio,Sábado,12:00-17:59,Hombre,80 y mas,Cisterna,Espaillat
+817,2013,Junio,Martes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+818,2013,Junio,Miércoles,12:00-17:59,Hombre,40-44,Río,Monte Plata
+819,2013,Junio,Jueves, 6:00-11:59,Hombre,0-4,Cubeta,Valverde
+820,2013,Junio,Viernes, 6:00-11:59,Mujer,55-59,Cubeta,Azua
+821,2013,Junio,Sábado, 6:00-11:59,Hombre,35-39,Río,Santo Domingo
+822,2013,Junio,Sábado,12:00-17:59,Hombre,45-49,Canal,Duarte
+823,2013,Junio,Lunes, 6:00-11:59,Hombre,55-59,Otros,Independencia
+824,2013,Junio,Lunes,12:00-17:59,Hombre,0-4,Cubeta,San Cristóbal
+825,2013,Junio,Lunes,18:00-23:59,Hombre,55-59,Mar,Santo Domingo
+826,2013,Junio,Martes, 6:00-11:59,Hombre,30-34,Río,Santo Domingo
+827,2013,Junio,Martes, 6:00-11:59,Hombre,20-24,Otros,Peravia
+828,2013,Junio,Martes,12:00-17:59,Hombre,70-74,Otros,Sánchez Ramírez
+829,2013,Junio,Miércoles,12:00-17:59,Hombre,15-19,Otros,Monte Plata
+830,2013,Junio,Miércoles,12:00-17:59,Hombre,15-19,Pozo,Distrito Nacional
+831,2013,Junio,Miércoles,12:00-17:59,Hombre,20-24,Río,Monseñor Nouel
+832,2013,Junio,Jueves,12:00-17:59,Hombre,35-39,Mar,Puerto Plata
+833,2013,Junio,Jueves,18:00-23:59,Hombre,0-4,Cubeta,Santo Domingo
+834,2013,Junio,Viernes, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+835,2013,Junio,Sábado,12:00-17:59,Hombre,45-49,Mar,Distrito Nacional
+836,2013,Junio,Sábado,12:00-17:59,Hombre,0-4,Río,La Vega
+837,2013,Junio,Domingo,12:00-17:59,Hombre,9-May,Río,Santo Domingo
+838,2013,Junio,Domingo,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+839,2013,Junio,Domingo,12:00-17:59,Hombre,25-29,Río,Monte Plata
+840,2013,Junio,Domingo,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+841,2013,Junio,Lunes,12:00-17:59,Mujer,0-4,Cubeta,San Juan
+842,2013,Junio,Lunes,12:00-17:59,Mujer,30-34,Mar,Distrito Nacional
+843,2013,Junio,Lunes,12:00-17:59,Hombre,0-4,Río,Peravia
+844,2013,Junio,Miércoles, 6:00-11:59,Hombre,0-4,Piscina,San José de Ocoa
+845,2013,Junio,Jueves, 6:00-11:59,Mujer,0-4,Piscina,Samaná
+846,2013,Junio,Martes,18:00-23:59,Hombre,0-4,Otros,Independencia
+847,2013,Junio,Miércoles,18:00-23:59,Hombre,20-24,Río,Duarte
+848,2013,Junio,Miércoles,18:00-23:59,Hombre,N/D,Canal,Azua
+849,2013,Junio,Jueves,12:00-17:59,Hombre,65-69,Río,Puerto Plata
+850,2013,Junio,Jueves,12:00-17:59,Hombre,35-39,Río,Santo Domingo
+851,2013,Junio,Viernes,18:00-23:59,Hombre,35-39,Río,Santo Domingo
+852,2013,Junio,Sábado,12:00-17:59,Hombre,0-4,Piscina,San Pedro de Macorís
+853,2013,Junio,Domingo,12:00-17:59,Hombre,75-79,Río,Santo Domingo
+854,2013,Junio,Domingo,12:00-17:59,Hombre,20-24,Río,Monseñor Nouel
+855,2013,Junio,Domingo,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+856,2013,Junio,Domingo, 6:00-11:59,Hombre,15-19,Mar,San Cristóbal
+857,2013,Julio,Lunes, 6:00-11:59,Hombre,30-34,Mar,San Pedro de Macorís
+858,2013,Julio,Martes, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+859,2013,Julio,Viernes, 6:00-11:59,Hombre,15-19,Pozo,Samaná
+860,2013,Julio,Viernes, 6:00-11:59,Hombre,0-4,Canal,Valverde
+861,2013,Julio,Viernes, 6:00-11:59,Hombre,25-29,Río,Duarte
+862,2013,Julio,Domingo, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+863,2013,Julio,Domingo,12:00-17:59,Mujer,15-19,Río,Puerto Plata
+864,2013,Julio,Miércoles, 6:00-11:59,Hombre,15-19,Otros,Monseñor Nouel
+865,2013,Julio,Miércoles, 6:00-11:59,Hombre,15-19,Río,Hermanas Mirabal
+866,2013,Julio,Sábado,12:00-17:59,Hombre,45-49,Río,San Cristóbal
+867,2013,Julio,Sábado,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+868,2013,Julio,Sábado,12:00-17:59,Hombre,9-May,Río,La Altagracia
+869,2013,Julio,Domingo,12:00-17:59,Mujer,20-24,Río,San Cristóbal
+870,2013,Julio,Domingo,12:00-17:59,Hombre,9-May,Pozo,Santo Domingo
+871,2013,Julio,Domingo,12:00-17:59,Hombre,9-May,Pozo,Santo Domingo
+872,2013,Julio,Martes,18:00-23:59,Mujer,0-4,Cisterna,San Pedro de Macorís
+873,2013,Julio,Miércoles, 6:00-11:59,Mujer,0-4,Cubeta,Santo Domingo
+874,2013,Julio,Jueves,18:00-23:59,Hombre,40-44,Otros,Monte Cristi
+875,2013,Julio,Viernes,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+876,2013,Julio,Viernes,18:00-23:59,Hombre,0-4,Cisterna,La Altagracia
+877,2013,Julio,Sábado, 6:00-11:59,Hombre,15-19,Río,San Juan
+878,2013,Julio,Domingo,0:00-05:59,Hombre,20-24,Mar,Santo Domingo
+879,2013,Julio,Lunes,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+880,2013,Julio,Lunes,18:00-23:59,Mujer,0-4,Cubeta,Barahona
+881,2013,Julio,Martes,12:00-17:59,Hombre,25-29,Río,Duarte
+882,2013,Julio,Martes,12:00-17:59,Mujer,N/D,Mar,San Pedro de Macorís
+883,2013,Julio,Martes,12:00-17:59,Hombre,55-59,Canal,Independencia
+884,2013,Julio,Miércoles,12:00-17:59,Hombre,14-Oct,Piscina,La Altagracia
+885,2013,Julio,Miércoles,12:00-17:59,Hombre,30-34,Mar,Distrito Nacional
+886,2013,Julio,Miércoles,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+887,2013,Julio,Viernes,12:00-17:59,Hombre,15-19,Río,El Seybo
+888,2013,Julio,Viernes,12:00-17:59,Hombre,20-24,Río,Espaillat
+889,2013,Julio,Sábado,12:00-17:59,Hombre,25-29,Río,Santo Domingo
+890,2013,Julio,Sábado,18:00-23:59,Hombre,20-24,Río,San Cristóbal
+891,2013,Julio,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+892,2013,Julio,Lunes,12:00-17:59,Hombre,14-Oct,Canal,Monte Cristi
+893,2013,Julio,Lunes, 6:00-11:59,Hombre,65-69,Canal,Monseñor Nouel
+894,2013,Julio,Miércoles, 6:00-11:59,Hombre,14-Oct,Río,La Altagracia
+895,2013,Julio,Miércoles,12:00-17:59,Hombre,30-34,Canal,Sánchez Ramírez
+896,2013,Agosto,Jueves,12:00-17:59,Hombre,9-May,Río,Espaillat
+897,2013,Agosto,Viernes,18:00-23:59,Hombre,25-29,Río,Barahona
+898,2013,Agosto,Viernes,18:00-23:59,Hombre,0-4,Río,San Pedro de Macorís
+899,2013,Agosto,Sábado,18:00-23:59,Hombre,0-4,Canal,Barahona
+900,2013,Agosto,Sábado,0:00-05:59,Mujer,35-39,Mar,Puerto Plata
+901,2013,Agosto,Domingo, 6:00-11:59,Mujer,9-May,Río,Santo Domingo
+902,2013,Agosto,Domingo, 6:00-11:59,Hombre,0-4,Piscina,María Trinidad Sánchez
+903,2013,Agosto,Domingo,12:00-17:59,Hombre,9-May,Río,Santo Domingo
+904,2013,Agosto,Domingo,18:00-23:59,Hombre,9-May,Río,Monte Plata
+905,2013,Agosto,Domingo,18:00-23:59,Hombre,45-49,Piscina,Santiago
+906,2013,Agosto,Lunes,12:00-17:59,Hombre,20-24,Río,Monte Plata
+907,2013,Agosto,Martes, 6:00-11:59,Hombre,40-44,Mar,Barahona
+908,2013,Agosto,Martes, 6:00-11:59,Hombre,0-4,Cisterna,La Vega
+909,2013,Agosto,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+910,2013,Agosto,Jueves,12:00-17:59,Hombre,70-74,Mar,San Cristóbal
+911,2013,Agosto,Jueves,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+912,2013,Agosto,Viernes,12:00-17:59,Hombre,9-May,Canal,La Vega
+913,2013,Agosto,Sábado,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+914,2013,Agosto,Sábado,12:00-17:59,Hombre,60-64,Río,Samaná
+915,2013,Agosto,Sábado,18:00-23:59,Hombre,25-29,Río,Peravia
+916,2013,Agosto,Sábado,18:00-23:59,Hombre,30-34,Canal,Azua
+917,2013,Agosto,Domingo,12:00-17:59,Mujer,0-4,Cubeta,Puerto Plata
+918,2013,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,La Vega
+919,2013,Agosto,Domingo,12:00-17:59,Mujer,14-Oct,Río,Santiago
+920,2013,Agosto,Domingo,12:00-17:59,Hombre,55-59,Mar,Samaná
+921,2013,Agosto,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+922,2013,Agosto,Jueves, 6:00-11:59,Hombre,20-24,Pozo,Monseñor Nouel
+923,2013,Agosto,Viernes,18:00-23:59,Hombre,25-29,Piscina,Santo Domingo
+924,2013,Agosto,Domingo, 6:00-11:59,Hombre,9-May,Canal,Duarte
+925,2013,Agosto,Domingo,18:00-23:59,Hombre,30-34,Piscina,Santiago
+926,2013,Agosto,Martes, 6:00-11:59,Hombre,80 y mas,Canal,Duarte
+927,2013,Agosto,Miércoles, 6:00-11:59,Mujer,0-4,Piscina,San Cristóbal
+928,2013,Agosto,Jueves, 6:00-11:59,Hombre,50-54,Cisterna,Monte Cristi
+929,2013,Agosto,Jueves,18:00-23:59,Hombre,14-Oct,Río,Santo Domingo
+930,2013,Agosto,Viernes, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+931,2013,Agosto,Sábado,18:00-23:59,Mujer,35-39,Río,Santiago
+932,2013,Agosto,Sábado,18:00-23:59,Hombre,14-Oct,Río,Santiago
+933,2013,Septiembre,Domingo, 6:00-11:59,Hombre,30-34,Río,Distrito Nacional
+934,2013,Septiembre,Domingo,0:00-05:59,Hombre,75-79,Mar,Puerto Plata
+935,2013,Septiembre,Martes,12:00-17:59,Mujer,0-4,Piscina,La Altagracia
+936,2013,Septiembre,Miércoles,12:00-17:59,Mujer,0-4,Piscina,Samaná
+937,2013,Septiembre,Sábado,12:00-17:59,Hombre,0-4,Cubeta,La Romana
+938,2013,Septiembre,Domingo,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+939,2013,Septiembre,Domingo,12:00-17:59,Hombre,80 y mas,Río,Duarte
+940,2013,Septiembre,Domingo,0:00-05:59,Mujer,25-29,Río,La Vega
+941,2013,Septiembre,Martes,18:00-23:59,Hombre,45-49,Canal,Valverde
+942,2013,Septiembre,Lunes,12:00-17:59,Hombre,14-Oct,Río,La Altagracia
+943,2013,Septiembre,Martes,12:00-17:59,Hombre,40-44,Río,San Cristóbal
+944,2013,Septiembre,Miércoles,18:00-23:59,Mujer,9-May,Río,La Altagracia
+945,2013,Septiembre,Jueves,18:00-23:59,Hombre,9-May,Piscina,Santiago
+946,2013,Septiembre,Domingo,12:00-17:59,Hombre,0-4,Piscina,Azua
+947,2013,Septiembre,Domingo,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+948,2013,Septiembre,Lunes,12:00-17:59,Hombre,15-19,Otros,San José de Ocoa
+949,2013,Septiembre,Lunes,12:00-17:59,Hombre,25-29,Río,La Romana
+950,2013,Septiembre,Miércoles,18:00-23:59,Hombre,14-Oct,Río,Espaillat
+951,2013,Septiembre,Jueves, 6:00-11:59,Hombre,20-24,Otros,San Cristóbal
+952,2013,Septiembre,Sábado,18:00-23:59,Hombre,80 y mas,Canal,Santiago
+953,2013,Septiembre,Domingo,18:00-23:59,Hombre,25-29,Río,Duarte
+954,2013,Septiembre,Martes,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+955,2013,Septiembre,Martes,18:00-23:59,Hombre,N/D,Río,Peravia
+956,2013,Septiembre,Miércoles, 6:00-11:59,Hombre,80 y mas,Río,Santo Domingo
+957,2013,Septiembre,Miércoles,12:00-17:59,Hombre,30-34,Río,Santo Domingo
+958,2013,Septiembre,Jueves,18:00-23:59,Hombre,25-29,Piscina,Peravia
+959,2013,Septiembre,Viernes,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+960,2013,Septiembre,Domingo, 6:00-11:59,Hombre,15-19,Río,La Romana
+961,2013,Octubre,Martes, 6:00-11:59,Hombre,65-69,Canal,San Juan
+962,2013,Octubre,Martes,18:00-23:59,Hombre,35-39,Piscina,Puerto Plata
+963,2013,Octubre,Sábado,12:00-17:59,Hombre,25-29,Río,La Vega
+964,2013,Octubre,Sábado,18:00-23:59,Hombre,0-4,Río,Duarte
+965,2013,Octubre,Domingo,18:00-23:59,Mujer,14-Oct,Río,Peravia
+966,2013,Octubre,Domingo,12:00-17:59,Mujer,N/D,Mar,Azua
+967,2013,Octubre,Miércoles,18:00-23:59,Mujer,14-Oct,Río,San Cristóbal
+968,2013,Octubre,Viernes,12:00-17:59,Hombre,N/D,Canal,Azua
+969,2013,Octubre,Viernes,18:00-23:59,Hombre,N/D,Mar,Distrito Nacional
+970,2013,Octubre,Sábado,12:00-17:59,Mujer,0-4,Piscina,Duarte
+971,2013,Octubre,Sábado,12:00-17:59,Hombre,14-Oct,Piscina,Santo Domingo
+972,2013,Octubre,Jueves,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+973,2013,Octubre,Jueves,12:00-17:59,Hombre,0-4,Río,San Cristóbal
+974,2013,Octubre,Jueves,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+975,2013,Octubre,Domingo,0:00-05:59,Hombre,35-39,Río,Duarte
+976,2013,Octubre,Lunes, 6:00-11:59,Mujer,45-49,Cubeta,San Cristóbal
+977,2013,Octubre,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Monte Cristi
+978,2013,Octubre,Viernes,18:00-23:59,Hombre,70-74,Río,El Seybo
+979,2013,Octubre,Sábado, 6:00-11:59,Mujer,0-4,Piscina,Samaná
+980,2013,Octubre,Martes,18:00-23:59,Hombre,20-24,Mar,Santo Domingo
+981,2013,Noviembre,Sábado,12:00-17:59,Hombre,20-24,Río,Santiago
+982,2013,Noviembre,Sábado,18:00-23:59,Hombre,0-4,Cisterna,La Altagracia
+983,2013,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+984,2013,Noviembre,Domingo,12:00-17:59,Hombre,30-34,Canal,Valverde
+985,2013,Noviembre,Lunes, 6:00-11:59,Hombre,30-34,Canal,Hermanas Mirabal
+986,2013,Noviembre,Lunes, 6:00-11:59,Hombre,30-34,Río,Santiago
+987,2013,Noviembre,Lunes, 6:00-11:59,Hombre,0-4,Otros,Puerto Plata
+988,2013,Noviembre,Martes,12:00-17:59,Hombre,60-64,Río,Hermanas Mirabal
+989,2013,Noviembre,Sábado,12:00-17:59,Hombre,55-59,Mar,La Altagracia
+990,2013,Noviembre,Lunes,12:00-17:59,Hombre,15-19,Río,La Romana
+991,2013,Noviembre,Lunes,12:00-17:59,Hombre,14-Oct,Río,La Romana
+992,2013,Noviembre,Lunes,12:00-17:59,Hombre,25-29,Río,Monte Cristi
+993,2013,Noviembre,Miércoles,18:00-23:59,Hombre,40-44,Río,Hato Mayor
+994,2013,Noviembre,Miércoles,12:00-17:59,Hombre,55-59,Río,La Altagracia
+995,2013,Noviembre,Miércoles,12:00-17:59,Hombre,40-44,Río,Independencia
+996,2013,Noviembre,Miércoles,18:00-23:59,Hombre,20-24,Río,San Cristóbal
+997,2013,Noviembre,Sábado,18:00-23:59,Hombre,30-34,Mar,San Pedro de Macorís
+998,2013,Noviembre,Sábado, 6:00-11:59,Hombre,75-79,Mar,La Romana
+999,2013,Noviembre,Lunes, 6:00-11:59,Hombre,35-39,Mar,Puerto Plata
+1000,2013,Noviembre,Lunes,12:00-17:59,Hombre,40-44,Otros,Santiago
+1001,2013,Noviembre,Lunes,12:00-17:59,Hombre,9-May,Piscina,María Trinidad Sánchez
+1002,2013,Noviembre,Miércoles,18:00-23:59,Hombre,40-44,Río,Santiago
+1003,2013,Noviembre,Miércoles,18:00-23:59,Hombre,15-19,Mar,Puerto Plata
+1004,2013,Diciembre,Lunes,18:00-23:59,Hombre,50-54,Río,Peravia
+1005,2013,Diciembre,Miércoles, 6:00-11:59,Hombre,35-39,Mar,La Altagracia
+1006,2013,Diciembre,Miércoles,12:00-17:59,Hombre,45-49,Río,El Seybo
+1007,2013,Diciembre,Miércoles,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+1008,2013,Diciembre,Domingo,12:00-17:59,Hombre,14-Oct,Mar,San Cristóbal
+1009,2013,Diciembre,Lunes,18:00-23:59,Hombre,35-39,Canal,Monte Cristi
+1010,2014,Enero,Jueves,12:00-17:59,Hombre,55-59,Mar,Puerto Plata
+1011,2014,Enero,Viernes,18:00-23:59,Mujer,45-49,Cisterna,Santo Domingo
+1012,2014,Enero,Domingo,12:00-17:59,Mujer,14-Oct,Mar,Santo Domingo
+1013,2014,Enero,Sábado,0:00-05:59,Hombre,20-24,Mar,María Trinidad Sánchez
+1014,2014,Enero,Lunes, 6:00-11:59,Hombre,35-39,Canal,Valverde
+1015,2014,Enero,Miércoles,12:00-17:59,Hombre,50-54,Mar,Distrito Nacional
+1016,2014,Enero,Miércoles,18:00-23:59,Hombre,60-64,Otros,Santiago Rodriguez
+1017,2014,Enero,Jueves, 6:00-11:59,Hombre,70-74,Canal,Valverde
+1018,2014,Enero,Sábado,12:00-17:59,Mujer,50-54,Mar,La Altagracia
+1019,2014,Enero,Domingo,12:00-17:59,Hombre,35-39,Canal,Santiago
+1020,2014,Enero,Lunes, 6:00-11:59,Hombre,20-24,Río,La Romana
+1021,2014,Enero,Lunes, 6:00-11:59,Hombre,35-39,Río,Santo Domingo
+1022,2014,Enero,Jueves, 6:00-11:59,Mujer,0-4,Cisterna,Santo Domingo
+1023,2014,Enero,Martes,12:00-17:59,Mujer,15-19,Río,La Altagracia
+1024,2014,Enero,Jueves,12:00-17:59,Hombre,45-49,Mar,Puerto Plata
+1025,2014,Enero,Jueves,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+1026,2014,Febrero,Sábado,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1027,2014,Febrero,Sábado,18:00-23:59,Hombre,20-24,Río,Monte Plata
+1028,2014,Febrero,Domingo, 6:00-11:59,Hombre,15-19,Otros,San Cristóbal
+1029,2014,Febrero,Miércoles, 6:00-11:59,Hombre,80 y mas,Río,La Vega
+1030,2014,Febrero,Jueves,12:00-17:59,Hombre,15-19,Canal,Santiago
+1031,2014,Febrero,Domingo,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+1032,2014,Febrero,Lunes,12:00-17:59,Hombre,80 y mas,Mar,La Altagracia
+1033,2014,Febrero,Viernes,12:00-17:59,Hombre,40-44,Río,Hato Mayor
+1034,2014,Febrero,Sábado,12:00-17:59,Mujer,N/D,Cubeta,San Cristóbal
+1035,2014,Febrero,Sábado,12:00-17:59,Hombre,9-May,Piscina,Puerto Plata
+1036,2014,Febrero,Domingo,18:00-23:59,Mujer,0-4,Río,Hato Mayor
+1037,2014,Febrero,Martes, 6:00-11:59,Hombre,40-44,Mar,San Cristóbal
+1038,2014,Febrero,Jueves, 6:00-11:59,Mujer,N/D,Mar,La Altagracia
+1039,2014,Febrero,Jueves, 6:00-11:59,Mujer,N/D,Mar,La Altagracia
+1040,2014,Febrero,Jueves, 6:00-11:59,Mujer,N/D,Mar,La Altagracia
+1041,2014,Febrero,Sábado,18:00-23:59,Hombre,0-4,Cisterna,Santiago
+1042,2014,Febrero,Sábado,0:00-05:59,Hombre,N/D,Mar,La Altagracia
+1043,2014,Febrero,Sábado,0:00-05:59,Hombre,N/D,Mar,La Altagracia
+1044,2014,Febrero,Domingo,0:00-05:59,Hombre,N/D,Mar,La Altagracia
+1045,2014,Febrero,Lunes, 6:00-11:59,Hombre,25-29,Mar,La Altagracia
+1046,2014,Febrero,Martes,12:00-17:59,Hombre,30-34,Canal,Santiago
+1047,2014,Marzo,Domingo,18:00-23:59,Hombre,14-Oct,Río,Monte Plata
+1048,2014,Marzo,Lunes, 6:00-11:59,Mujer,0-4,Cisterna,Santo Domingo
+1049,2014,Marzo,Domingo, 6:00-11:59,Hombre,55-59,Mar,Santo Domingo
+1050,2014,Marzo,Domingo,12:00-17:59,Hombre,20-24,Río,La Altagracia
+1051,2014,Marzo,Domingo,12:00-17:59,Hombre,9-May,Río,Santiago
+1052,2014,Marzo,Domingo,18:00-23:59,Hombre,9-May,Río,La Vega
+1053,2014,Marzo,Domingo,12:00-17:59,Hombre,30-34,Mar,La Altagracia
+1054,2014,Marzo,Lunes, 6:00-11:59,Hombre,35-39,Río,Azua
+1055,2014,Marzo,Miércoles, 6:00-11:59,Hombre,50-54,Canal,Valverde
+1056,2014,Marzo,Miércoles,12:00-17:59,Mujer,0-4,Cubeta,Puerto Plata
+1057,2014,Marzo,Jueves,12:00-17:59,Hombre,60-64,Mar,Santo Domingo
+1058,2014,Marzo,Sábado,18:00-23:59,Hombre,0-4,Cubeta,La Romana
+1059,2014,Marzo,Domingo, 6:00-11:59,Hombre,55-59,Canal,Monseñor Nouel
+1060,2014,Marzo,Domingo, 6:00-11:59,Mujer,14-Oct,Canal,Monte Cristi
+1061,2014,Marzo,Domingo,12:00-17:59,Hombre,20-24,Mar,San Pedro de Macorís
+1062,2014,Marzo,Viernes, 6:00-11:59,Hombre,20-24,Pozo,Barahona
+1063,2014,Marzo,Viernes,12:00-17:59,Hombre,0-4,Cubeta,La Altagracia
+1064,2014,Marzo,Viernes, 6:00-11:59,Hombre,9-May,Canal,Monte Cristi
+1065,2014,Marzo,Domingo,12:00-17:59,Hombre,15-19,Otros,Barahona
+1066,2014,Marzo,Lunes, 6:00-11:59,Hombre,30-34,Otros,San Juan
+1067,2014,Marzo,Lunes,12:00-17:59,Hombre,55-59,Mar,Distrito Nacional
+1068,2014,Abril,Miércoles,12:00-17:59,Hombre,9-May,Río,La Altagracia
+1069,2014,Abril,Miércoles,18:00-23:59,Hombre,45-49,Otros,Sánchez Ramírez
+1070,2014,Abril,Jueves,18:00-23:59,Mujer,0-4,Canal,Peravia
+1071,2014,Abril,Sábado,18:00-23:59,Hombre,0-4,Piscina,Peravia
+1072,2014,Abril,Sábado,18:00-23:59,Hombre,15-19,Río,San Cristóbal
+1073,2014,Abril,Sábado,12:00-17:59,Hombre,9-May,Río,Monseñor Nouel
+1074,2014,Abril,Sábado,18:00-23:59,Hombre,45-49,Mar,Santo Domingo
+1075,2014,Abril,Sábado,0:00-05:59,Mujer,80 y mas,Cisterna,Santo Domingo
+1076,2014,Abril,Martes,12:00-17:59,Hombre,35-39,Mar,Barahona
+1077,2014,Abril,Domingo,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1078,2014,Abril,Domingo,18:00-23:59,Hombre,9-May,Río,El Seybo
+1079,2014,Abril,Domingo,12:00-17:59,Hombre,60-64,Mar,Santo Domingo
+1080,2014,Abril,Sábado, 6:00-11:59,Hombre,15-19,Mar,San Cristóbal
+1081,2014,Abril,Sábado,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+1082,2014,Abril,Sábado,12:00-17:59,Mujer,9-May,Canal,San Juan
+1083,2014,Abril,Sábado,18:00-23:59,Hombre,15-19,Mar,San Pedro de Macorís
+1084,2014,Abril,Domingo,12:00-17:59,Hombre,15-19,Río,La Altagracia
+1085,2014,Abril,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+1086,2014,Abril,Jueves,12:00-17:59,Hombre,50-54,Cisterna,Santo Domingo
+1087,2014,Abril,Jueves,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+1088,2014,Abril,Domingo,12:00-17:59,Hombre,15-19,Río,La Romana
+1089,2014,Abril,Martes, 6:00-11:59,Hombre,30-34,Mar,Santo Domingo
+1090,2014,Abril,Miércoles, 6:00-11:59,Hombre,50-54,Mar,San Pedro de Macorís
+1091,2014,Abril,Miércoles,12:00-17:59,Hombre,9-May,Río,Hermanas Mirabal
+1092,2014,Abril,Miércoles,12:00-17:59,Hombre,14-Oct,Cubeta,Santo Domingo
+1093,2014,Mayo,Jueves,12:00-17:59,Hombre,25-29,Pozo,Monseñor Nouel
+1094,2014,Mayo,Jueves,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+1095,2014,Mayo,Jueves,12:00-17:59,Mujer,N/D,Mar,Santo Domingo
+1096,2014,Mayo,Jueves,12:00-17:59,Mujer,N/D,Mar,Santo Domingo
+1097,2014,Mayo,Jueves,12:00-17:59,Mujer,N/D,Mar,Santo Domingo
+1098,2014,Mayo,Jueves,12:00-17:59,Mujer,N/D,Mar,Santo Domingo
+1099,2014,Mayo,Jueves,12:00-17:59,Mujer,N/D,Mar,Santo Domingo
+1100,2014,Mayo,Jueves,12:00-17:59,Hombre,30-34,Otros,Santiago
+1101,2014,Mayo,Sábado,18:00-23:59,Mujer,9-May,Río,El Seybo
+1102,2014,Mayo,Sábado,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+1103,2014,Mayo,Domingo,18:00-23:59,Hombre,15-19,Río,Santiago
+1104,2014,Mayo,Domingo,18:00-23:59,Hombre,0-4,Otros,Monseñor Nouel
+1105,2014,Mayo,Domingo,18:00-23:59,Mujer,45-49,Río,San Cristóbal
+1106,2014,Mayo,Lunes, 6:00-11:59,Hombre,45-49,Río,San Cristóbal
+1107,2014,Mayo,Domingo,12:00-17:59,Hombre,20-24,Mar,La Altagracia
+1108,2014,Mayo,Domingo,12:00-17:59,Mujer,14-Oct,Mar,La Altagracia
+1109,2014,Mayo,Lunes,12:00-17:59,Mujer,N/D,Mar,Valverde
+1110,2014,Mayo,Lunes,12:00-17:59,Mujer,20-24,Río,María Trinidad Sánchez
+1111,2014,Mayo,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+1112,2014,Mayo,Lunes,12:00-17:59,Hombre,35-39,Mar,Espaillat
+1113,2014,Mayo,Lunes, 6:00-11:59,Hombre,15-19,Otros,Independencia
+1114,2014,Mayo,Domingo,12:00-17:59,Hombre,65-69,Río,Puerto Plata
+1115,2014,Mayo,Miércoles,12:00-17:59,Hombre,0-4,Otros,Duarte
+1116,2014,Mayo,Miércoles,12:00-17:59,Hombre,0-4,Cisterna,La Altagracia
+1117,2014,Mayo,Sábado,12:00-17:59,Hombre,25-29,Otros,Monte Cristi
+1118,2014,Mayo,Lunes, 6:00-11:59,Hombre,45-49,Río,Monte Cristi
+1119,2014,Mayo,Lunes, 6:00-11:59,Hombre,45-49,Río,Peravia
+1120,2014,Mayo,Lunes, 6:00-11:59,Hombre,60-64,Canal,Peravia
+1121,2014,Mayo,Miércoles,12:00-17:59,Hombre,25-29,Río,Santo Domingo
+1122,2014,Mayo,Miércoles, 6:00-11:59,Hombre,40-44,Río,Puerto Plata
+1123,2014,Mayo,Viernes,12:00-17:59,Hombre,40-44,Canal,Santiago
+1124,2014,Mayo,Domingo, 6:00-11:59,Mujer,50-54,Canal,Independencia
+1125,2014,Mayo,Lunes,18:00-23:59,Hombre,30-34,Cisterna,Azua
+1126,2014,Mayo,Martes, 6:00-11:59,Hombre,15-19,Piscina,Distrito Nacional
+1127,2014,Mayo,Martes,12:00-17:59,Hombre,25-29,Otros,Azua
+1128,2014,Junio,Domingo,18:00-23:59,Hombre,60-64,Río,Espaillat
+1129,2014,Junio,Domingo,18:00-23:59,Hombre,20-24,Piscina,Duarte
+1130,2014,Junio,Martes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+1131,2014,Junio,Martes, 6:00-11:59,Mujer,15-19,Mar,Santo Domingo
+1132,2014,Junio,Jueves,12:00-17:59,Hombre,14-Oct,Río,La Altagracia
+1133,2014,Junio,Viernes,18:00-23:59,Mujer,0-4,Piscina,Puerto Plata
+1134,2014,Junio,Lunes,12:00-17:59,Mujer,0-4,Canal,Santiago
+1135,2014,Junio,Lunes,12:00-17:59,Mujer,14-Oct,Río,Monte Plata
+1136,2014,Junio,Lunes, 6:00-11:59,Hombre,N/D,Río,Distrito Nacional
+1137,2014,Junio,Martes,18:00-23:59,Hombre,45-49,Río,Espaillat
+1138,2014,Junio,Miércoles, 6:00-11:59,Hombre,50-54,Río,Santo Domingo
+1139,2014,Junio,Viernes,18:00-23:59,Hombre,15-19,Río,San Cristóbal
+1140,2014,Junio,Sábado,12:00-17:59,Hombre,0-4,Cisterna,Distrito Nacional
+1141,2014,Junio,Sábado,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+1142,2014,Junio,Domingo,12:00-17:59,Hombre,30-34,Otros,Independencia
+1143,2014,Junio,Domingo,12:00-17:59,Hombre,0-4,Piscina,María Trinidad Sánchez
+1144,2014,Junio,Martes,0:00-05:59,Hombre,20-24,Mar,Santo Domingo
+1145,2014,Junio,Miércoles,12:00-17:59,Hombre,50-54,Río,Santo Domingo
+1146,2014,Junio,Miércoles,18:00-23:59,Hombre,14-Oct,Canal,Santiago
+1147,2014,Junio,Sábado,18:00-23:59,Hombre,20-24,Río,La Altagracia
+1148,2014,Junio,Lunes,18:00-23:59,Hombre,20-24,Río,San Cristóbal
+1149,2014,Junio,Lunes,18:00-23:59,Hombre,9-May,Piscina,Santo Domingo
+1150,2014,Junio,Martes, 6:00-11:59,Hombre,25-29,Mar,María Trinidad Sánchez
+1151,2014,Junio,Martes,18:00-23:59,Hombre,25-29,Mar,Distrito Nacional
+1152,2014,Junio,Miércoles,12:00-17:59,Hombre,25-29,Mar,Distrito Nacional
+1153,2014,Junio,Jueves, 6:00-11:59,Hombre,75-79,Mar,Santo Domingo
+1154,2014,Junio,Jueves,12:00-17:59,Hombre,35-39,Canal,Sánchez Ramírez
+1155,2014,Junio,Domingo, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+1156,2014,Julio,Martes,12:00-17:59,Hombre,30-34,Mar,Barahona
+1157,2014,Julio,Miércoles,12:00-17:59,Mujer,15-19,Piscina,Santo Domingo
+1158,2014,Julio,Jueves,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+1159,2014,Julio,Domingo,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+1160,2014,Julio,Lunes, 6:00-11:59,Hombre,50-54,Mar,San Cristóbal
+1161,2014,Julio,Martes, 6:00-11:59,Mujer,35-39,Mar,Distrito Nacional
+1162,2014,Julio,Viernes, 6:00-11:59,Hombre,65-69,Mar,María Trinidad Sánchez
+1163,2014,Julio,Viernes,12:00-17:59,Hombre,25-29,Río,Puerto Plata
+1164,2014,Julio,Domingo,12:00-17:59,Hombre,30-34,Mar,Barahona
+1165,2014,Julio,Domingo,18:00-23:59,Hombre,30-34,Río,San Cristóbal
+1166,2014,Julio,Lunes,12:00-17:59,Hombre,30-34,Mar,La Romana
+1167,2014,Julio,Jueves,12:00-17:59,Hombre,9-May,Río,Monte Plata
+1168,2014,Julio,Jueves,12:00-17:59,Hombre,9-May,Río,Santo Domingo
+1169,2014,Julio,Domingo, 6:00-11:59,Hombre,0-4,Piscina,Samaná
+1170,2014,Julio,Domingo,12:00-17:59,Hombre,20-24,Otros,Monseñor Nouel
+1171,2014,Julio,Domingo,12:00-17:59,Hombre,35-39,Río,San Pedro de Macorís
+1172,2014,Julio,Lunes,18:00-23:59,Hombre,14-Oct,Río,La Altagracia
+1173,2014,Julio,Martes, 6:00-11:59,Hombre,15-19,Otros,Independencia
+1174,2014,Julio,Martes,18:00-23:59,Hombre,30-34,Mar,Santo Domingo
+1175,2014,Julio,Jueves, 6:00-11:59,Hombre,35-39,Otros,Puerto Plata
+1176,2014,Julio,Viernes,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1177,2014,Julio,Sábado,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1178,2014,Julio,Sábado, 6:00-11:59,Hombre,45-49,Mar,Monte Cristi
+1179,2014,Julio,Domingo,12:00-17:59,Hombre,15-19,Río,La Altagracia
+1180,2014,Julio,Domingo,12:00-17:59,Hombre,15-19,Mar,Barahona
+1181,2014,Julio,Martes,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+1182,2014,Julio,Jueves, 6:00-11:59,Hombre,0-4,Cisterna,Santo Domingo
+1183,2014,Agosto,Sábado, 6:00-11:59,Hombre,30-34,Otros,Independencia
+1184,2014,Agosto,Lunes,12:00-17:59,Hombre,0-4,Cisterna,Distrito Nacional
+1185,2014,Agosto,Miércoles, 6:00-11:59,Mujer,50-54,Mar,Puerto Plata
+1186,2014,Agosto,Jueves,0:00-05:59,Hombre,14-Oct,Canal,Santiago
+1187,2014,Agosto,Domingo,18:00-23:59,Hombre,25-29,Otros,Independencia
+1188,2014,Agosto,Domingo,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+1189,2014,Agosto,Lunes,18:00-23:59,Hombre,9-May,Canal,Valverde
+1190,2014,Agosto,Martes,12:00-17:59,Hombre,45-49,Río,Bahoruco
+1191,2014,Agosto,Jueves,12:00-17:59,Hombre,14-Oct,Pozo,Distrito Nacional
+1192,2014,Agosto,Jueves,18:00-23:59,Hombre,0-4,Otros,Santo Domingo
+1193,2014,Agosto,Viernes,12:00-17:59,Mujer,9-May,Río,Monseñor Nouel
+1194,2014,Agosto,Viernes, 6:00-11:59,Hombre,14-Oct,Río,La Altagracia
+1195,2014,Agosto,Sábado, 6:00-11:59,Hombre,25-29,Piscina,La Altagracia
+1196,2014,Agosto,Sábado,12:00-17:59,Hombre,60-64,Río,María Trinidad Sánchez
+1197,2014,Agosto,Sábado,18:00-23:59,Hombre,14-Oct,Río,Monte Cristi
+1198,2014,Agosto,Sábado,12:00-17:59,Hombre,9-May,Mar,Santo Domingo
+1199,2014,Agosto,Lunes,12:00-17:59,Hombre,25-29,Río,El Seybo
+1200,2014,Agosto,Lunes,12:00-17:59,Hombre,0-4,Cubeta,Santiago
+1201,2014,Agosto,Miércoles, 6:00-11:59,Hombre,20-24,Mar,Distrito Nacional
+1202,2014,Agosto,Sábado, 6:00-11:59,Mujer,N/D,Mar,Distrito Nacional
+1203,2014,Agosto,Sábado,12:00-17:59,Hombre,60-64,Río,Duarte
+1204,2014,Agosto,Sábado,12:00-17:59,Hombre,75-79,Río,El Seybo
+1205,2014,Agosto,Domingo,18:00-23:59,Mujer,0-4,Cubeta,Santiago
+1206,2014,Agosto,Domingo, 6:00-11:59,Hombre,55-59,Otros,Distrito Nacional
+1207,2014,Agosto,Domingo,18:00-23:59,Hombre,35-39,Otros,Distrito Nacional
+1208,2014,Agosto,Lunes, 6:00-11:59,Hombre,20-24,Otros,Distrito Nacional
+1209,2014,Agosto,Lunes, 6:00-11:59,Hombre,0-4,Cisterna,Santo Domingo
+1210,2014,Agosto,Martes,18:00-23:59,Hombre,0-4,Otros,Puerto Plata
+1211,2014,Agosto,Miércoles, 6:00-11:59,Hombre,35-39,Río,Hato Mayor
+1212,2014,Agosto,Jueves, 6:00-11:59,Mujer,45-49,Mar,La Altagracia
+1213,2014,Agosto,Viernes,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+1214,2014,Agosto,Viernes,12:00-17:59,Hombre,14-Oct,Río,La Vega
+1215,2014,Agosto,Sábado,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+1216,2014,Agosto,Sábado,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+1217,2014,Agosto,Domingo,12:00-17:59,Hombre,40-44,Cubeta,La Altagracia
+1218,2014,Agosto,Domingo,12:00-17:59,Hombre,9-May,Piscina,Azua
+1219,2014,Agosto,Domingo,12:00-17:59,Mujer,0-4,Piscina,Independencia
+1220,2014,Septiembre,Lunes, 6:00-11:59,Hombre,0-4,Otros,Puerto Plata
+1221,2014,Septiembre,Viernes, 6:00-11:59,Hombre,60-64,Mar,Distrito Nacional
+1222,2014,Septiembre,Sábado, 6:00-11:59,Hombre,0-4,Cubeta,Distrito Nacional
+1223,2014,Septiembre,Sábado,12:00-17:59,Hombre,9-May,Otros,Valverde
+1224,2014,Septiembre,Sábado,18:00-23:59,Hombre,9-May,Cisterna,María Trinidad Sánchez
+1225,2014,Septiembre,Sábado,12:00-17:59,Hombre,45-49,Mar,Distrito Nacional
+1226,2014,Septiembre,Domingo,12:00-17:59,Hombre,35-39,Mar,La Altagracia
+1227,2014,Septiembre,Miércoles,12:00-17:59,Hombre,20-24,Río,Monseñor Nouel
+1228,2014,Septiembre,Sábado,18:00-23:59,Hombre,65-69,Río,Monte Plata
+1229,2014,Septiembre,Domingo,12:00-17:59,Hombre,9-May,Río,La Vega
+1230,2014,Septiembre,Domingo,12:00-17:59,Hombre,9-May,Río,La Vega
+1231,2014,Septiembre,Miércoles,12:00-17:59,Hombre,40-44,Mar,Santo Domingo
+1232,2014,Septiembre,Jueves, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+1233,2014,Septiembre,Jueves,12:00-17:59,Hombre,14-Oct,Río,Elías Pina
+1234,2014,Septiembre,Sábado,12:00-17:59,Hombre,60-64,Mar,María Trinidad Sánchez
+1235,2014,Septiembre,Domingo,12:00-17:59,Hombre,50-54,Mar,Puerto Plata
+1236,2014,Septiembre,Martes,18:00-23:59,Hombre,0-4,Cubeta,Santiago
+1237,2014,Septiembre,Domingo, 6:00-11:59,Hombre,20-24,Mar,María Trinidad Sánchez
+1238,2014,Septiembre,Domingo, 6:00-11:59,Hombre,25-29,Otros,Independencia
+1239,2014,Septiembre,Lunes,12:00-17:59,Hombre,20-24,Río,Dajabón
+1240,2014,Septiembre,Martes, 6:00-11:59,Hombre,15-19,Canal,Dajabón
+1241,2014,Octubre,Miércoles,12:00-17:59,Hombre,25-29,Río,La Altagracia
+1242,2014,Octubre,Miércoles,18:00-23:59,Hombre,30-34,Río,Dajabón
+1243,2014,Octubre,Viernes,18:00-23:59,Hombre,80 y mas,Río,Puerto Plata
+1244,2014,Octubre,Domingo,12:00-17:59,Hombre,40-44,Río,San Pedro de Macorís
+1245,2014,Octubre,Lunes,18:00-23:59,Hombre,55-59,Mar,Santo Domingo
+1246,2014,Octubre,Martes,12:00-17:59,Hombre,0-4,Piscina,San Pedro de Macorís
+1247,2014,Octubre,Domingo, 6:00-11:59,Hombre,0-4,Canal,Duarte
+1248,2014,Octubre,Domingo, 6:00-11:59,Hombre,50-54,Río,Elías Pina
+1249,2014,Octubre,Domingo,12:00-17:59,Hombre,0-4,Piscina,Azua
+1250,2014,Octubre,Lunes,12:00-17:59,Hombre,75-79,Otros,María Trinidad Sánchez
+1251,2014,Octubre,Viernes,18:00-23:59,Hombre,N/D,Mar,María Trinidad Sánchez
+1252,2014,Octubre,Miércoles,18:00-23:59,Hombre,0-4,Otros,Santo Domingo
+1253,2014,Octubre,Miércoles, 6:00-11:59,Hombre,55-59,Mar,La Altagracia
+1254,2014,Octubre,Miércoles,12:00-17:59,Hombre,20-24,Cisterna,La Vega
+1255,2014,Octubre,Jueves,12:00-17:59,Hombre,9-May,Otros,Monseñor Nouel
+1256,2014,Octubre,Jueves,12:00-17:59,Hombre,0-4,Otros,Monseñor Nouel
+1257,2014,Octubre,Domingo,18:00-23:59,Mujer,15-19,Río,Santo Domingo
+1258,2014,Octubre,Martes, 6:00-11:59,Hombre,N/D,Otros,Independencia
+1259,2014,Octubre,Martes,12:00-17:59,Hombre,40-44,Río,Santiago Rodriguez
+1260,2014,Octubre,Miércoles, 6:00-11:59,Hombre,40-44,Río,Elías Pina
+1261,2014,Octubre,Jueves, 6:00-11:59,Hombre,14-Oct,Otros,Sánchez Ramírez
+1262,2014,Octubre,Viernes,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1263,2014,Noviembre,Sábado,12:00-17:59,Mujer,60-64,Mar,La Altagracia
+1264,2014,Noviembre,Lunes, 6:00-11:59,Hombre,25-29,Río,Santiago Rodriguez
+1265,2014,Noviembre,Lunes,12:00-17:59,Hombre,9-May,Cisterna,Monseñor Nouel
+1266,2014,Noviembre,Jueves,12:00-17:59,Hombre,45-49,Río,La Vega
+1267,2014,Noviembre,Jueves,12:00-17:59,Hombre,25-29,Mar,Santo Domingo
+1268,2014,Noviembre,Jueves,12:00-17:59,Hombre,25-29,Otros,Espaillat
+1269,2014,Noviembre,Viernes,12:00-17:59,Hombre,65-69,Otros,Barahona
+1270,2014,Noviembre,Sábado, 6:00-11:59,Hombre,40-44,Río,Distrito Nacional
+1271,2014,Noviembre,Domingo, 6:00-11:59,Hombre,20-24,Otros,Valverde
+1272,2014,Noviembre,Domingo,12:00-17:59,Hombre,30-34,Otros,San Pedro de Macorís
+1273,2014,Noviembre,Lunes,12:00-17:59,Mujer,20-24,Río,Dajabón
+1274,2014,Noviembre,Martes,12:00-17:59,Hombre,20-24,Río,La Romana
+1275,2014,Noviembre,Domingo,12:00-17:59,Hombre,20-24,Río,La Altagracia
+1276,2014,Noviembre,Viernes,12:00-17:59,Hombre,65-69,Mar,La Altagracia
+1277,2014,Noviembre,Domingo,12:00-17:59,Hombre,50-54,Mar,Puerto Plata
+1278,2014,Noviembre,Domingo,12:00-17:59,Hombre,25-29,Mar,Barahona
+1279,2014,Noviembre,Domingo,18:00-23:59,Hombre,30-34,Río,Duarte
+1280,2014,Noviembre,Sábado, 6:00-11:59,Hombre,15-19,Río,Peravia
+1281,2014,Noviembre,Martes, 6:00-11:59,Hombre,40-44,Mar,Monte Cristi
+1282,2014,Noviembre,Miércoles,12:00-17:59,Mujer,0-4,Cubeta,La Altagracia
+1283,2014,Noviembre,Miércoles,18:00-23:59,Hombre,45-49,Mar,Pedernales
+1284,2014,Noviembre,Jueves,12:00-17:59,Hombre,40-44,Canal,Santiago
+1285,2014,Noviembre,Sábado,0:00-05:59,Hombre,15-19,Río,Santo Domingo
+1286,2014,Noviembre,Domingo, 6:00-11:59,Hombre,70-74,Canal,Santiago
+1287,2014,Diciembre,Martes,12:00-17:59,Hombre,N/D,Canal,San Juan
+1288,2014,Diciembre,Viernes,12:00-17:59,Mujer,14-Oct,Otros,San Juan
+1289,2014,Diciembre,Miércoles,18:00-23:59,Mujer,14-Oct,Pozo,Santiago
+1290,2014,Diciembre,Miércoles,18:00-23:59,Mujer,9-May,Pozo,Santiago
+1291,2014,Diciembre,Lunes, 6:00-11:59,Hombre,0-4,Cisterna,Espaillat
+1292,2014,Diciembre,Lunes, 6:00-11:59,Hombre,30-34,Otros,San Juan
+1293,2014,Diciembre,Lunes,18:00-23:59,Hombre,30-34,Otros,Monseñor Nouel
+1294,2014,Diciembre,Lunes,12:00-17:59,Hombre,9-May,Mar,San Pedro de Macorís
+1295,2014,Diciembre,Martes,18:00-23:59,Hombre,0-4,Cubeta,Santo Domingo
+1296,2014,Diciembre,Martes,18:00-23:59,Hombre,9-May,Cisterna,Santo Domingo
+1297,2014,Diciembre,Lunes, 6:00-11:59,Hombre,40-44,Mar,Samaná
+1298,2014,Diciembre,Jueves,12:00-17:59,Hombre,14-Oct,Río,Hato Mayor
+1299,2015,Enero,Sábado, 6:00-11:59,Hombre,70-74,Canal,Azua
+1300,2015,Enero,Sábado,18:00-23:59,Hombre,25-29,Mar,Azua
+1301,2015,Enero,Domingo,12:00-17:59,Hombre,15-19,Mar,Puerto Plata
+1302,2015,Enero,Lunes,12:00-17:59,Hombre,40-44,Mar,Puerto Plata
+1303,2015,Enero,Martes,12:00-17:59,Mujer,0-4,Canal,María Trinidad Sánchez
+1304,2015,Enero,Miércoles, 6:00-11:59,Hombre,9-May,Piscina,La Altagracia
+1305,2015,Enero,Viernes, 6:00-11:59,Hombre,35-39,Pozo,Hermanas Mirabal
+1306,2015,Enero,Miércoles,12:00-17:59,Hombre,25-29,Mar,Santo Domingo
+1307,2015,Enero,Jueves, 6:00-11:59,Hombre,25-29,Canal,Valverde
+1308,2015,Enero,Sábado,12:00-17:59,Hombre,45-49,Río,Santo Domingo
+1309,2015,Enero,Lunes,18:00-23:59,Hombre,35-39,Mar,San Cristóbal
+1310,2015,Enero,Lunes,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1311,2015,Enero,Jueves,18:00-23:59,Hombre,0-4,Cubeta,Santiago
+1312,2015,Enero,Domingo,12:00-17:59,Hombre,0-4,Cubeta,Azua
+1313,2015,Enero,Lunes,12:00-17:59,Hombre,45-49,Río,Santiago
+1314,2015,Enero,Lunes, 6:00-11:59,Hombre,50-54,Mar,Santo Domingo
+1315,2015,Enero,Martes,12:00-17:59,Hombre,20-24,Mar,Distrito Nacional
+1316,2015,Enero,Jueves, 6:00-11:59,Hombre,14-Oct,Otros,Elías Pina
+1317,2015,Enero,Sábado,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+1318,2015,Febrero,Lunes, 6:00-11:59,Mujer,N/D,Cisterna,Santo Domingo
+1319,2015,Febrero,Martes,12:00-17:59,Hombre,40-44,Río,San Cristóbal
+1320,2015,Febrero,Martes,18:00-23:59,Hombre,35-39,Otros,Azua
+1321,2015,Febrero,Miércoles, 6:00-11:59,Hombre,20-24,Canal,Monte Cristi
+1322,2015,Febrero,Jueves, 6:00-11:59,Mujer,65-69,Mar,La Romana
+1323,2015,Febrero,Jueves, 6:00-11:59,Hombre,0-4,Cisterna,La Altagracia
+1324,2015,Febrero,Viernes, 6:00-11:59,Hombre,20-24,Río,La Altagracia
+1325,2015,Febrero,Viernes,12:00-17:59,Mujer,40-44,Canal,Azua
+1326,2015,Febrero,Domingo,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1327,2015,Febrero,Viernes, 6:00-11:59,Hombre,60-64,Mar,Puerto Plata
+1328,2015,Febrero,Domingo,18:00-23:59,Hombre,50-54,Río,Elías Pina
+1329,2015,Febrero,Martes,18:00-23:59,Hombre,20-24,Otros,Santo Domingo
+1330,2015,Febrero,Jueves,18:00-23:59,Hombre,N/D,Mar,Santo Domingo
+1331,2015,Febrero,Viernes, 6:00-11:59,Hombre,40-44,Canal,María Trinidad Sánchez
+1332,2015,Febrero,Viernes, 6:00-11:59,Mujer,14-Oct,Río,Duarte
+1333,2015,Febrero,Lunes,18:00-23:59,Hombre,N/D,Río,San Cristóbal
+1334,2015,Febrero,Lunes, 6:00-11:59,Hombre,45-49,Mar,Puerto Plata
+1335,2015,Marzo,Domingo,12:00-17:59,Hombre,0-4,Canal,San Juan
+1336,2015,Marzo,Domingo,12:00-17:59,Hombre,25-29,Mar,La Altagracia
+1337,2015,Marzo,Domingo,12:00-17:59,Hombre,25-29,Mar,La Altagracia
+1338,2015,Marzo,Domingo,12:00-17:59,Mujer,25-29,Mar,La Altagracia
+1339,2015,Marzo,Domingo,12:00-17:59,Hombre,30-34,Mar,La Altagracia
+1340,2015,Marzo,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+1341,2015,Marzo,Domingo,12:00-17:59,Hombre,40-44,Mar,Azua
+1342,2015,Marzo,Lunes,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+1343,2015,Marzo,Lunes,12:00-17:59,Mujer,0-4,Cubeta,Hato Mayor
+1344,2015,Marzo,Jueves,12:00-17:59,Mujer,14-Oct,Río,San Cristóbal
+1345,2015,Marzo,Viernes, 6:00-11:59,Hombre,40-44,Mar,Puerto Plata
+1346,2015,Marzo,Viernes,12:00-17:59,Hombre,N/D,Mar,La Romana
+1347,2015,Marzo,Martes,18:00-23:59,Hombre,15-19,Mar,Distrito Nacional
+1348,2015,Marzo,Jueves,12:00-17:59,Hombre,50-54,Mar,Puerto Plata
+1349,2015,Marzo,Domingo,12:00-17:59,Hombre,20-24,Mar,Barahona
+1350,2015,Marzo,Domingo,12:00-17:59,Hombre,30-34,Mar,Distrito Nacional
+1351,2015,Marzo,Viernes,18:00-23:59,Hombre,14-Oct,Río,La Vega
+1352,2015,Marzo,Sábado,12:00-17:59,Hombre,15-19,Mar,Samaná
+1353,2015,Marzo,Domingo,12:00-17:59,Mujer,20-24,Mar,El Seybo
+1354,2015,Marzo,Domingo,12:00-17:59,Hombre,15-19,Río,Monte Plata
+1355,2015,Marzo,Miércoles,12:00-17:59,Hombre,65-69,Río,La Vega
+1356,2015,Marzo,Miércoles,12:00-17:59,Hombre,15-19,Río,Duarte
+1357,2015,Marzo,Jueves,12:00-17:59,Hombre,35-39,Mar,La Altagracia
+1358,2015,Marzo,Viernes, 6:00-11:59,Hombre,30-34,Río,Monte Cristi
+1359,2015,Marzo,Sábado,18:00-23:59,Hombre,14-Oct,Río,Monseñor Nouel
+1360,2015,Marzo,Domingo,12:00-17:59,Hombre,40-44,Mar,La Altagracia
+1361,2015,Marzo,Domingo,12:00-17:59,Hombre,15-19,Río,Monte Cristi
+1362,2015,Abril,Miércoles,12:00-17:59,Hombre,0-4,Canal,Santiago
+1363,2015,Abril,Miércoles,12:00-17:59,Hombre,9-May,Otros,Barahona
+1364,2015,Abril,Miércoles,12:00-17:59,Hombre,30-34,Canal,Monte Cristi
+1365,2015,Abril,Jueves,18:00-23:59,Hombre,15-19,Río,Puerto Plata
+1366,2015,Abril,Jueves,18:00-23:59,Hombre,15-19,Río,Puerto Plata
+1367,2015,Abril,Jueves, 6:00-11:59,Hombre,9-May,Río,San Cristóbal
+1368,2015,Abril,Sábado,18:00-23:59,Hombre,15-19,Río,San Cristóbal
+1369,2015,Abril,Domingo,18:00-23:59,Hombre,0-4,Cisterna,Duarte
+1370,2015,Abril,Domingo,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+1371,2015,Abril,Martes,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1372,2015,Abril,Jueves,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+1373,2015,Abril,Martes,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+1374,2015,Abril,Jueves,18:00-23:59,Hombre,35-39,Mar,El Seybo
+1375,2015,Abril,Domingo,12:00-17:59,Hombre,25-29,Río,Espaillat
+1376,2015,Abril,Domingo,12:00-17:59,Hombre,20-24,Mar,San Pedro de Macorís
+1377,2015,Abril,Domingo,12:00-17:59,Hombre,25-29,Mar,Puerto Plata
+1378,2015,Abril,Lunes, 6:00-11:59,Hombre,20-24,Canal,Monte Cristi
+1379,2015,Abril,Martes, 6:00-11:59,Hombre,0-4,Otros,Monseñor Nouel
+1380,2015,Abril,Viernes, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+1381,2015,Abril,Sábado,18:00-23:59,Hombre,15-19,Canal,Santiago
+1382,2015,Abril,Domingo,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1383,2015,Abril,Lunes, 6:00-11:59,Mujer,0-4,Cubeta,San Cristóbal
+1384,2015,Abril,Lunes,12:00-17:59,Hombre,60-64,Mar,La Romana
+1385,2015,Mayo,Domingo,12:00-17:59,Hombre,20-24,Río,La Altagracia
+1386,2015,Mayo,Domingo,12:00-17:59,Hombre,15-19,Río,Monte Plata
+1387,2015,Mayo,Lunes,12:00-17:59,Hombre,25-29,Río,Monseñor Nouel
+1388,2015,Mayo,Lunes,12:00-17:59,Mujer,14-Oct,Río,Duarte
+1389,2015,Mayo,Lunes,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+1390,2015,Mayo,Lunes,12:00-17:59,Hombre,9-May,Río,La Altagracia
+1391,2015,Mayo,Lunes,12:00-17:59,Hombre,20-24,Río,Santiago
+1392,2015,Mayo,Lunes,12:00-17:59,Mujer,0-4,Piscina,Distrito Nacional
+1393,2015,Mayo,Lunes,12:00-17:59,Hombre,45-49,Río,Puerto Plata
+1394,2015,Mayo,Lunes,18:00-23:59,Hombre,15-19,Canal,Duarte
+1395,2015,Mayo,Martes, 6:00-11:59,Hombre,45-49,Otros,Bahoruco
+1396,2015,Mayo,Miércoles,12:00-17:59,Hombre,20-24,Río,La Vega
+1397,2015,Mayo,Miércoles,18:00-23:59,Hombre,60-64,Mar,La Altagracia
+1398,2015,Mayo,Jueves,12:00-17:59,Hombre,14-Oct,Río,Monte Plata
+1399,2015,Mayo,Jueves,12:00-17:59,Hombre,0-4,Pozo,Sánchez Ramírez
+1400,2015,Mayo,Viernes,12:00-17:59,Hombre,9-May,Río,Bahoruco
+1401,2015,Mayo,Sábado, 6:00-11:59,Hombre,25-29,Río,La Romana
+1402,2015,Mayo,Sábado,18:00-23:59,Hombre,15-19,Mar,San Cristóbal
+1403,2015,Mayo,Martes,12:00-17:59,Hombre,N/D,Mar,Distrito Nacional
+1404,2015,Mayo,Miércoles,12:00-17:59,Hombre,45-49,Canal,Santiago
+1405,2015,Mayo,Sábado, 6:00-11:59,Mujer,0-4,Cisterna,María Trinidad Sánchez
+1406,2015,Mayo,Sábado, 6:00-11:59,Mujer,15-19,Río,San Pedro de Macorís
+1407,2015,Mayo,Sábado, 6:00-11:59,Hombre,15-19,Río,San Pedro de Macorís
+1408,2015,Mayo,Sábado, 6:00-11:59,Hombre,60-64,Río,Monte Plata
+1409,2015,Mayo,Domingo,12:00-17:59,Hombre,0-4,Canal,Santiago
+1410,2015,Mayo,Martes,12:00-17:59,Mujer,65-69,Mar,Distrito Nacional
+1411,2015,Mayo,Martes,18:00-23:59,Hombre,15-19,Río,Pedernales
+1412,2015,Mayo,Martes,12:00-17:59,Hombre,14-Oct,Río,San Pedro de Macorís
+1413,2015,Mayo,Viernes,18:00-23:59,Hombre,20-24,Cisterna,Santo Domingo
+1414,2015,Mayo,Domingo,0:00-05:59,Hombre,40-44,Río,Santo Domingo
+1415,2015,Mayo,Domingo,12:00-17:59,Hombre,30-34,Río,San Pedro de Macorís
+1416,2015,Junio,Lunes,18:00-23:59,Hombre,0-4,Cisterna,Santo Domingo
+1417,2015,Junio,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+1418,2015,Junio,Martes, 6:00-11:59,Hombre,50-54,Mar,La Altagracia
+1419,2015,Junio,Miércoles,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+1420,2015,Junio,Jueves,12:00-17:59,Hombre,60-64,Río,La Vega
+1421,2015,Junio,Jueves,18:00-23:59,Hombre,50-54,Río,Santiago
+1422,2015,Junio,Viernes, 6:00-11:59,Hombre,35-39,Canal,Monte Cristi
+1423,2015,Junio,Domingo,12:00-17:59,Mujer,0-4,Río,Santo Domingo
+1424,2015,Junio,Lunes,12:00-17:59,Hombre,45-49,Mar,Distrito Nacional
+1425,2015,Junio,Miércoles,12:00-17:59,Hombre,14-Oct,Mar,Peravia
+1426,2015,Junio,Jueves, 6:00-11:59,Hombre,15-19,Río,Santo Domingo
+1427,2015,Junio,Sábado,12:00-17:59,Hombre,9-May,Río,Hato Mayor
+1428,2015,Junio,Domingo, 6:00-11:59,Hombre,15-19,Mar,Samaná
+1429,2015,Junio,Domingo,18:00-23:59,Hombre,45-49,Mar,La Altagracia
+1430,2015,Junio,Miércoles,18:00-23:59,Hombre,N/D,Mar,La Altagracia
+1431,2015,Junio,Jueves,12:00-17:59,Mujer,0-4,Cubeta,Distrito Nacional
+1432,2015,Junio,Viernes,12:00-17:59,Hombre,14-Oct,Canal,Valverde
+1433,2015,Junio,Sábado,12:00-17:59,Hombre,25-29,Otros,Samaná
+1434,2015,Junio,Sábado,12:00-17:59,Mujer,14-Oct,Piscina,San Cristóbal
+1435,2015,Junio,Domingo,18:00-23:59,Hombre,0-4,Pozo,María Trinidad Sánchez
+1436,2015,Junio,Lunes, 6:00-11:59,Hombre,65-69,Piscina,Peravia
+1437,2015,Junio,Lunes,18:00-23:59,Hombre,35-39,Río,Monte Cristi
+1438,2015,Junio,Martes,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1439,2015,Junio,Miércoles,12:00-17:59,Hombre,0-4,Otros,Elías Pina
+1440,2015,Junio,Jueves,18:00-23:59,Hombre,30-34,Canal,Duarte
+1441,2015,Junio,Viernes,12:00-17:59,Hombre,0-4,Canal,Peravia
+1442,2015,Junio,Domingo,12:00-17:59,Hombre,20-24,Piscina,Santo Domingo
+1443,2015,Junio,Lunes, 6:00-11:59,Hombre,50-54,Mar,Santo Domingo
+1444,2015,Junio,Martes,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+1445,2015,Julio,Miércoles,12:00-17:59,Hombre,N/D,Canal,Valverde
+1446,2015,Julio,Miércoles,12:00-17:59,Hombre,50-54,Mar,Puerto Plata
+1447,2015,Julio,Domingo, 6:00-11:59,Hombre,30-34,Canal,Azua
+1448,2015,Julio,Sábado,12:00-17:59,Hombre,55-59,Mar,Barahona
+1449,2015,Julio,Miércoles,12:00-17:59,Hombre,0-4,Otros,Azua
+1450,2015,Julio,Miércoles,12:00-17:59,Mujer,15-19,Mar,Distrito Nacional
+1451,2015,Julio,Domingo,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+1452,2015,Julio,Miércoles,12:00-17:59,Hombre,25-29,Pozo,Azua
+1453,2015,Julio,Jueves,18:00-23:59,Hombre,20-24,Otros,Independencia
+1454,2015,Julio,Domingo,12:00-17:59,Hombre,0-4,Piscina,San Pedro de Macorís
+1455,2015,julio,Domingo,12:00-17:59,Hombre,25-29,Río,San Juan
+1456,2015,Julio,Domingo,18:00-23:59,Mujer,0-4,Cisterna,Santiago
+1457,2015,Julio,Lunes, 6:00-11:59,Hombre,20-24,Río,Santo Domingo
+1458,2015,Julio,Martes,12:00-17:59,Hombre,14-Oct,Otros,Monte Plata
+1459,2015,Julio,Miércoles,12:00-17:59,Mujer,20-24,Río,La Vega
+1460,2015,Julio,Domingo,12:00-17:59,Hombre,9-May,Mar,Santo Domingo
+1461,2015,Julio,Domingo,18:00-23:59,Hombre,60-64,Río,Monte Plata
+1462,2015,Julio,Lunes,12:00-17:59,Hombre,40-44,Canal,Santiago
+1463,2015,Julio,Martes,12:00-17:59,Hombre,50-54,Mar,Santo Domingo
+1464,2015,Julio,Jueves,12:00-17:59,Hombre,35-39,Mar,San Cristóbal
+1465,2015,Julio,Viernes,18:00-23:59,Hombre,30-34,Piscina,La Altagracia
+1466,2015,Agosto,Sábado, 6:00-11:59,Hombre,45-49,Canal,Santiago
+1467,2015,Agosto,Domingo,18:00-23:59,Hombre,35-39,Piscina,Santo Domingo
+1468,2015,Agosto,Domingo,18:00-23:59,Hombre,9-May,Río,Santo Domingo
+1469,2015,Agosto,Domingo,12:00-17:59,Hombre,40-44,Río,Peravia
+1470,2015,Agosto,Domingo,18:00-23:59,Hombre,25-29,Río,Santiago
+1471,2015,Agosto,Lunes, 6:00-11:59,Mujer,0-4,Piscina,Distrito Nacional
+1472,2015,Agosto,Jueves,12:00-17:59,Hombre,40-44,Mar,Distrito Nacional
+1473,2015,Agosto,Jueves,12:00-17:59,Hombre,15-19,Mar,Distrito Nacional
+1474,2015,Agosto,Viernes, 6:00-11:59,Hombre,30-34,Mar,Samaná
+1475,2015,Agosto,Viernes,12:00-17:59,Hombre,35-39,Mar,Monte Cristi
+1476,2015,Agosto,Viernes,12:00-17:59,Hombre,15-19,Mar,Monte Cristi
+1477,2015,Agosto,Domingo,18:00-23:59,Hombre,20-24,Mar,Santo Domingo
+1478,2015,Agosto,Domingo,12:00-17:59,Mujer,14-Oct,Río,Santo Domingo
+1479,2015,Agosto,Domingo,18:00-23:59,Hombre,30-34,Mar,Distrito Nacional
+1480,2015,Agosto,Domingo,18:00-23:59,Hombre,9-May,Río,Santiago
+1481,2015,Agosto,Lunes,12:00-17:59,Hombre,0-4,Pozo,San Pedro de Macorís
+1482,2015,Agosto,Lunes,12:00-17:59,Mujer,35-39,Mar,Puerto Plata
+1483,2015,Agosto,Viernes,12:00-17:59,Mujer,14-Oct,Río,San Pedro de Macorís
+1484,2015,Agosto,Viernes,18:00-23:59,Hombre,40-44,Río,San Cristóbal
+1485,2015,Agosto,Sábado,12:00-17:59,Hombre,45-49,Río,La Romana
+1486,2015,Agosto,Domingo,12:00-17:59,Mujer,14-Oct,Mar,San Cristóbal
+1487,2015,Agosto,Domingo,12:00-17:59,Hombre,20-24,Canal,Azua
+1488,2015,Agosto,Domingo,12:00-17:59,Hombre,55-59,Mar,La Romana
+1489,2015,Agosto,Sábado,18:00-23:59,Hombre,9-May,Cisterna,Santo Domingo
+1490,2015,Agosto,Domingo,12:00-17:59,Hombre,35-39,Canal,Santiago
+1491,2015,Agosto,Domingo,18:00-23:59,Mujer,9-May,Piscina,Santiago
+1492,2015,Agosto,Domingo,12:00-17:59,Hombre,40-44,Otros,María Trinidad Sánchez
+1493,2015,Agosto,Miércoles,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1494,2015,Agosto,Jueves, 6:00-11:59,Hombre,65-69,Otros,Independencia
+1495,2015,Agosto,Sábado,12:00-17:59,Hombre,15-19,Otros,Monte Plata
+1496,2015,Agosto,Domingo,12:00-17:59,Hombre,14-Oct,Río,Valverde
+1497,2015,Agosto,Domingo,12:00-17:59,Hombre,45-49,Mar,San Cristóbal
+1498,2015,Agosto,Domingo,12:00-17:59,Hombre,30-34,Mar,La Romana
+1499,2015,Septiembre,Viernes,12:00-17:59,Hombre,N/D,Mar,Distrito Nacional
+1500,2015,Septiembre,Domingo,18:00-23:59,Hombre,30-34,Mar,Azua
+1501,2015,Septiembre,Domingo,12:00-17:59,Hombre,40-44,Río,Monte Plata
+1502,2015,Septiembre,Domingo,18:00-23:59,Hombre,45-49,Mar,Puerto Plata
+1503,2015,Septiembre,Lunes,18:00-23:59,Hombre,0-4,Canal,Duarte
+1504,2015,Septiembre,Miércoles,12:00-17:59,Mujer,35-39,Mar,La Romana
+1505,2015,Septiembre,Viernes,12:00-17:59,Hombre,0-4,Cubeta,La Altagracia
+1506,2015,Septiembre,Lunes,12:00-17:59,Hombre,45-49,Cisterna,Santo Domingo
+1507,2015,Septiembre,Jueves,18:00-23:59,Mujer,9-May,Mar,San Pedro de Macorís
+1508,2015,Septiembre,Jueves,18:00-23:59,Hombre,9-May,Mar,San Pedro de Macorís
+1509,2015,Septiembre,Jueves, 6:00-11:59,Hombre,50-54,Río,Barahona
+1510,2015,Septiembre,Viernes,12:00-17:59,Hombre,0-4,Cisterna,Santiago
+1511,2015,Septiembre,Viernes,18:00-23:59,Mujer,0-4,Piscina,La Altagracia
+1512,2015,Septiembre,Martes,12:00-17:59,Mujer,14-Oct,Otros,Dajabón
+1513,2015,Septiembre,Martes,12:00-17:59,Hombre,14-Oct,Otros,Dajabón
+1514,2015,Septiembre,Martes,12:00-17:59,Hombre,14-Oct,Otros,Dajabón
+1515,2015,Septiembre,Jueves, 6:00-11:59,Hombre,35-39,Mar,Azua
+1516,2015,Septiembre,Jueves, 6:00-11:59,Hombre,30-34,Mar,Santo Domingo
+1517,2015,Septiembre,Jueves,12:00-17:59,Mujer,0-4,Piscina,Duarte
+1518,2015,Septiembre,Jueves,18:00-23:59,Hombre,30-34,Mar,Puerto Plata
+1519,2015,Septiembre,Jueves,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+1520,2015,Septiembre,Viernes,18:00-23:59,Mujer,50-54,Río,Espaillat
+1521,2015,Septiembre,Sábado, 6:00-11:59,Hombre,9-May,Cisterna,Peravia
+1522,2015,Septiembre,Lunes,18:00-23:59,Hombre,20-24,Río,San Cristóbal
+1523,2015,Septiembre,Miércoles,18:00-23:59,Hombre,30-34,Canal,Santiago
+1524,2015,Septiembre,Sábado,12:00-17:59,Hombre,75-79,Mar,La Altagracia
+1525,2015,Septiembre,Sábado,18:00-23:59,Mujer,20-24,Cisterna,Santo Domingo
+1526,2015,Octubre,Domingo, 6:00-11:59,Hombre,20-24,Cisterna,San Cristóbal
+1527,2015,Octubre,Domingo,12:00-17:59,Hombre,9-May,Río,Santiago
+1528,2015,Octubre,Lunes,12:00-17:59,Hombre,30-34,Canal,Elías Pina
+1529,2015,Octubre,Miércoles,12:00-17:59,Hombre,65-69,Río,Barahona
+1530,2015,Octubre,Sábado,12:00-17:59,Mujer,9-May,Mar,San Pedro de Macorís
+1531,2015,Octubre,Sábado,12:00-17:59,Hombre,0-4,Piscina,Duarte
+1532,2015,Octubre,Sábado,12:00-17:59,Mujer,0-4,Piscina,San Pedro de Macorís
+1533,2015,Octubre,Domingo,12:00-17:59,Hombre,45-49,Canal,San Juan
+1534,2015,Octubre,Domingo,18:00-23:59,Hombre,20-24,Piscina,Santo Domingo
+1535,2015,Octubre,Martes,12:00-17:59,Hombre,50-54,Cisterna,La Altagracia
+1536,2015,Octubre,Miércoles,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+1537,2015,Octubre,Jueves,12:00-17:59,Hombre,45-49,Mar,Santo Domingo
+1538,2015,Octubre,Sábado,18:00-23:59,Mujer,0-4,Canal,Santiago
+1539,2015,Octubre,Martes, 6:00-11:59,Hombre,0-4,Cubeta,Valverde
+1540,2015,Octubre,Sábado,12:00-17:59,Hombre,N/D,Canal,Valverde
+1541,2015,Octubre,Domingo, 6:00-11:59,Hombre,9-May,Piscina,Valverde
+1542,2015,Octubre,Miércoles,12:00-17:59,Hombre,30-34,Mar,Santo Domingo
+1543,2015,Octubre,Miércoles,18:00-23:59,Hombre,20-24,Río,Santo Domingo
+1544,2015,Noviembre,Domingo,12:00-17:59,Hombre,40-44,Mar,Samaná
+1545,2015,Noviembre,Domingo,12:00-17:59,Hombre,0-4,Cubeta,Santiago
+1546,2015,Noviembre,Domingo,18:00-23:59,Hombre,15-19,Mar,Puerto Plata
+1547,2015,Noviembre,Domingo, 6:00-11:59,Mujer,0-4,Otros,Santo Domingo
+1548,2015,Noviembre,Martes, 6:00-11:59,Hombre,60-64,Canal,Sánchez Ramírez
+1549,2015,Noviembre,Miércoles,12:00-17:59,Hombre,15-19,Mar,Puerto Plata
+1550,2015,Noviembre,Miércoles,18:00-23:59,Mujer,25-29,Río,Distrito Nacional
+1551,2015,Noviembre,Viernes,18:00-23:59,Mujer,9-May,Canal,Bahoruco
+1552,2015,Noviembre,Viernes,18:00-23:59,Hombre,40-44,Mar,El Seybo
+1553,2015,Noviembre,Domingo, 6:00-11:59,Hombre,30-34,Mar,Barahona
+1554,2015,Noviembre,Lunes,12:00-17:59,Mujer,15-19,Mar,Santo Domingo
+1555,2015,Noviembre,Lunes,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+1556,2015,Noviembre,Miércoles,18:00-23:59,Hombre,30-34,Mar,Distrito Nacional
+1557,2015,Noviembre,Viernes,18:00-23:59,Hombre,9-May,Río,La Altagracia
+1558,2015,Noviembre,Viernes,18:00-23:59,Hombre,14-Oct,Río,Santo Domingo
+1559,2015,Noviembre,Domingo,12:00-17:59,Hombre,30-34,Mar,Distrito Nacional
+1560,2015,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Mar,Puerto Plata
+1561,2015,Noviembre,Domingo,18:00-23:59,Hombre,55-59,Canal,Santiago
+1562,2015,Noviembre,Lunes, 6:00-11:59,Hombre,20-24,Río,Hato Mayor
+1563,2015,Noviembre,Lunes,12:00-17:59,Hombre,25-29,Mar,La Altagracia
+1564,2015,Noviembre,Lunes,18:00-23:59,Hombre,25-29,Río,San Pedro de Macorís
+1565,2015,Noviembre,Martes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+1566,2015,Noviembre,Martes, 6:00-11:59,Hombre,40-44,Río,Santiago
+1567,2015,Noviembre,Miércoles,12:00-17:59,Hombre,14-Oct,Otros,Santo Domingo
+1568,2015,Noviembre,Sábado,12:00-17:59,Hombre,55-59,Mar,Puerto Plata
+1569,2015,Noviembre,Lunes,12:00-17:59,Hombre,70-74,Mar,Samaná
+1570,2015,Noviembre,Sábado,18:00-23:59,Hombre,0-4,Cisterna,Santo Domingo
+1571,2015,Diciembre,Sábado,18:00-23:59,Hombre,9-May,Piscina,La Altagracia
+1572,2015,Diciembre,Sábado,12:00-17:59,Hombre,20-24,Canal,Valverde
+1573,2015,Diciembre,Sábado,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+1574,2015,Diciembre,Domingo,12:00-17:59,Hombre,25-29,Río,Hato Mayor
+1575,2015,Diciembre,Martes, 6:00-11:59,Hombre,60-64,Canal,Valverde
+1576,2015,Diciembre,Miércoles,12:00-17:59,Hombre,14-Oct,Canal,Azua
+1577,2015,Diciembre,Miércoles, 6:00-11:59,Mujer,65-69,Mar,Santo Domingo
+1578,2015,Diciembre,Miércoles, 6:00-11:59,Mujer,70-74,Mar,La Altagracia
+1579,2015,Diciembre,Viernes, 6:00-11:59,Mujer,35-39,Piscina,Puerto Plata
+1580,2015,Diciembre,Sábado,12:00-17:59,Hombre,45-49,Pozo,La Vega
+1581,2015,Diciembre,Sábado,18:00-23:59,Hombre,35-39,Otros,Peravia
+1582,2015,Diciembre,Viernes,12:00-17:59,Mujer,50-54,Mar,San Pedro de Macorís
+1583,2015,Diciembre,Sábado,12:00-17:59,Hombre,15-19,Piscina,Santo Domingo
+1584,2015,Diciembre,Sábado,12:00-17:59,Mujer,0-4,Cubeta,Santo Domingo
+1585,2015,Diciembre,Sábado,18:00-23:59,Hombre,35-39,Mar,Distrito Nacional
+1586,2015,Diciembre,Domingo,12:00-17:59,Hombre,55-59,Mar,San Cristóbal
+1587,2015,Diciembre,Lunes,18:00-23:59,Hombre,65-69,Mar,Distrito Nacional
+1588,2015,Diciembre,Lunes,12:00-17:59,Hombre,70-74,Río,Monte Plata
+1589,2015,Diciembre,Miércoles,12:00-17:59,Hombre,0-4,Río,Distrito Nacional
+1590,2015,Diciembre,Jueves,12:00-17:59,Hombre,40-44,Mar,Samaná
+1591,2015,Diciembre,Sábado,12:00-17:59,Mujer,0-4,Canal,Valverde
+1592,2016,Enero,Sábado,12:00-17:59,Hombre,25-29,Mar,San Cristóbal
+1593,2016,Enero,Lunes, 6:00-11:59,Hombre,55-59,Mar,Santo Domingo
+1594,2016,Enero,Jueves, 6:00-11:59,Hombre,70-74,Mar,Samaná
+1595,2016,Enero,Jueves,12:00-17:59,Mujer,9-May,Río,Sánchez Ramírez
+1596,2016,Enero,Domingo,12:00-17:59,Mujer,50-54,Mar,Santo Domingo
+1597,2016,Enero,Domingo,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1598,2016,Enero,Domingo,18:00-23:59,Hombre,0-4,Río,Santo Domingo
+1599,2016,Enero,Domingo, 6:00-11:59,Hombre,25-29,Mar,Distrito Nacional
+1600,2016,Enero,Lunes,12:00-17:59,Hombre,25-29,Mar,Distrito Nacional
+1601,2016,Enero,Jueves, 6:00-11:59,Hombre,25-29,Río,San Cristóbal
+1602,2016,Enero,Sábado,12:00-17:59,Hombre,14-Oct,Río,Elías Pina
+1603,2016,Enero,Domingo,12:00-17:59,Hombre,14-Oct,Río,La Vega
+1604,2016,Enero,Lunes, 6:00-11:59,Hombre,0-4,Cubeta,Espaillat
+1605,2016,Enero,Jueves,18:00-23:59,Hombre,15-19,Pozo,La Romana
+1606,2016,Enero,Jueves,12:00-17:59,Hombre,35-39,Canal,Santiago
+1607,2016,Enero,Domingo,12:00-17:59,Hombre,50-54,Mar,La Romana
+1608,2016,Enero,Martes,18:00-23:59,Hombre,45-49,Cisterna,Santo Domingo
+1609,2016,Enero,Miércoles,18:00-23:59,Hombre,0-4,Cubeta,Santo Domingo
+1610,2016,Enero,Sábado,12:00-17:59,Hombre,25-29,Mar,Pedernales
+1611,2016,Febrero,Lunes, 6:00-11:59,Hombre,75-79,Canal,Monte Cristi
+1612,2016,Febrero,Martes, 6:00-11:59,Hombre,45-49,Mar,Samaná
+1613,2016,Febrero,Jueves,12:00-17:59,Hombre,25-29,Mar,La Altagracia
+1614,2016,Febrero,Sábado,0:00-05:59,Hombre,30-34,Otros,La Vega
+1615,2016,Febrero,Sábado,18:00-23:59,Hombre,14-Oct,Cubeta,Santo Domingo
+1616,2016,Febrero,Lunes,18:00-23:59,Hombre,20-24,Río,Duarte
+1617,2016,Febrero,Lunes,18:00-23:59,Mujer,0-4,Piscina,Samaná
+1618,2016,Marzo,Jueves,12:00-17:59,Mujer,40-44,Cubeta,Peravia
+1619,2016,Marzo,Domingo,12:00-17:59,Hombre,20-24,Río,Santiago
+1620,2016,Marzo,Domingo,18:00-23:59,Hombre,15-19,Río,La Altagracia
+1621,2016,Marzo,Martes, 6:00-11:59,Mujer,0-4,Canal,Monte Cristi
+1622,2016,Marzo,Martes,12:00-17:59,Mujer,9-May,Pozo,Santo Domingo
+1623,2016,Marzo,Jueves,12:00-17:59,Hombre,9-May,Canal,Santiago
+1624,2016,Marzo,Martes,18:00-23:59,Hombre,40-44,Mar,Santo Domingo
+1625,2016,Marzo,Martes,18:00-23:59,Mujer,45-49,Mar,Santo Domingo
+1626,2016,Marzo,Viernes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+1627,2016,Marzo,Domingo,12:00-17:59,Hombre,30-34,Río,Distrito Nacional
+1628,2016,Marzo,Domingo,12:00-17:59,Hombre,15-19,Mar,María Trinidad Sánchez
+1629,2016,Marzo,Domingo,18:00-23:59,Hombre,60-64,Mar,Puerto Plata
+1630,2016,Marzo,Lunes,12:00-17:59,Hombre,9-May,Canal,Valverde
+1631,2016,Marzo,Lunes,12:00-17:59,Hombre,14-Oct,Río,Independencia
+1632,2016,Marzo,Martes,12:00-17:59,Hombre,0-4,Cubeta,San Cristóbal
+1633,2016,Marzo,Miércoles,18:00-23:59,Hombre,14-Oct,Canal,Santiago
+1634,2016,Marzo,Miércoles,12:00-17:59,Hombre,9-May,Río,Puerto Plata
+1635,2016,Marzo,Miércoles,N/D,Hombre,14-Oct,Mar,Monte Cristi
+1636,2016,Marzo,Jueves,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1637,2016,Marzo,Viernes, 6:00-11:59,Hombre,30-34,Mar,Samaná
+1638,2016,Marzo,Viernes,12:00-17:59,Hombre,0-4,Cisterna,Azua
+1639,2016,Marzo,Viernes,18:00-23:59,Hombre,14-Oct,Río,San Juan
+1640,2016,Marzo,Sábado,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1641,2016,Marzo,Sábado,18:00-23:59,Hombre,15-19,Río,Santiago
+1642,2016,Marzo,Sábado,18:00-23:59,Hombre,9-May,Canal,Peravia
+1643,2016,Marzo,Domingo,12:00-17:59,Hombre,20-24,Río,Duarte
+1644,2016,Marzo,Domingo,18:00-23:59,Mujer,0-4,Río,Peravia
+1645,2016,Marzo,Domingo,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+1646,2016,Marzo,Lunes,12:00-17:59,Hombre,75-79,Canal,Santiago
+1647,2016,Marzo,Martes, 6:00-11:59,Hombre,30-34,Río,Sánchez Ramírez
+1648,2016,Marzo,Miércoles, 6:00-11:59,Hombre,60-64,Mar,San Pedro de Macorís
+1649,2016,Marzo,Miércoles,18:00-23:59,Hombre,60-64,Mar,La Altagracia
+1650,2016,Abril,Viernes,18:00-23:59,Hombre,0-4,Río,Santiago
+1651,2016,Abril,Sábado,18:00-23:59,Hombre,20-24,Mar,Santo Domingo
+1652,2016,Abril,Domingo,12:00-17:59,Hombre,15-19,Mar,La Romana
+1653,2016,Abril,Lunes, 6:00-11:59,Hombre,15-19,Río,Puerto Plata
+1654,2016,Abril,Lunes,12:00-17:59,Hombre,0-4,Cisterna,La Altagracia
+1655,2016,Abril,Martes,12:00-17:59,Hombre,15-19,Canal,Santiago
+1656,2016,Abril,Sábado,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+1657,2016,Abril,Domingo,0:00-05:59,Hombre,60-64,Mar,San Pedro de Macorís
+1658,2016,Abril,Domingo,12:00-17:59,Hombre,9-May,Canal,Valverde
+1659,2016,Abril,Lunes, 6:00-11:59,Hombre,55-59,Mar,La Altagracia
+1660,2016,Abril,Martes,18:00-23:59,Hombre,60-64,Río,Monte Cristi
+1661,2016,Abril,Miércoles,12:00-17:59,Hombre,50-54,Mar,Samaná
+1662,2016,Abril,Jueves,12:00-17:59,Hombre,0-4,Cubeta,San Cristóbal
+1663,2016,Abril,Martes,12:00-17:59,Mujer,14-Oct,Río,San Cristóbal
+1664,2016,Abril,Martes,18:00-23:59,Hombre,60-64,Canal,Santiago
+1665,2016,Abril,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1666,2016,Abril,Jueves,N/D,Hombre,45-49,Río,Elías Pina
+1667,2016,Mayo,Domingo,12:00-17:59,Hombre,25-29,Mar,La Romana
+1668,2016,Mayo,Domingo,12:00-17:59,Hombre,9-May,Piscina,La Altagracia
+1669,2016,Mayo,Lunes,12:00-17:59,Hombre,60-64,Río,El Seybo
+1670,2016,Mayo,Lunes,12:00-17:59,Hombre,9-May,Piscina,Puerto Plata
+1671,2016,Mayo,Lunes,12:00-17:59,Hombre,45-49,Río,Santiago
+1672,2016,Mayo,Lunes,12:00-17:59,Hombre,15-19,Río,Santiago
+1673,2016,Mayo,Lunes,12:00-17:59,Mujer,14-Oct,Río,Santiago
+1674,2016,Mayo,Martes,12:00-17:59,Hombre,9-May,Mar,Santo Domingo
+1675,2016,Mayo,Martes,18:00-23:59,Mujer,0-4,Pozo,Monte Plata
+1676,2016,Mayo,Viernes, 6:00-11:59,Hombre,35-39,Mar,Puerto Plata
+1677,2016,Mayo,Sábado,18:00-23:59,Hombre,15-19,Cisterna,La Romana
+1678,2016,Mayo,Lunes,12:00-17:59,Hombre,N/D,Cisterna,Distrito Nacional
+1679,2016,Mayo,Lunes,12:00-17:59,Hombre,25-29,Río,San Pedro de Macorís
+1680,2016,Mayo,Martes,12:00-17:59,Hombre,50-54,Otros,Elías Pina
+1681,2016,Mayo,Miércoles,12:00-17:59,Hombre,15-19,Otros,La Romana
+1682,2016,Mayo,Sábado,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1683,2016,Mayo,Sábado,12:00-17:59,Hombre,15-19,Río,María Trinidad Sánchez
+1684,2016,Mayo,Sábado,N/D,Hombre,20-24,Río,San Cristóbal
+1685,2016,Mayo,Lunes,12:00-17:59,Hombre,14-Oct,Río,Duarte
+1686,2016,Mayo,Miércoles,12:00-17:59,Hombre,60-64,Río,Duarte
+1687,2016,Mayo,Jueves,18:00-23:59,Mujer,50-54,Cubeta,Duarte
+1688,2016,Mayo,Viernes, 6:00-11:59,Hombre,35-39,Río,Elías Pina
+1689,2016,Mayo,Domingo, 6:00-11:59,Hombre,50-54,Mar,Santo Domingo
+1690,2016,Mayo,Domingo,12:00-17:59,Mujer,20-24,Mar,San Cristóbal
+1691,2016,Mayo,Lunes,12:00-17:59,Hombre,9-May,Canal,Peravia
+1692,2016,Mayo,Martes, 6:00-11:59,Hombre,15-19,Canal,Valverde
+1693,2016,Mayo,Martes, 6:00-11:59,Hombre,25-29,Río,Distrito Nacional
+1694,2016,Mayo,Martes,12:00-17:59,Hombre,50-54,Mar,Distrito Nacional
+1695,2016,Mayo,Jueves,12:00-17:59,Hombre,15-19,Otros,San Juan
+1696,2016,Mayo,Viernes,12:00-17:59,Mujer,0-4,Río,Peravia
+1697,2016,Mayo,Domingo,0:00-05:59,Hombre,35-39,Río,San Cristóbal
+1698,2016,Mayo,Sábado,12:00-17:59,Hombre,25-29,Río,Barahona
+1699,2016,Mayo,Lunes,12:00-17:59,Hombre,0-4,Canal,Azua
+1700,2016,Junio,Jueves,N/D,Hombre,15-19,Río,Monte Cristi
+1701,2016,Junio,Viernes, 6:00-11:59,Hombre,0-4,Río,Puerto Plata
+1702,2016,Junio,Domingo,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+1703,2016,Junio,Lunes,12:00-17:59,Hombre,15-19,Río,La Altagracia
+1704,2016,Junio,Martes,18:00-23:59,Hombre,65-69,Otros,La Vega
+1705,2016,Junio,Viernes,18:00-23:59,Hombre,14-Oct,Otros,Independencia
+1706,2016,Junio,Viernes, 6:00-11:59,Hombre,14-Oct,Río,Santo Domingo
+1707,2016,Junio,Viernes,18:00-23:59,Hombre,65-69,Río,Santo Domingo
+1708,2016,Junio,Domingo, 6:00-11:59,Hombre,25-29,Otros,Monte Cristi
+1709,2016,Junio,Domingo, 6:00-11:59,Hombre,N/D,Piscina,Santo Domingo
+1710,2016,Junio,Martes, 6:00-11:59,Hombre,40-44,Mar,Distrito Nacional
+1711,2016,Junio,Martes, 6:00-11:59,Mujer,35-39,Mar,Distrito Nacional
+1712,2016,Junio,Martes,12:00-17:59,Hombre,20-24,Río,Santiago
+1713,2016,Junio,Martes,18:00-23:59,Hombre,0-4,Piscina,Santo Domingo
+1714,2016,Junio,Miércoles,18:00-23:59,Hombre,9-May,Río,La Romana
+1715,2016,Junio,Viernes,12:00-17:59,Hombre,0-4,Río,San Cristóbal
+1716,2016,Junio,Viernes,12:00-17:59,Mujer,14-Oct,Cisterna,Santo Domingo
+1717,2016,Junio,Sábado, 6:00-11:59,Hombre,15-19,Mar,Puerto Plata
+1718,2016,Junio,Sábado,12:00-17:59,Mujer,25-29,Mar,San Pedro de Macorís
+1719,2016,Junio,Lunes,12:00-17:59,Hombre,N/D,Canal,Valverde
+1720,2016,Junio,Lunes, 6:00-11:59,Hombre,45-49,Mar,Santo Domingo
+1721,2016,Junio,Jueves, 6:00-11:59,Mujer,9-May,Otros,La Vega
+1722,2016,Junio,Jueves, 6:00-11:59,Mujer,9-May,Otros,La Vega
+1723,2016,Junio,Domingo,18:00-23:59,Hombre,15-19,Mar,San Pedro de Macorís
+1724,2016,Junio,Domingo, 6:00-11:59,Hombre,0-4,Cisterna,Santo Domingo
+1725,2016,Junio,Domingo,12:00-17:59,Hombre,9-May,Canal,Peravia
+1726,2016,Junio,Jueves,12:00-17:59,Hombre,9-May,Cisterna,San Cristóbal
+1727,2016,Julio,Sábado,18:00-23:59,Hombre,25-29,Río,Santo Domingo
+1728,2016,Julio,Domingo, 6:00-11:59,Hombre,50-54,Río,Valverde
+1729,2016,Julio,Domingo,18:00-23:59,Mujer,15-19,Río,Puerto Plata
+1730,2016,Julio,Domingo,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+1731,2016,Julio,Lunes,18:00-23:59,Hombre,45-49,Mar,Santo Domingo
+1732,2016,Julio,Martes, 6:00-11:59,Mujer,50-54,Piscina,Puerto Plata
+1733,2016,Julio,Martes,18:00-23:59,Hombre,50-54,Río,Monseñor Nouel
+1734,2016,Julio,Miércoles,12:00-17:59,Hombre,45-49,Río,Santo Domingo
+1735,2016,Julio,Miércoles,12:00-17:59,Hombre,9-May,Río,San Pedro de Macorís
+1736,2016,Julio,Jueves,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+1737,2016,Julio,Jueves,12:00-17:59,Hombre,0-4,Otros,San Juan
+1738,2016,Julio,Jueves,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+1739,2016,Julio,Jueves,N/D,Hombre,40-44,Canal,Santiago
+1740,2016,Julio,Viernes, 6:00-11:59,Hombre,9-May,Cubeta,Santo Domingo
+1741,2016,Julio,Sábado,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+1742,2016,Julio,Sábado,12:00-17:59,Hombre,9-May,Piscina,Santo Domingo
+1743,2016,Julio,Domingo,12:00-17:59,Hombre,35-39,Mar,Santo Domingo
+1744,2016,Julio,Domingo,12:00-17:59,Hombre,25-29,Mar,Santo Domingo
+1745,2016,Julio,Domingo,12:00-17:59,Hombre,30-34,Piscina,El Seybo
+1746,2016,Julio,Martes,12:00-17:59,Hombre,25-29,Mar,Monte Cristi
+1747,2016,Julio,Jueves,12:00-17:59,Hombre,9-May,Río,La Altagracia
+1748,2016,Julio,Jueves,12:00-17:59,Hombre,0-4,Río,Monseñor Nouel
+1749,2016,Julio,Sábado,12:00-17:59,Hombre,35-39,Canal,Azua
+1750,2016,Julio,Domingo,12:00-17:59,Mujer,9-May,Río,Barahona
+1751,2016,Julio,Domingo, 6:00-11:59,Hombre,9-May,Río,Santiago
+1752,2016,Julio,Domingo, 6:00-11:59,Hombre,14-Oct,Río,Santiago
+1753,2016,Julio,Domingo,12:00-17:59,Hombre,20-24,Río,San Cristóbal
+1754,2016,Julio,Martes,12:00-17:59,Hombre,75-79,Mar,San Cristóbal
+1755,2016,Julio,Miércoles,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+1756,2016,Julio,Miércoles,12:00-17:59,Hombre,14-Oct,Piscina,Santo Domingo
+1757,2016,Julio,Domingo,12:00-17:59,Hombre,N/D,Río,Valverde
+1758,2016,Julio,Domingo,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+1759,2016,Julio,Domingo,12:00-17:59,Hombre,14-Oct,Río,San Cristóbal
+1760,2016,Julio,Domingo,18:00-23:59,Hombre,15-19,Mar,San Pedro de Macorís
+1761,2016,Agosto,Lunes,0:00-05:59,Mujer,N/D,Mar,Samaná
+1762,2016,Agosto,Lunes,0:00-05:59,Mujer,N/D,Mar,Samaná
+1763,2016,Agosto,Lunes,0:00-05:59,Mujer,N/D,Mar,Samaná
+1764,2016,Agosto,Lunes,0:00-05:59,Hombre,40-44,Mar,Samaná
+1765,2016,Agosto,Lunes,0:00-05:59,Hombre,N/D,Mar,Samaná
+1766,2016,Agosto,Lunes,0:00-05:59,Hombre,30-34,Mar,Samaná
+1767,2016,agosto,Martes,12:00-17:59,Hombre,15-19,Río,Santiago
+1768,2016,Agosto,Miércoles, 6:00-11:59,Hombre,40-44,Mar,Samaná
+1769,2016,Agosto,Jueves,12:00-17:59,Hombre,N/D,Río,Monte Cristi
+1770,2016,Agosto,Viernes,18:00-23:59,Hombre,40-44,Canal,Santiago
+1771,2016,Agosto,Sábado,12:00-17:59,Hombre,20-24,Otros,Independencia
+1772,2016,Agosto,Sábado, 6:00-11:59,Hombre,N/D,Canal,Valverde
+1773,2016,Agosto,Sábado,12:00-17:59,Hombre,25-29,Otros,Monseñor Nouel
+1774,2016,Agosto,Sábado,12:00-17:59,Mujer,20-24,Otros,Monseñor Nouel
+1775,2016,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,Azua
+1776,2016,Agosto,Domingo,18:00-23:59,Hombre,20-24,Mar,Santo Domingo
+1777,2016,Agosto,Domingo,18:00-23:59,Hombre,25-29,Río,Santiago Rodriguez
+1778,2016,Agosto,Miércoles,18:00-23:59,Hombre,45-49,Mar,Peravia
+1779,2016,Agosto,Jueves,12:00-17:59,Hombre,20-24,Canal,Santiago
+1780,2016,Agosto,Viernes,0:00-05:59,Hombre,15-19,Mar,Distrito Nacional
+1781,2016,Agosto,Sábado,18:00-23:59,Hombre,15-19,Río,La Vega
+1782,2016,Agosto,Domingo,12:00-17:59,Hombre,15-19,Mar,Puerto Plata
+1783,2016,Agosto,Martes, 6:00-11:59,Hombre,20-24,Río,Monseñor Nouel
+1784,2016,Agosto,Martes,12:00-17:59,Hombre,N/D,Río,Dajabón
+1785,2016,Agosto,Miércoles, 6:00-11:59,Hombre,14-Oct,Mar,Santo Domingo
+1786,2016,Agosto,Miércoles, 6:00-11:59,Hombre,N/D,Río,La Altagracia
+1787,2016,Agosto,Miércoles,18:00-23:59,Hombre,20-24,Río,María Trinidad Sánchez
+1788,2016,Agosto,Martes,12:00-17:59,Hombre,45-49,Piscina,Peravia
+1789,2016,Agosto,Martes, 6:00-11:59,Mujer,N/D,Canal,Santiago
+1790,2016,Agosto,Martes,12:00-17:59,Mujer,0-4,Cisterna,Santo Domingo
+1791,2016,Agosto,Martes,18:00-23:59,Hombre,70-74,Mar,Distrito Nacional
+1792,2016,Agosto,Martes,18:00-23:59,Hombre,35-39,Piscina,San José de Ocoa
+1793,2016,Agosto,Miércoles,12:00-17:59,Mujer,75-79,Río,María Trinidad Sánchez
+1794,2016,Septiembre,Domingo, 6:00-11:59,Hombre,20-24,Río,Santo Domingo
+1795,2016,Septiembre,Domingo,12:00-17:59,Hombre,0-4,Cisterna,La Romana
+1796,2016,Septiembre,Domingo, 6:00-11:59,Hombre,20-24,Cisterna,María Trinidad Sánchez
+1797,2016,Septiembre,Martes,18:00-23:59,Hombre,N/D,Canal,Valverde
+1798,2016,Septiembre,Miércoles, 6:00-11:59,Hombre,25-29,Mar,La Altagracia
+1799,2016,Septiembre,Viernes,12:00-17:59,Hombre,65-69,Río,Puerto Plata
+1800,2016,Septiembre,Sábado,12:00-17:59,Hombre,0-4,Otros,Santiago
+1801,2016,Septiembre,Sábado,12:00-17:59,Hombre,70-74,Mar,Puerto Plata
+1802,2016,Septiembre,Sábado,18:00-23:59,Hombre,35-39,Otros,Distrito Nacional
+1803,2016,Septiembre,Domingo,18:00-23:59,Hombre,65-69,Río,Espaillat
+1804,2016,Septiembre,Domingo,18:00-23:59,Hombre,0-4,Río,Espaillat
+1805,2016,Septiembre,Martes,12:00-17:59,Hombre,15-19,Río,La Romana
+1806,2016,Septiembre,Martes,12:00-17:59,Hombre,N/D,Canal,Monte Cristi
+1807,2016,Septiembre,Viernes, 6:00-11:59,Hombre,15-19,Río,San Juan
+1808,2016,Septiembre,Viernes, 6:00-11:59,Hombre,70-74,Río,Duarte
+1809,2016,Septiembre,Sábado,12:00-17:59,Hombre,0-4,Cisterna,La Romana
+1810,2016,Septiembre,Domingo, 6:00-11:59,Hombre,9-May,Otros,San Cristóbal
+1811,2016,Septiembre,Domingo,12:00-17:59,Hombre,35-39,Río,El Seybo
+1812,2016,Septiembre,Domingo,12:00-17:59,Hombre,35-39,Otros,Santiago
+1813,2016,Septiembre,Martes,12:00-17:59,Mujer,14-Oct,Canal,Valverde
+1814,2016,Septiembre,Miércoles,18:00-23:59,Hombre,25-29,Canal,Santiago
+1815,2016,Septiembre,Miércoles,N/D,Hombre,45-49,Río,Santo Domingo
+1816,2016,Septiembre,Sábado,18:00-23:59,Hombre,45-49,Mar,La Altagracia
+1817,2016,Septiembre,Sábado,18:00-23:59,Mujer,50-54,Mar,La Altagracia
+1818,2016,Septiembre,Domingo,18:00-23:59,Hombre,20-24,Río,Espaillat
+1819,2016,Septiembre,Domingo,18:00-23:59,Hombre,35-39,Cisterna,Monte Cristi
+1820,2016,Septiembre,Domingo,12:00-17:59,Hombre,N/D,Mar,La Altagracia
+1821,2016,Septiembre,Lunes,18:00-23:59,Hombre,15-19,Canal,Azua
+1822,2016,Septiembre,Jueves,12:00-17:59,Hombre,0-4,Cisterna,San Cristóbal
+1823,2016,Octubre,Sábado,18:00-23:59,Hombre,N/D,Río,Duarte
+1824,2016,Octubre,Sábado,18:00-23:59,Hombre,N/D,Río,Duarte
+1825,2016,Octubre,Sábado,18:00-23:59,Hombre,N/D,Río,Duarte
+1826,2016,Octubre,Lunes,18:00-23:59,Hombre,25-29,Río,La Altagracia
+1827,2016,Octubre,Martes, 6:00-11:59,Hombre,15-19,Mar,Santo Domingo
+1828,2016,Octubre,Martes,18:00-23:59,Hombre,0-4,Canal,Valverde
+1829,2016,Octubre,Jueves,12:00-17:59,Hombre,14-Oct,Río,Monte Plata
+1830,2016,Octubre,Jueves,18:00-23:59,Hombre,35-39,Río,El Seybo
+1831,2016,Octubre,Viernes,18:00-23:59,Mujer,40-44,Río,San Juan
+1832,2016,Octubre,Domingo,12:00-17:59,Hombre,15-19,Pozo,La Vega
+1833,2016,Octubre,Domingo,12:00-17:59,Hombre,30-34,Mar,Santo Domingo
+1834,2016,Octubre,Martes,18:00-23:59,Hombre,15-19,Río,Valverde
+1835,2016,Octubre,Martes,18:00-23:59,Hombre,N/D,Canal,San Juan
+1836,2016,Octubre,Viernes, 6:00-11:59,Hombre,20-24,Mar,Azua
+1837,2016,Octubre,Viernes,18:00-23:59,Hombre,15-19,Mar,Samaná
+1838,2016,Octubre,Sábado,18:00-23:59,Hombre,70-74,Canal,Santiago
+1839,2016,Octubre,Sábado,18:00-23:59,Hombre,40-44,Otros,Santiago
+1840,2016,Octubre,Lunes,12:00-17:59,Hombre,0-4,Otros,La Vega
+1841,2016,Octubre,Lunes,18:00-23:59,Hombre,35-39,Otros,Santo Domingo
+1842,2016,Octubre,Miércoles, 6:00-11:59,Hombre,40-44,Cisterna,Azua
+1843,2016,Octubre,Jueves,12:00-17:59,Hombre,14-Oct,Otros,San Pedro de Macorís
+1844,2016,Octubre,Viernes,12:00-17:59,Mujer,65-69,Mar,Puerto Plata
+1845,2016,Octubre,Lunes,12:00-17:59,Hombre,14-Oct,Otros,Santo Domingo
+1846,2016,Octubre,Martes,18:00-23:59,Hombre,50-54,Río,Dajabón
+1847,2016,Octubre,Viernes,12:00-17:59,Hombre,30-34,Río,El Seybo
+1848,2016,Octubre,Sábado,12:00-17:59,Hombre,35-39,Piscina,San Cristóbal
+1849,2016,Noviembre,Martes,12:00-17:59,Hombre,15-19,Mar,Hato Mayor
+1850,2016,Noviembre,Martes,18:00-23:59,Hombre,35-39,Mar,La Altagracia
+1851,2016,Noviembre,Martes,12:00-17:59,Hombre,14-Oct,Piscina,San José de Ocoa
+1852,2016,Noviembre,Martes,12:00-17:59,Hombre,14-Oct,Piscina,San José de Ocoa
+1853,2016,Noviembre,Martes,12:00-17:59,Hombre,9-May,Río,Espaillat
+1854,2016,Noviembre,Miércoles, 6:00-11:59,Hombre,0-4,Canal,Peravia
+1855,2016,Noviembre,Jueves,12:00-17:59,Hombre,14-Oct,Río,San Cristóbal
+1856,2016,Noviembre,Jueves, 6:00-11:59,Hombre,35-39,Mar,La Altagracia
+1857,2016,Noviembre,Domingo, 6:00-11:59,Hombre,9-May,Otros,Espaillat
+1858,2016,Noviembre,Domingo,18:00-23:59,Hombre,45-49,Otros,La Vega
+1859,2016,Noviembre,Lunes, 6:00-11:59,Hombre,15-19,Mar,San Cristóbal
+1860,2016,Noviembre,Miércoles,12:00-17:59,Hombre,20-24,Río,La Vega
+1861,2016,Noviembre,Miércoles, 6:00-11:59,Hombre,40-44,Río,La Vega
+1862,2016,Noviembre,Domingo,12:00-17:59,Hombre,20-24,Canal,Valverde
+1863,2016,Noviembre,Martes, 6:00-11:59,Hombre,15-19,Río,Sánchez Ramírez
+1864,2016,Noviembre,Miércoles, 6:00-11:59,Hombre,40-44,Río,Duarte
+1865,2016,Noviembre,Jueves,12:00-17:59,Hombre,0-4,Cisterna,Santiago
+1866,2016,Noviembre,Jueves, 6:00-11:59,Hombre,N/D,Río,Distrito Nacional
+1867,2016,Noviembre,Viernes,12:00-17:59,Mujer,0-4,Cisterna,Duarte
+1868,2016,Noviembre,Viernes,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1869,2016,Noviembre,Sábado,18:00-23:59,Hombre,0-4,Cisterna,Monte Plata
+1870,2016,Noviembre,Domingo, 6:00-11:59,Hombre,9-May,Río,La Vega
+1871,2016,Noviembre,Domingo, 6:00-11:59,Hombre,N/D,Río,La Vega
+1872,2016,Noviembre,Domingo,12:00-17:59,Hombre,45-49,Río,Santiago
+1873,2016,Noviembre,Domingo,12:00-17:59,Hombre,14-Oct,Mar,San Pedro de Macorís
+1874,2016,Noviembre,Lunes,12:00-17:59,Hombre,50-54,Río,Santiago
+1875,2016,Noviembre,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Hermanas Mirabal
+1876,2016,Noviembre,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Hermanas Mirabal
+1877,2016,Noviembre,Jueves, 6:00-11:59,Hombre,14-Oct,Otros,Santo Domingo
+1878,2016,Noviembre,Jueves,12:00-17:59,Mujer,9-May,Río,Hermanas Mirabal
+1879,2016,Noviembre,Jueves,12:00-17:59,Hombre,75-79,Mar,La Altagracia
+1880,2016,Noviembre,Domingo,18:00-23:59,Mujer,14-Oct,Río,Puerto Plata
+1881,2016,Noviembre,Domingo,18:00-23:59,Hombre,40-44,Río,Puerto Plata
+1882,2016,Noviembre,Domingo,18:00-23:59,Hombre,35-39,Río,Puerto Plata
+1883,2016,Noviembre,Domingo,18:00-23:59,Hombre,35-39,Río,Puerto Plata
+1884,2016,Noviembre,Domingo,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+1885,2016,Noviembre,Domingo,12:00-17:59,Hombre,50-54,Mar,Distrito Nacional
+1886,2016,Noviembre,Lunes, 6:00-11:59,Hombre,60-64,Río,Puerto Plata
+1887,2016,Noviembre,Lunes, 6:00-11:59,Hombre,25-29,Río,Puerto Plata
+1888,2016,Noviembre,Lunes, 6:00-11:59,Hombre,20-24,Mar,El Seybo
+1889,2016,Noviembre,Martes, 6:00-11:59,Hombre,14-Oct,Río,Duarte
+1890,2016,Noviembre,Miércoles,12:00-17:59,Hombre,20-24,Canal,Monte Cristi
+1891,2016,Diciembre,Viernes, 6:00-11:59,Hombre,45-49,Mar,La Altagracia
+1892,2016,Diciembre,Viernes, 6:00-11:59,Mujer,15-19,Cisterna,Santo Domingo
+1893,2016,Diciembre,Sábado,12:00-17:59,Hombre,60-64,Río,Duarte
+1894,2016,Diciembre,Domingo,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+1895,2016,Diciembre,Domingo,12:00-17:59,Hombre,15-19,Río,Duarte
+1896,2016,Diciembre,Domingo,12:00-17:59,Hombre,40-44,Río,Duarte
+1897,2016,Diciembre,Martes,12:00-17:59,Mujer,70-74,Río,María Trinidad Sánchez
+1898,2016,Diciembre,Martes,12:00-17:59,Hombre,9-May,Otros,Santiago
+1899,2016,Diciembre,Martes,18:00-23:59,Hombre,15-19,Río,Valverde
+1900,2016,Diciembre,Miércoles,12:00-17:59,Hombre,N/D,Río,Monte Cristi
+1901,2016,Diciembre,Jueves,12:00-17:59,Hombre,20-24,Cisterna,La Vega
+1902,2016,Diciembre,Jueves,12:00-17:59,Hombre,15-19,Cisterna,La Vega
+1903,2016,Diciembre,Domingo,12:00-17:59,Hombre,40-44,Mar,Barahona
+1904,2016,Diciembre,Domingo,12:00-17:59,Hombre,35-39,Piscina,Monte Plata
+1905,2016,Diciembre,Lunes,12:00-17:59,Hombre,20-24,Río,Espaillat
+1906,2016,Diciembre,Miércoles, 6:00-11:59,Hombre,25-29,Río,Santo Domingo
+1907,2016,Diciembre,Jueves,12:00-17:59,Hombre,0-4,Cubeta,Santo Domingo
+1908,2016,Diciembre,Jueves, 6:00-11:59,Hombre,0-4,Cubeta,Santo Domingo
+1909,2016,Diciembre,Sábado,12:00-17:59,Mujer,40-44,Piscina,Barahona
+1910,2016,Diciembre,Jueves,12:00-17:59,Hombre,25-29,Río,Duarte
+1911,2016,Diciembre,Sábado,12:00-17:59,Hombre,0-4,Pozo,Santiago
+1912,2016,Diciembre,Sábado,18:00-23:59,Hombre,50-54,Río,Duarte
+1913,2016,Diciembre,Domingo,12:00-17:59,Hombre,25-29,Río,Monte Plata
+1914,2016,Diciembre,Lunes,12:00-17:59,Hombre,35-39,Río,Santiago
+1915,2016,Diciembre,Miércoles,12:00-17:59,Hombre,0-4,Cubeta,La Romana
+1916,2016,Diciembre,Miércoles,18:00-23:59,Mujer,N/D,Otros,Santiago
+1917,2017,Enero,Domingo,12:00-17:59,Hombre,20-24,Otros,María Trinidad Sánchez
+1918,2017,Enero,Miércoles,18:00-23:59,Hombre,30-34,Canal,Santiago
+1919,2017,Enero,Sábado,N/D,Hombre,45-49,Canal,Santiago
+1920,2017,Enero,Viernes,12:00-17:59,Hombre,55-59,Canal,Santiago
+1921,2017,Enero,Sábado,12:00-17:59,Hombre,0-4,Cisterna,La Altagracia
+1922,2017,Enero,Miércoles,12:00-17:59,Hombre,50-54,Cisterna,Distrito Nacional
+1923,2017,Enero,Lunes,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+1924,2017,Enero,Jueves, 6:00-11:59,Hombre,0-4,Cubeta,Distrito Nacional
+1925,2017,Enero,Sábado,12:00-17:59,Hombre,45-49,Cubeta,Peravia
+1926,2017,Enero,Miércoles, 6:00-11:59,Hombre,70-74,Mar,Santo Domingo
+1927,2017,Enero,Viernes,12:00-17:59,Hombre,0-4,Piscina,Santo Domingo
+1928,2017,Enero,Jueves,12:00-17:59,Hombre,0-4,Piscina,San Juan
+1929,2017,Enero,Miércoles,12:00-17:59,Mujer,25-29,Mar,Puerto Plata
+1930,2017,Enero,Lunes,12:00-17:59,Mujer,14-Oct,Otros,San Juan
+1931,2017,Enero,Lunes,12:00-17:59,Mujer,14-Oct,Otros,San Juan
+1932,2017,Enero,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+1933,2017,Enero,Domingo,12:00-17:59,Hombre,15-19,Río,La Altagracia
+1934,2017,Enero,Lunes, 6:00-11:59,Hombre,15-19,Río,Monte Cristi
+1935,2017,Enero,Sábado,12:00-17:59,Hombre,35-39,Río,Distrito Nacional
+1936,2017,Enero,Miércoles, 6:00-11:59,Hombre,35-39,Río,Distrito Nacional
+1937,2017,Enero,Miércoles, 6:00-11:59,Mujer,N/D,Río,Santo Domingo
+1938,2017,Enero,Lunes,12:00-17:59,Hombre,0-4,Pozo,Santo Domingo
+1939,2017,Enero,Domingo,12:00-17:59,Hombre,55-59,Otros,San Cristóbal
+1940,2017,Febrero,Lunes,18:00-23:59,Hombre,35-39,Canal,Santiago
+1941,2017,Febrero,Jueves,18:00-23:59,Hombre,0-4,Canal,San Juan
+1942,2017,Febrero,Jueves,18:00-23:59,Hombre,0-4,Cisterna,Monseñor Nouel
+1943,2017,Febrero,Jueves,12:00-17:59,Hombre,20-24,Cubeta,Santiago
+1944,2017,Febrero,Miércoles,18:00-23:59,Hombre,20-24,Mar,Santo Domingo
+1945,2017,Febrero,Miércoles,18:00-23:59,Mujer,65-69,Mar,Distrito Nacional
+1946,2017,Febrero,Martes, 6:00-11:59,Mujer,15-19,Mar,El Seybo
+1947,2017,Febrero,Jueves,N/D,Hombre,20-24,Mar,Puerto Plata
+1948,2017,Febrero,Martes, 6:00-11:59,Hombre,25-29,Mar,El Seybo
+1949,2017,Febrero,Martes, 6:00-11:59,Mujer,35-39,Mar,El Seybo
+1950,2017,Febrero,Miércoles,12:00-17:59,Hombre,45-49,Mar,Santo Domingo
+1951,2017,Febrero,Jueves,12:00-17:59,Hombre,55-59,Mar,La Altagracia
+1952,2017,Febrero,Miércoles,18:00-23:59,Hombre,60-64,Mar,María Trinidad Sánchez
+1953,2017,Febrero,Martes,12:00-17:59,Hombre,75-79,Mar,María Trinidad Sánchez
+1954,2017,Febrero,Sábado, 6:00-11:59,Hombre,0-4,Río,Monseñor Nouel
+1955,2017,Febrero,Viernes,N/D,Hombre,20-24,Río,San Cristóbal
+1956,2017,Febrero,Domingo,12:00-17:59,Hombre,20-24,Río,Monte Plata
+1957,2017,Febrero,Jueves,12:00-17:59,Hombre,30-34,Río,Azua
+1958,2017,Febrero,Jueves,18:00-23:59,Mujer,35-39,Río,San Cristóbal
+1959,2017,Febrero,Jueves,18:00-23:59,Mujer,60-64,Río,El Seybo
+1960,2017,Febrero,Sábado,12:00-17:59,Hombre,40-44,pozo,La Romana
+1961,2017,Marzo,Viernes,12:00-17:59,Hombre,25-29,Otros,Santiago
+1962,2017,Marzo,Martes, 6:00-11:59,Hombre,65-69,Otros,San Pedro de Macorís
+1963,2017,Marzo,Martes,12:00-17:59,Hombre,0-4,Cisterna,Duarte
+1964,2017,Marzo,Lunes,12:00-17:59,Hombre,25-29,Mar,Distrito Nacional
+1965,2017,Marzo,Viernes,12:00-17:59,Hombre,30-34,Mar,Santo Domingo
+1966,2017,Marzo,Sábado,18:00-23:59,Hombre,40-44,Mar,Azua
+1967,2017,Marzo,Viernes,12:00-17:59,Hombre,9-May,Piscina,Barahona
+1968,2017,Marzo,Viernes,12:00-17:59,Hombre,15-19,Mar,Barahona
+1969,2017,Marzo,Domingo,12:00-17:59,Hombre,30-34,Mar,Azua
+1970,2017,Marzo,Lunes, 6:00-11:59,Hombre,30-34,Mar,Puerto Plata
+1971,2017,Marzo,Domingo,12:00-17:59,Hombre,35-39,Mar,Azua
+1972,2017,Marzo,Miércoles, 6:00-11:59,Hombre,40-44,Mar,San Pedro de Macorís
+1973,2017,Marzo,Sábado,12:00-17:59,Mujer,15-19,Mar,La Altagracia
+1974,2017,Marzo,Jueves,12:00-17:59,Hombre,30-34,Río,Peravia
+1975,2017,Marzo,Martes,18:00-23:59,Hombre,0-4,Río,Sánchez Ramírez
+1976,2017,Marzo,Domingo,12:00-17:59,Mujer,14-Oct,Río,Hato Mayor
+1977,2017,Marzo,Miércoles,12:00-17:59,Hombre,15-19,Río,Puerto Plata
+1978,2017,Marzo,Miércoles, 6:00-11:59,Hombre,30-34,Río,Distrito Nacional
+1979,2017,Marzo,Jueves, 6:00-11:59,Hombre,35-39,Río,Distrito Nacional
+1980,2017,Marzo,Miércoles,12:00-17:59,Mujer,40-44,Río,Puerto Plata
+1981,2017,Marzo,Lunes,12:00-17:59,Mujer,0-4,Pozo,Distrito Nacional
+1982,2017,Abril,Sábado,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+1983,2017,Abril,Sábado,12:00-17:59,Hombre,20-24,Río,San Pedro de Macorís
+1984,2017,Abril,Domingo,12:00-17:59,Hombre,0-4,Cubeta,San Cristóbal
+1985,2017,Abril,Miércoles,12:00-17:59,Mujer,25-29,Río,Barahona
+1986,2017,Abril,Miércoles, 6:00-11:59,Hombre,50-54,Otros,Samaná
+1987,2017,Abril,Jueves,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+1988,2017,Abril,Jueves,18:00-23:59,Hombre,40-44,Mar,Santo Domingo
+1989,2017,Abril,Viernes,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+1990,2017,Abril,Domingo,12:00-17:59,Hombre,25-29,Mar,Samaná
+1991,2017,Abril,Domingo,12:00-17:59,Hombre,14-Oct,Otros,Santo Domingo
+1992,2017,Abril,Domingo,12:00-17:59,Hombre,25-29,Río,María Trinidad Sánchez
+1993,2017,Abril,Martes, 6:00-11:59,Hombre,35-39,Río,Distrito Nacional
+1994,2017,Abril,Martes,18:00-23:59,Hombre,20-24,Río,La Altagracia
+1995,2017,Abril,Martes,18:00-23:59,Hombre,70-74,Mar,Santo Domingo
+1996,2017,Abril,Jueves,18:00-23:59,Hombre,20-24,Piscina,Santo Domingo
+1997,2017,Abril,Viernes,18:00-23:59,Hombre,9-May,Río,Puerto Plata
+1998,2017,Abril,Viernes,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+1999,2017,Abril,Viernes,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+2000,2017,Abril,Sábado,18:00-23:59,Hombre,35-39,Río,Peravia
+2001,2017,Abril,Sábado,18:00-23:59,Hombre,9-May,Río,San Juan
+2002,2017,Abril,Domingo,12:00-17:59,Mujer,15-19,Otros,San Cristóbal
+2003,2017,Abril,Miércoles,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+2004,2017,Abril,Martes,12:00-17:59,Hombre,14-Oct,Piscina,La Romana
+2005,2017,Abril,Miércoles,12:00-17:59,Hombre,0-4,Cisterna,Santo Domingo
+2006,2017,Abril,Viernes,12:00-17:59,Mujer,65-69,Mar,La Altagracia
+2007,2017,Abril,Domingo,18:00-23:59,Hombre,9-May,Río,Duarte
+2008,2017,Abril,Domingo,12:00-17:59,Hombre,25-29,Mar,Puerto Plata
+2009,2017,Abril,Lunes,12:00-17:59,Hombre,75-79,Río,Barahona
+2010,2017,Abril,Martes, 6:00-11:59,Hombre,15-19,Río,San Cristóbal
+2011,2017,Abril,Jueves,0:00-05:59,Hombre,20-24,Río,San Cristóbal
+2012,2017,Abril,Viernes,18:00-23:59,Hombre,35-39,Piscina,San Pedro de Macorís
+2013,2017,Abril,Viernes,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+2014,2017,Abril,Sábado, 6:00-11:59,Hombre,25-29,Río,Duarte
+2015,2017,Abril,Domingo,18:00-23:59,Hombre,35-39,Otros,Peravia
+2016,2017,Mayo,Lunes, 6:00-11:59,Hombre,9-May,Río,Espaillat
+2017,2017,Mayo,Lunes,12:00-17:59,Hombre,0-4,Cubeta,Santiago
+2018,2017,Mayo,Lunes,18:00-23:59,Hombre,65-69,Otros,Santiago
+2019,2017,Mayo,Jueves,12:00-17:59,Hombre,14-Oct,Otros,Santiago Rodriguez
+2020,2017,Mayo,Sábado, 6:00-11:59,Hombre,25-29,Río,Duarte
+2021,2017,Mayo,Domingo,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2022,2017,Mayo,Domingo, 6:00-11:59,Hombre,30-34,Río,Monte Plata
+2023,2017,Mayo,Domingo,12:00-17:59,Hombre,15-19,Piscina,Santo Domingo
+2024,2017,Mayo,Lunes, 6:00-11:59,Hombre,50-54,Río,Barahona
+2025,2017,Mayo,Lunes,12:00-17:59,Hombre,50-54,Mar,Santo Domingo
+2026,2017,Mayo,Lunes, 6:00-11:59,Hombre,15-19,Mar,Puerto Plata
+2027,2017,Mayo,Jueves,N/D,Hombre,20-24,Canal,Valverde
+2028,2017,Mayo,Viernes,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+2029,2017,Mayo,Sábado,18:00-23:59,Hombre,45-49,Río,Santiago Rodriguez
+2030,2017,Mayo,Sábado,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+2031,2017,Mayo,Domingo, 6:00-11:59,Mujer,9-May,Río,San Juan
+2032,2017,Mayo,Domingo,12:00-17:59,Hombre,30-34,Río,Monte Cristi
+2033,2017,Mayo,Domingo,12:00-17:59,Hombre,15-19,Mar,San Pedro de Macorís
+2034,2017,Mayo,Lunes, 6:00-11:59,Hombre,50-54,Mar,La Altagracia
+2035,2017,Mayo,Lunes,12:00-17:59,Hombre,70-74,Río,Sánchez Ramírez
+2036,2017,Mayo,Lunes,18:00-23:59,Hombre,25-29,Otros,Dajabón
+2037,2017,Mayo,Martes,18:00-23:59,Hombre,0-4,Cisterna,Duarte
+2038,2017,Mayo,Martes, 6:00-11:59,Hombre,9-May,Otros,Santo Domingo
+2039,2017,Mayo,Sábado,12:00-17:59,Hombre,14-Oct,Piscina,Espaillat
+2040,2017,Mayo,Sábado,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+2041,2017,Mayo,Sábado,18:00-23:59,Hombre,0-4,Cubeta,La Altagracia
+2042,2017,Mayo,Lunes, 6:00-11:59,Hombre,9-May,Río,La Vega
+2043,2017,Mayo,Lunes,12:00-17:59,Hombre,30-34,Canal,Duarte
+2044,2017,Mayo,Lunes,12:00-17:59,Hombre,N/D,Canal,San Juan
+2045,2017,Mayo,Martes,18:00-23:59,Hombre,9-May,Cisterna,La Vega
+2046,2017,Mayo,Martes,12:00-17:59,Hombre,9-May,Cisterna,Santo Domingo
+2047,2017,Mayo,Miércoles, 6:00-11:59,Hombre,40-44,Cisterna,Santo Domingo
+2048,2017,Mayo,Miércoles,12:00-17:59,Hombre,N/D,Mar,Pedernales
+2049,2017,Junio,Jueves, 6:00-11:59,Hombre,9-May,Río,El Seybo
+2050,2017,Junio,Viernes, 6:00-11:59,Hombre,80 y mas,Río,Puerto Plata
+2051,2017,Junio,Domingo,12:00-17:59,Hombre,20-24,Río,Santiago
+2052,2017,Junio,Martes,12:00-17:59,Hombre,40-44,Otros,San Pedro de Macorís
+2053,2017,Junio,Martes,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+2054,2017,Junio,Viernes, 6:00-11:59,Hombre,50-54,Otros,Barahona
+2055,2017,Junio,Sábado,18:00-23:59,Hombre,9-May,Río,Monseñor Nouel
+2056,2017,Junio,Domingo, 6:00-11:59,Hombre,30-34,Río,Santiago
+2057,2017,Junio,Lunes,12:00-17:59,Hombre,45-49,Mar,Santo Domingo
+2058,2017,Junio,Lunes,12:00-17:59,Hombre,25-29,Mar,Distrito Nacional
+2059,2017,Junio,Jueves,18:00-23:59,Hombre,N/D,Río,Puerto Plata
+2060,2017,Junio,Domingo,18:00-23:59,Hombre,25-29,Piscina,El Seybo
+2061,2017,Junio,Domingo,12:00-17:59,Hombre,15-19,Mar,Barahona
+2062,2017,Junio,Martes,12:00-17:59,Hombre,40-44,Río,La Altagracia
+2063,2017,Junio,Viernes,18:00-23:59,Hombre,N/D,Río,Dajabón
+2064,2017,Junio,Domingo,18:00-23:59,Mujer,15-19,Mar,San Cristóbal
+2065,2017,Junio,Domingo, 6:00-11:59,Hombre,0-4,Piscina,Independencia
+2066,2017,Junio,Domingo,12:00-17:59,Hombre,25-29,Río,La Vega
+2067,2017,Junio,Jueves,12:00-17:59,Hombre,30-34,Mar,Santo Domingo
+2068,2017,Junio,Jueves,12:00-17:59,Hombre,20-24,Canal,Santiago
+2069,2017,Julio,Domingo,12:00-17:59,Hombre,25-29,Río,La Vega
+2070,2017,Julio,Domingo,12:00-17:59,Hombre,45-49,Otros,Puerto Plata
+2071,2017,Julio,Domingo,12:00-17:59,Hombre,25-29,Río,El Seybo
+2072,2017,Julio,Martes,12:00-17:59,Hombre,9-May,Playa,María Trinidad Sánchez
+2073,2017,Julio,Miércoles,12:00-17:59,Hombre,9-May,Río,María Trinidad Sánchez
+2074,2017,Julio,Miércoles,12:00-17:59,Hombre,30-34,Río,Santiago
+2075,2017,Julio,Miércoles,12:00-17:59,Hombre,25-29,Río,Monte Cristi
+2076,2017,Julio,Jueves, 6:00-11:59,Hombre,15-19,Pozo,Peravia
+2077,2017,Julio,Jueves, 6:00-11:59,Mujer,0-4,Cisterna,Santo Domingo
+2078,2017,Julio,Sábado,12:00-17:59,Hombre,14-Oct,Río,Santiago
+2079,2017,Julio,Sábado,12:00-17:59,Hombre,25-29,Río,Santiago
+2080,2017,Julio,Domingo,12:00-17:59,Hombre,14-Oct,Playa,Samaná
+2081,2017,Julio,Martes, 6:00-11:59,Hombre,N/D,Río,Monte Plata
+2082,2017,Julio,Martes,12:00-17:59,Hombre,45-49,Río,La Altagracia
+2083,2017,Julio,Viernes,18:00-23:59,Hombre,9-May,Canal,Santiago
+2084,2017,Julio,Sábado,12:00-17:59,Hombre,0-4,Canal,Monte Cristi
+2085,2017,Julio,Domingo,18:00-23:59,Hombre,15-19,Otros,La Altagracia
+2086,2017,Julio,Domingo,12:00-17:59,Hombre,35-39,Canal,Monte Cristi
+2087,2017,Julio,Domingo,12:00-17:59,Hombre,15-19,Canal,Monte Cristi
+2088,2017,Julio,Domingo,12:00-17:59,Hombre,20-24,Canal,Monte Cristi
+2089,2017,Julio,Lunes,18:00-23:59,Hombre,35-39,Otros,San Juan
+2090,2017,Julio,Miércoles,12:00-17:59,Mujer,55-59,Mar,Santo Domingo
+2091,2017,Julio,Jueves,12:00-17:59,Hombre,45-49,Río,Santo Domingo
+2092,2017,Julio,Jueves,18:00-23:59,Hombre,45-49,Río,Santiago
+2093,2017,Julio,Viernes,12:00-17:59,Hombre,14-Oct,Río,La Vega
+2094,2017,Julio,Sábado,18:00-23:59,Hombre,9-May,Piscina,San Juan
+2095,2017,Julio,Domingo,12:00-17:59,Mujer,45-49,Río,Santiago Rodriguez
+2096,2017,Julio,Domingo,18:00-23:59,Hombre,15-19,Río,Santo Domingo
+2097,2017,Julio,Domingo,18:00-23:59,Hombre,9-May,Playa,Santo Domingo
+2098,2017,Julio,Lunes, 6:00-11:59,Hombre,50-54,Pozo,La Romana
+2099,2017,Julio,Martes,12:00-17:59,Hombre,75-79,Playa,La Romana
+2100,2017,Julio,Martes,12:00-17:59,Hombre,N/D,Río,Puerto Plata
+2101,2017,Julio,Miércoles,12:00-17:59,Hombre,20-24,Río,Santiago
+2102,2017,Julio,Miércoles,12:00-17:59,Hombre,N/D,Piscina,Puerto Plata
+2103,2017,Julio,Jueves,18:00-23:59,Hombre,30-34,Río,Valverde
+2104,2017,Julio,Miércoles,N/D,Hombre,N/D,Río,Duarte
+2105,2017,Julio,Sábado,12:00-17:59,Hombre,30-34,Río,Azua
+2106,2017,Julio,Sábado,12:00-17:59,Hombre,9-May,Piscina,Santo Domingo
+2107,2017,Julio,Lunes,12:00-17:59,Hombre,14-Oct,Río,La Vega
+2108,2017,Julio,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+2109,2017,Agosto,Martes,18:00-23:59,Hombre,50-54,Playa,San Cristóbal
+2110,2017,Agosto,Miércoles,12:00-17:59,Hombre,9-May,Río,Valverde
+2111,2017,Agosto,Viernes, 6:00-11:59,Mujer,40-44,Río,San Juan
+2112,2017,Agosto,Sábado,12:00-17:59,Hombre,9-May,Piscina,La Altagracia
+2113,2017,Agosto,Sábado,12:00-17:59,Mujer,15-19,Río,Monte Plata
+2114,2017,Agosto,Sábado,12:00-17:59,Mujer,14-Oct,Río,Monte Plata
+2115,2017,Agosto,Domingo,12:00-17:59,Mujer,0-4,Cisterna,María Trinidad Sánchez
+2116,2017,Agosto,Domingo,12:00-17:59,Mujer,15-19,Río,Monte Plata
+2117,2017,Agosto,Domingo,12:00-17:59,Hombre,9-May,Pozo,Distrito Nacional
+2118,2017,Agosto,Lunes, 6:00-11:59,Hombre,20-24,Canal,Santiago
+2119,2017,Agosto,Lunes,18:00-23:59,Hombre,9-May,Río,Duarte
+2120,2017,Agosto,Lunes,0:00-05:59,Hombre,30-34,Río,Santiago
+2121,2017,Agosto,Miércoles,18:00-23:59,Hombre,35-39,Río,La Vega
+2122,2017,Agosto,Domingo,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+2123,2017,Agosto,Miércoles,12:00-17:59,Hombre,14-Oct,Río,Sánchez Ramírez
+2124,2017,Agosto,Miércoles,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+2125,2017,Agosto,Miércoles, 6:00-11:59,Hombre,20-24,Playa,María Trinidad Sánchez
+2126,2017,Agosto,Miércoles,18:00-23:59,Hombre,15-19,Playa,San Cristóbal
+2127,2017,Agosto,Miércoles, 6:00-11:59,Hombre,14-Oct,Otros,Duarte
+2128,2017,Agosto,Viernes,12:00-17:59,Hombre,55-59,Río,Samaná
+2129,2017,Agosto,Sábado,12:00-17:59,Mujer,80 y mas,Playa,Samaná
+2130,2017,Agosto,Sábado,18:00-23:59,Hombre,35-39,Canal,San Juan
+2131,2017,Agosto,Domingo, 6:00-11:59,Hombre,15-19,Río,Santiago
+2132,2017,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,Monseñor Nouel
+2133,2017,Agosto,Lunes,12:00-17:59,Hombre,0-4,Pozo,Duarte
+2134,2017,Agosto,Miércoles,18:00-23:59,Hombre,30-34,Río,Independencia
+2135,2017,Agosto,Sábado,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2136,2017,Agosto,Domingo,12:00-17:59,Hombre,20-24,Río,Monte Plata
+2137,2017,Agosto,Domingo, 6:00-11:59,Hombre,55-59,Playa,Azua
+2138,2017,Agosto,Lunes,12:00-17:59,Hombre,0-4,Canal,San Juan
+2139,2017,Septiembre,Sábado,18:00-23:59,Hombre,15-19,Río,San Cristóbal
+2140,2017,Septiembre,Domingo,12:00-17:59,Hombre,30-34,Playa,Peravia
+2141,2017,Septiembre,Domingo,12:00-17:59,Hombre,9-May,Río,Puerto Plata
+2142,2017,Septiembre,Jueves,12:00-17:59,Hombre,40-44,Canal,Azua
+2143,2017,Septiembre,Domingo,18:00-23:59,Hombre,9-May,Mar,Distrito Nacional
+2144,2017,Septiembre,Martes,12:00-17:59,Hombre,25-29,Pozo,Hato Mayor
+2145,2017,Septiembre,Martes,18:00-23:59,Hombre,40-44,Río,La Vega
+2146,2017,Septiembre,Miércoles,12:00-17:59,Hombre,25-29,Río,Valverde
+2147,2017,Septiembre,Sábado,12:00-17:59,Hombre,60-64,Playa,La Altagracia
+2148,2017,Septiembre,Sábado,12:00-17:59,Hombre,0-4,Otros,La Vega
+2149,2017,Septiembre,Martes,12:00-17:59,Mujer,0-4,Río,Peravia
+2150,2017,Septiembre,Miércoles,12:00-17:59,Hombre,N/D,Río,Monte Cristi
+2151,2017,Septiembre,Jueves,12:00-17:59,Hombre,N/D,Río,Valverde
+2152,2017,Septiembre,Jueves,12:00-17:59,Hombre,N/D,Río,La Vega
+2153,2017,Septiembre,Viernes, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+2154,2017,Septiembre,Viernes, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+2155,2017,Septiembre,Viernes,18:00-23:59,Hombre,75-79,Río,La Altagracia
+2156,2017,Septiembre,Viernes,18:00-23:59,Hombre,N/D,Río,Monte Cristi
+2157,2017,Septiembre,Sábado,12:00-17:59,Mujer,N/D,Otros,La Altagracia
+2158,2017,Septiembre,Domingo,12:00-17:59,Hombre,35-39,Río,Valverde
+2159,2017,Septiembre,Domingo,18:00-23:59,Mujer,20-24,Otros,Dajabón
+2160,2017,Septiembre,Domingo,18:00-23:59,Hombre,15-19,Otros,Monte Cristi
+2161,2017,Septiembre,Domingo,0:00-05:59,Hombre,40-44,Río,Azua
+2162,2017,Septiembre,Lunes,12:00-17:59,Mujer,9-May,Piscina,Santo Domingo
+2163,2017,Septiembre,Martes, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+2164,2017,Septiembre,Martes, 6:00-11:59,Hombre,15-19,Río,Valverde
+2165,2017,Septiembre,Martes, 6:00-11:59,Hombre,N/D,Mar,Puerto Plata
+2166,2017,Septiembre,Miércoles,12:00-17:59,Mujer,0-4,Cubeta,La Vega
+2167,2017,Octubre,Domingo,18:00-23:59,Hombre,25-29,Río,Barahona
+2168,2017,Octubre,Martes,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+2169,2017,Octubre,Miércoles,12:00-17:59,Mujer,9-May,Río,La Altagracia
+2170,2017,Octubre,Miércoles,12:00-17:59,Hombre,9-May,Río,La Altagracia
+2171,2017,Octubre,Jueves,12:00-17:59,Hombre,0-4,Otros,Monte Plata
+2172,2017,Octubre,Jueves,18:00-23:59,Hombre,70-74,Río,La Romana
+2173,2017,Octubre,Viernes,12:00-17:59,Hombre,50-54,Playa,La Altagracia
+2174,2017,Octubre,Sábado,12:00-17:59,Mujer,15-19,Río,Valverde
+2175,2017,Octubre,Domingo,12:00-17:59,Hombre,20-24,Río,Bahoruco
+2176,2017,Octubre,Domingo,12:00-17:59,Hombre,35-39,Otros,Distrito Nacional
+2177,2017,Octubre,Miércoles, 6:00-11:59,Hombre,50-54,Río,El Seybo
+2178,2017,Octubre,Jueves,12:00-17:59,Hombre,55-59,Mar,Puerto Plata
+2179,2017,Octubre,Domingo,18:00-23:59,Hombre,9-May,Cisterna,Peravia
+2180,2017,Octubre,Domingo,12:00-17:59,Mujer,40-44,Otros,San Juan
+2181,2017,Octubre,Sábado, 6:00-11:59,Hombre,45-49,Mar,La Romana
+2182,2017,Octubre,Domingo,18:00-23:59,Hombre,0-4,Cisterna,La Romana
+2183,2017,Octubre,Lunes, 6:00-11:59,Hombre,45-49,Playa,La Romana
+2184,2017,Octubre,Martes,12:00-17:59,Hombre,50-54,Playa,El Seybo
+2185,2017,Octubre,Miércoles,12:00-17:59,Hombre,30-34,Cubeta,Santiago
+2186,2017,Octubre,Miércoles,12:00-17:59,Hombre,14-Oct,Playa,San Cristóbal
+2187,2017,Octubre,Jueves,12:00-17:59,Hombre,20-24,Río,Santiago
+2188,2017,Octubre,Jueves, 6:00-11:59,Hombre,15-19,Río,San Juan
+2189,2017,Octubre,Viernes, 6:00-11:59,Hombre,N/D,Playa,La Altagracia
+2190,2017,Octubre,Domingo,18:00-23:59,Mujer,0-4,Cisterna,Santo Domingo
+2191,2017,Octubre,Martes,12:00-17:59,Mujer,15-19,Río,La Romana
+2192,2017,Noviembre,Miércoles,12:00-17:59,Hombre,9-May,Piscina,La Altagracia
+2193,2017,Noviembre,Miércoles,12:00-17:59,Mujer,0-4,Piscina,La Altagracia
+2194,2017,Noviembre,Jueves,N/D,Hombre,45-49,Mar,Puerto Plata
+2195,2017,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Río,Monte Plata
+2196,2017,Noviembre,Lunes,12:00-17:59,Hombre,15-19,Playa,La Altagracia
+2197,2017,Noviembre,Lunes,0:00-05:59,Hombre,50-54,Mar,Distrito Nacional
+2198,2017,Noviembre,Lunes, 6:00-11:59,Mujer,0-4,Canal,La Vega
+2199,2017,Noviembre,Viernes, 6:00-11:59,Mujer,80 y mas,Canal,Peravia
+2200,2017,Noviembre,Sábado,18:00-23:59,Hombre,30-34,Río,Puerto Plata
+2201,2017,Noviembre,Sábado,18:00-23:59,Hombre,40-44,Río,El Seybo
+2202,2017,Noviembre,Domingo,12:00-17:59,Hombre,35-39,Otros,San Juan
+2203,2017,Noviembre,Domingo,0:00-05:59,Hombre,35-39,Río,Puerto Plata
+2204,2017,Noviembre,Domingo, 6:00-11:59,Hombre,30-34,Río,Puerto Plata
+2205,2017,Noviembre,Martes,18:00-23:59,Hombre,80 y mas,Río,Santiago
+2206,2017,Noviembre,Jueves,12:00-17:59,Mujer,N/D,Playa,Santo Domingo
+2207,2017,Noviembre,Lunes, 6:00-11:59,Hombre,N/D,Río,Monte Cristi
+2208,2017,Noviembre,Lunes,12:00-17:59,Hombre,25-29,Río,El Seybo
+2209,2017,Noviembre,Domingo, 6:00-11:59,Hombre,N/D,Mar,Distrito Nacional
+2210,2017,Noviembre,Martes,12:00-17:59,Mujer,0-4,Cubeta,Puerto Plata
+2211,2017,Noviembre,Martes, 6:00-11:59,Hombre,0-4,Cubeta,San Cristóbal
+2212,2017,Diciembre,Domingo,12:00-17:59,Mujer,0-4,Cubeta,Puerto Plata
+2213,2017,Diciembre,Domingo, 6:00-11:59,Hombre,15-19,Río,Monte Cristi
+2214,2017,Diciembre,Lunes,12:00-17:59,Mujer,15-19,Canal,San Juan
+2215,2017,Diciembre,Lunes, 6:00-11:59,Hombre,35-39,Río,Duarte
+2216,2017,Diciembre,Martes,12:00-17:59,Hombre,45-49,Mar,Santo Domingo
+2217,2017,Diciembre,Sábado,18:00-23:59,Hombre,60-64,Piscina,La Altagracia
+2218,2017,Diciembre,Lunes, 6:00-11:59,Hombre,45-49,Canal,Santiago
+2219,2017,Diciembre,Martes, 6:00-11:59,Mujer,40-44,Canal,Santiago
+2220,2017,Diciembre,Martes, 6:00-11:59,Hombre,20-24,Canal,Bahoruco
+2221,2017,Diciembre,Martes,N/D,Hombre,14-Oct,Río,Monte Plata
+2222,2018,Enero,Miércoles,0:00-05:59,Hombre,45-49,Mar,Distrito Nacional
+2223,2018,Enero,Domingo,18:00-23:59,Hombre,30-34,Playa,Santo Domingo
+2224,2018,Enero,Jueves,12:00-17:59,Hombre,N/D,Otros,Santo Domingo
+2225,2018,Enero,Miércoles,18:00-23:59,Hombre,25-29,Otros,Sánchez Ramírez
+2226,2018,Enero,Miércoles,18:00-23:59,Hombre,45-49,Otros,La Altagracia
+2227,2018,Enero,Lunes,6:00-11:59,Hombre,35-39,Río,Distrito Nacional
+2228,2018,Enero,Jueves,18:00-23:59,Hombre,N/D,Otros,La Vega
+2229,2018,Enero,Jueves,18:00-23:59,Hombre,0-4,Otros,Santo Domingo
+2230,2018,Enero,Jueves,6:00-11:59,Hombre,75-79,Otros,La Altagracia
+2231,2018,Enero,Miércoles,12:00-17:59,Hombre,45-49,Río,San José de Ocoa
+2232,2018,Enero,Jueves,18:00-23:59,Hombre,40-44,Río,San Cristóbal
+2233,2018,Enero,Jueves,18:00-23:59,Hombre,50-54,Río,San Cristóbal
+2234,2018,Enero,Martes,12:00-17:59,Hombre,80 y mas,Otros,Valverde
+2235,2018,Enero,Martes,6:00-11:59,Hombre,15-19,Mar,Puerto Plata
+2236,2018,Enero,Lunes,18:00-23:59,Hombre,20-24,Río,Samaná
+2237,2018,Enero,Viernes,12:00-17:59,Hombre,65-69,Río,Peravia
+2238,2018,Enero,Jueves,12:00-17:59,Hombre,9-May,Río,San Cristóbal
+2239,2018,Enero,Miércoles,12:00-17:59,Hombre,40-44,Playa,La Romana
+2240,2018,Enero,Lunes,12:00-17:59,Hombre,50-54,Mar,Distrito Nacional
+2241,2018,Febrero,Martes,12:00-17:59,Hombre,0-4,Otros,Distrito Nacional
+2242,2018,Febrero,Martes,18:00-23:59,Hombre,14-Oct,Mar,Samaná
+2243,2018,Febrero,Martes,6:00-11:59,Hombre,60-64,Otros,Santo Domingo
+2244,2018,Febrero,Martes,12:00-17:59,Hombre,25-29,Río,Valverde
+2245,2018,Febrero,Domingo,12:00-17:59,Hombre,N/D,Otros,Hato Mayor
+2246,2018,Febrero,Jueves,18:00-23:59,Hombre,20-24,Otros,Peravia
+2247,2018,Febrero,Lunes,12:00-17:59,Hombre,45-49,Otros,Peravia
+2248,2018,Febrero,Lunes,6:00-11:59,Hombre,50-54,Otros,Valverde
+2249,2018,Febrero,Viernes,12:00-17:59,Hombre,30-34,Otros,San Juan
+2250,2018,Febrero,Martes,12:00-17:59,Hombre,35-39,Río,Barahona
+2251,2018,Febrero,Lunes,18:00-23:59,Hombre,15-19,Mar,Puerto Plata
+2252,2018,Febrero,Domingo,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2253,2018,Febrero,Domingo,18:00-23:59,Hombre,20-24,Mar,San Juan
+2254,2018,Marzo,Sábado,12:00-17:59,Hombre,20-24,Río,Monte Plata
+2255,2018,Marzo,Sábado,12:00-17:59,Hombre,15-19,Río,Sánchez Ramírez
+2256,2018,Marzo,Sábado,12:00-17:59,Hombre,30-34,Río,Sánchez Ramírez
+2257,2018,Marzo,Sábado,12:00-17:59,Hombre,75-79,Otros,Sánchez Ramírez
+2258,2018,Marzo,Viernes,18:00-23:59,Hombre,9-May,Río,El Seybo
+2259,2018,Marzo,Jueves,12:00-17:59,Mujer,14-Oct,Otros,Santiago
+2260,2018,Marzo,Miércoles,12:00-17:59,Hombre,15-19,Playa,San Cristóbal
+2261,2018,Marzo,Martes,6:00-11:59,Hombre,60-64,Playa,La Altagracia
+2262,2018,Marzo,Martes,12:00-17:59,Mujer,70-74,Mar,Santo Domingo
+2263,2018,Marzo,Lunes,6:00-11:59,Hombre,0-4,Otros,Azua
+2264,2018,Marzo,Sábado,6:00-11:59,Hombre,45-49,Mar,Santo Domingo
+2265,2018,Marzo,Viernes,12:00-17:59,Hombre,15-19,Otros,San Cristóbal
+2266,2018,Marzo,Miércoles,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+2267,2018,Marzo,Domingo,18:00-23:59,Hombre,15-19,Río,Monte Plata
+2268,2018,Marzo,Domingo,6:00-11:59,Hombre,N/D,Otros,Azua
+2269,2018,Marzo,Domingo,12:00-17:59,Hombre,50-54,Río,San Pedro de Macorís
+2270,2018,Marzo,Domingo,12:00-17:59,Hombre,15-19,Playa,Barahona
+2271,2018,Marzo,Sábado,N/D,Hombre,N/D,Río,Monte Cristi
+2272,2018,Marzo,Sábado,12:00-17:59,Hombre,50-54,Río,Bahoruco
+2273,2018,Marzo,Sábado,12:00-17:59,Hombre,45-49,Río,Puerto Plata
+2274,2018,Marzo,Miércoles,6:00-11:59,Hombre,25-29,Mar,Santo Domingo
+2275,2018,Marzo,Domingo,18:00-23:59,Hombre,25-29,Río,San Pedro de Macorís
+2276,2018,Marzo,Domingo,12:00-17:59,Mujer,9-May,Otros,Santo Domingo
+2277,2018,Marzo,Domingo,12:00-17:59,Hombre,0-4,Otros,Monte Plata
+2278,2018,Marzo,Sábado,6:00-11:59,Hombre,50-54,Playa,Santo Domingo
+2279,2018,Marzo,Viernes,N/D,Hombre,14-Oct,Otros,Azua
+2280,2018,Marzo,Viernes,N/D,Hombre,9-May,Otros,Azua
+2281,2018,Marzo,Domingo,18:00-23:59,Hombre,14-Oct,Río,La Altagracia
+2282,2018,Marzo,Jueves,18:00-23:59,Hombre,14-Oct,Otros,La Altagracia
+2283,2018,Abril,Lunes,12:00-17:59,Hombre,25-29,Playa,San Pedro de Macorís
+2284,2018,Abril,Lunes,6:00-11:59,Hombre,20-24,Playa,María Trinidad Sánchez
+2285,2018,Abril,Domingo,12:00-17:59,Hombre,0-4,Río,Puerto Plata
+2286,2018,Abril,Domingo,18:00-23:59,Hombre,30-34,Río,San Cristóbal
+2287,2018,Abril,Domingo,12:00-17:59,Hombre,0-4,Otros,La Romana
+2288,2018,Abril,Sábado,12:00-17:59,Hombre,30-34,Playa,Barahona
+2289,2018,Abril,Jueves,12:00-17:59,Hombre,25-29,Río,San Pedro de Macorís
+2290,2018,Abril,Miércoles,6:00-11:59,Hombre,N/D,Otros,La Altagracia
+2291,2018,Abril,Domingo,12:00-17:59,Hombre,35-39,Playa,María Trinidad Sánchez
+2292,2018,Abril,Domingo,18:00-23:59,Hombre,55-59,Otros,La Vega
+2293,2018,Abril,Sábado,12:00-17:59,Hombre,N/D,Río,La Altagracia
+2294,2018,Abril,Jueves,6:00-11:59,Mujer,30-34,Playa,San Cristóbal
+2295,2018,Abril,Lunes,6:00-11:59,Hombre,40-44,Río,Santo Domingo
+2296,2018,Abril,Domingo,12:00-17:59,Hombre,40-44,Río,Duarte
+2297,2018,Abril,Domingo,12:00-17:59,Hombre,40-44,Río,Duarte
+2298,2018,Abril,Domingo,12:00-17:59,Hombre,15-19,Río,Santiago
+2299,2018,Abril,Sábado,6:00-11:59,Hombre,25-29,Mar,Distrito Nacional
+2300,2018,Abril,Jueves,6:00-11:59,Hombre,25-29,Río,Santiago
+2301,2018,Abril,Martes,12:00-17:59,Mujer,0-4,Otros,Santiago
+2302,2018,Abril,Lunes,6:00-11:59,Hombre,20-24,Río,María Trinidad Sánchez
+2303,2018,Abril,Lunes,12:00-17:59,Hombre,0-4,Río,La Vega
+2304,2018,Abril,Lunes,12:00-17:59,Hombre,0-4,Río,La Vega
+2305,2018,Abril,Lunes,12:00-17:59,Hombre,20-24,Río,San Pedro de Macorís
+2306,2018,Abril,Domingo,12:00-17:59,Hombre,20-24,Playa,Santo Domingo
+2307,2018,Abril,Sábado,18:00-23:59,Hombre,45-49,Mar,Samaná
+2308,2018,Abril,Sábado,6:00-11:59,Mujer,0-4,Otros,Distrito Nacional
+2309,2018,Abril,Viernes,18:00-23:59,Mujer,75-79,Otros,La Altagracia
+2310,2018,Abril,Viernes,18:00-23:59,Hombre,15-19,Otros,Azua
+2311,2018,Abril,Jueves,6:00-11:59,Hombre,50-54,Otros,Monte Cristi
+2312,2018,Abril,Jueves,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2313,2018,Abril,Jueves,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2314,2018,Abril,Miércoles,12:00-17:59,Hombre,75-79,Río,Puerto Plata
+2315,2018,Abril,Martes,12:00-17:59,Hombre,N/D,Río,Monte Plata
+2316,2018,Abril,Martes,12:00-17:59,Hombre,45-49,Río,Monseñor Nouel
+2317,2018,Abril,Lunes,6:00-11:59,Hombre,15-19,Otros,Peravia
+2318,2018,Abril,Domingo,18:00-23:59,Hombre,N/D,Río,San Cristóbal
+2319,2018,Mayo,Jueves,12:00-17:59,Hombre,30-34,Río,Elías Pina
+2320,2018,Mayo,Martes,18:00-23:59,Hombre,15-19,Otros,Hato Mayor
+2321,2018,Mayo,Lunes,12:00-17:59,Mujer,0-4,Otros,Santo Domingo
+2322,2018,Mayo,Domingo,12:00-17:59,Hombre,14-Oct,Río,La Altagracia
+2323,2018,Mayo,Viernes,18:00-23:59,Hombre,0-4,Otros,La Vega
+2324,2018,Mayo,Jueves,6:00-11:59,Hombre,15-19,Río,Valverde
+2325,2018,Mayo,Miércoles,6:00-11:59,Hombre,20-24,Río,San Cristóbal
+2326,2018,Mayo,Miércoles,12:00-17:59,Hombre,9-May,Otros,La Altagracia
+2327,2018,Mayo,Sábado,18:00-23:59,Hombre,9-May,Otros,Santo Domingo
+2328,2018,Mayo,Sábado,12:00-17:59,Hombre,9-May,Otros,Azua
+2329,2018,Mayo,Viernes,18:00-23:59,Hombre,N/D,Otros,Monte Cristi
+2330,2018,Mayo,Miércoles,12:00-17:59,Hombre,9-May,Otros,Puerto Plata
+2331,2018,Mayo,Lunes,12:00-17:59,Hombre,N/D,Río,La Altagracia
+2332,2018,Mayo,Sábado,12:00-17:59,Hombre,30-34,Otros,Santo Domingo
+2333,2018,Mayo,Jueves,12:00-17:59,Hombre,30-34,Río,La Altagracia
+2334,2018,Mayo,Lunes,6:00-11:59,Hombre,0-4,Otros,Distrito Nacional
+2335,2018,Mayo,Lunes,6:00-11:59,Hombre,45-49,Otros,San Juan
+2336,2018,Mayo,Domingo,12:00-17:59,Hombre,20-24,Río,San Cristóbal
+2337,2018,Mayo,Domingo,6:00-11:59,Hombre,75-79,Otros,San Cristóbal
+2338,2018,Mayo,Domingo,12:00-17:59,Hombre,20-24,Otros,Santo Domingo
+2339,2018,Mayo,Viernes,0:00-05:59,Hombre,0-4,Río,Santiago
+2340,2018,Mayo,Martes,18:00-23:59,Hombre,25-29,Río,Santo Domingo
+2341,2018,Junio,Sábado,12:00-17:59,Hombre,50-54,Playa,María Trinidad Sánchez
+2342,2018,Junio,Jueves,12:00-17:59,Hombre,55-59,Río,El Seybo
+2343,2018,Junio,Martes,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+2344,2018,Junio,Martes,12:00-17:59,Hombre,14-Oct,Otros,Santo Domingo
+2345,2018,Junio,Martes,12:00-17:59,Hombre,9-May,Otros,La Altagracia
+2346,2018,Junio,Martes,6:00-11:59,Hombre,0-4,Otros,Santo Domingo
+2347,2018,Junio,Lunes,12:00-17:59,Mujer,9-May,Otros,Distrito Nacional
+2348,2018,Junio,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+2349,2018,Junio,Lunes,12:00-17:59,Hombre,35-39,Río,San Cristóbal
+2350,2018,Junio,Sábado,12:00-17:59,Hombre,9-May,Otros,Sánchez Ramírez
+2351,2018,Junio,Viernes,12:00-17:59,Mujer,14-Oct,Otros,La Altagracia
+2352,2018,Junio,Miércoles,18:00-23:59,Hombre,15-19,Mar,Santo Domingo
+2353,2018,Junio,Lunes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2354,2018,Junio,Domingo,6:00-11:59,Hombre,40-44,Río,Santo Domingo
+2355,2018,Junio,Sábado,12:00-17:59,Hombre,0-4,Otros,La Altagracia
+2356,2018,Junio,Sábado,18:00-23:59,Hombre,N/D,Otros,Puerto Plata
+2357,2018,Junio,Sábado,0:00-05:59,Hombre,N/D,Río,Dajabón
+2358,2018,Junio,Miércoles,6:00-11:59,Hombre,9-May,Río,Independencia
+2359,2018,Junio,Lunes,18:00-23:59,Hombre,N/D,Otros,Puerto Plata
+2360,2018,Julio,Viernes,12:00-17:59,Hombre,20-24,Río,El Seybo
+2361,2018,Julio,Viernes,12:00-17:59,Hombre,9-May,Río,Santiago
+2362,2018,Julio,Martes,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+2363,2018,Julio,Lunes,12:00-17:59,Hombre,20-24,Río,Hato Mayor
+2364,2018,Julio,Domingo,12:00-17:59,Hombre,14-Oct,Río,San Cristóbal
+2365,2018,Julio,Sábado,12:00-17:59,Hombre,25-29,Río,Bahoruco
+2366,2018,Julio,Miércoles,6:00-11:59,Hombre,50-54,Río,Duarte
+2367,2018,Julio,Domingo,6:00-11:59,Hombre,9-May,Río,San Pedro de Macorís
+2368,2018,Julio,Domingo,6:00-11:59,Hombre,9-May,Río,San Pedro de Macorís
+2369,2018,Julio,Domingo,6:00-11:59,Hombre,14-Oct,Río,San Pedro de Macorís
+2370,2018,Julio,Domingo,12:00-17:59,Hombre,15-19,Playa,Santo Domingo
+2371,2018,Julio,Viernes,12:00-17:59,Hombre,20-24,Río,La Vega
+2372,2018,Julio,Martes,18:00-23:59,Hombre,20-24,Otros,Valverde
+2373,2018,Julio,Martes,6:00-11:59,Mujer,50-54,Otros,Santo Domingo
+2374,2018,Julio,Lunes,12:00-17:59,Hombre,20-24,Río,Monseñor Nouel
+2375,2018,Julio,Domingo,18:00-23:59,Hombre,9-May,Río,Santo Domingo
+2376,2018,Julio,Domingo,18:00-23:59,Mujer,14-Oct,Río,Santo Domingo
+2377,2018,Julio,Viernes,N/D,Hombre,20-24,Río,Duarte
+2378,2018,Julio,Jueves,12:00-17:59,Hombre,35-39,Otros,La Altagracia
+2379,2018,Julio,Miércoles,6:00-11:59,Hombre,N/D,Mar,Distrito Nacional
+2380,2018,Julio,Miércoles,12:00-17:59,Hombre,9-May,Otros,La Altagracia
+2381,2018,Julio,Martes,6:00-11:59,Hombre,60-64,Río,Santo Domingo
+2382,2018,Julio,Lunes,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+2383,2018,Julio,Lunes,12:00-17:59,Hombre,25-29,Mar,Distrito Nacional
+2384,2018,Julio,Lunes,12:00-17:59,Hombre,30-34,Río,Santiago
+2385,2018,Julio,Lunes,6:00-11:59,Hombre,25-29,Río,Santo Domingo
+2386,2018,Agosto,Jueves,6:00-11:59,Hombre,40-44,Otros,Santiago
+2387,2018,Agosto,Lunes,12:00-17:59,Hombre,45-49,Playa,La Altagracia
+2388,2018,Agosto,Domingo,12:00-17:59,Hombre,25-29,Playa,San Pedro de Macorís
+2389,2018,Agosto,Sábado,12:00-17:59,Hombre,0-4,Otros,San José de Ocoa
+2390,2018,Agosto,Lunes,18:00-23:59,Hombre,N/D,Otros,Santiago
+2391,2018,Agosto,Domingo,12:00-17:59,Hombre,30-34,Río,María Trinidad Sánchez
+2392,2018,Agosto,Domingo,12:00-17:59,Hombre,15-19,Río,Santiago
+2393,2018,Agosto,Sábado,12:00-17:59,Hombre,20-24,Otros,Santo Domingo
+2394,2018,Agosto,Miércoles,12:00-17:59,Hombre,45-49,Playa,Puerto Plata
+2395,2018,Agosto,Miércoles,12:00-17:59,Hombre,14-Oct,Playa,La Altagracia
+2396,2018,Agosto,Lunes,6:00-11:59,Hombre,55-59,Río,Santo Domingo
+2397,2018,Agosto,Jueves,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+2398,2018,Agosto,Miércoles,12:00-17:59,Hombre,25-29,Río,Azua
+2399,2018,Agosto,Sábado,12:00-17:59,Hombre,25-29,Otros,Monte Plata
+2400,2018,Agosto,Sábado,6:00-11:59,Hombre,25-29,Otros,Santiago
+2401,2018,Agosto,Sábado,6:00-11:59,Hombre,15-19,Río,Santo Domingo
+2402,2018,Agosto,Viernes,18:00-23:59,Hombre,30-34,Otros,Santiago
+2403,2018,Agosto,Viernes,18:00-23:59,Hombre,0-4,Otros,Puerto Plata
+2404,2018,Agosto,Viernes,12:00-17:59,Hombre,25-29,Río,Espaillat
+2405,2018,Agosto,Viernes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2406,2018,Agosto,Miércoles,12:00-17:59,Hombre,9-May,Río,San Juan
+2407,2018,Agosto,Miércoles,12:00-17:59,Hombre,35-39,Otros,Santiago
+2408,2018,Agosto,Miércoles,12:00-17:59,Mujer,0-4,Otros,Santo Domingo
+2409,2018,Septiembre,Domingo,18:00-23:59,Hombre,35-39,Mar,Distrito Nacional
+2410,2018,Septiembre,Sábado,6:00-11:59,Hombre,0-4,Otros,Barahona
+2411,2018,Septiembre,Viernes,12:00-17:59,Hombre,20-24,Río,Bahoruco
+2412,2018,Septiembre,Domingo,12:00-17:59,Hombre,25-29,Playa,La Altagracia
+2413,2018,Septiembre,Domingo,12:00-17:59,Hombre,60-64,Río,Monte Plata
+2414,2018,Septiembre,Domingo,12:00-17:59,Hombre,35-39,Playa,Puerto Plata
+2415,2018,Septiembre,Sábado,12:00-17:59,Hombre,15-19,Playa,Puerto Plata
+2416,2018,Septiembre,Miércoles,18:00-23:59,Hombre,15-19,Mar,Santo Domingo
+2417,2018,Septiembre,Jueves,18:00-23:59,Hombre,35-39,Otros,Santiago
+2418,2018,Septiembre,Lunes,12:00-17:59,Hombre,25-29,Río,Hato Mayor
+2419,2018,Septiembre,Lunes,12:00-17:59,Hombre,9-May,Río,Sánchez Ramírez
+2420,2018,Septiembre,Domingo,18:00-23:59,Hombre,20-24,Playa,San Cristóbal
+2421,2018,Septiembre,Viernes,18:00-23:59,Hombre,0-4,Otros,Samaná
+2422,2018,Septiembre,Jueves,18:00-23:59,Hombre,40-44,Otros,Santiago
+2423,2018,Septiembre,Domingo,12:00-17:59,Hombre,30-34,Río,Puerto Plata
+2424,2018,Septiembre,Domingo,12:00-17:59,Mujer,9-May,Río,Peravia
+2425,2018,Septiembre,Domingo,12:00-17:59,Mujer,9-May,Otros,Monseñor Nouel
+2426,2018,Octubre,Lunes,18:00-23:59,Hombre,50-54,Otros,San José de Ocoa
+2427,2018,Octubre,Domingo,12:00-17:59,Hombre,15-19,Otros,Santiago
+2428,2018,Octubre,Jueves,18:00-23:59,Hombre,14-Oct,Otros,Santiago
+2429,2018,Octubre,Domingo,12:00-17:59,Hombre,20-24,Río,María Trinidad Sánchez
+2430,2018,Octubre,Viernes,6:00-11:59,Hombre,55-59,Otros,Monte Cristi
+2431,2018,Octubre,Martes,6:00-11:59,Hombre,0-4,Otros,Santiago
+2432,2018,Octubre,Viernes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+2433,2018,Octubre,Viernes,12:00-17:59,Hombre,N/D,Río,Hato Mayor
+2434,2018,Octubre,Viernes,12:00-17:59,Hombre,55-59,Río,Monseñor Nouel
+2435,2018,Octubre,Viernes,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+2436,2018,Octubre,Martes,18:00-23:59,Mujer,55-59,Río,Dajabón
+2437,2018,Octubre,Lunes,6:00-11:59,Hombre,20-24,Río,San Juan
+2438,2018,Octubre,Lunes,12:00-17:59,Hombre,20-24,Mar,Santo Domingo
+2439,2018,Noviembre,Jueves,6:00-11:59,Mujer,60-64,Playa,La Altagracia
+2440,2018,Noviembre,Miércoles,18:00-23:59,Hombre,20-24,Otros,Santiago
+2441,2018,Noviembre,Miércoles,12:00-17:59,Hombre,25-29,Río,La Vega
+2442,2018,Noviembre,Miércoles,6:00-11:59,Hombre,0-4,Otros,La Vega
+2443,2018,Noviembre,Martes,18:00-23:59,Hombre,40-44,Otros,La Altagracia
+2444,2018,Noviembre,Sábado,12:00-17:59,Hombre,N/D,Otros,Hato Mayor
+2445,2018,Noviembre,Viernes,12:00-17:59,Hombre,25-29,Playa,La Romana
+2446,2018,Noviembre,Sábado,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2447,2018,Noviembre,Domingo,6:00-11:59,Hombre,0-4,Río,María Trinidad Sánchez
+2448,2018,Noviembre,Sábado,12:00-17:59,Hombre,45-49,Río,La Altagracia
+2449,2018,Noviembre,Sábado,12:00-17:59,Hombre,65-69,Playa,Samaná
+2450,2018,Noviembre,Domingo,12:00-17:59,Hombre,60-64,Río,Distrito Nacional
+2451,2018,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Río,Distrito Nacional
+2452,2018,Noviembre,Domingo,12:00-17:59,Hombre,14-Oct,Otros,Monseñor Nouel
+2453,2018,Noviembre,Martes,12:00-17:59,Hombre,N/D,Río,Distrito Nacional
+2454,2018,Noviembre,Sábado,12:00-17:59,Hombre,N/D,Playa,Puerto Plata
+2455,2018,Noviembre,Viernes,12:00-17:59,Hombre,35-39,Otros,Duarte
+2456,2018,Noviembre,Jueves,12:00-17:59,Hombre,0-4,Otros,San Cristóbal
+2457,2018,Diciembre,Lunes,12:00-17:59,Mujer,0-4,Otros,Santo Domingo
+2458,2018,Diciembre,Lunes,6:00-11:59,Mujer,0-4,Otros,San Juan
+2459,2018,Diciembre,Jueves,18:00-23:59,Mujer,50-54,Playa,Azua
+2460,2018,Diciembre,Jueves,12:00-17:59,Hombre,35-39,Otros,Distrito Nacional
+2461,2018,Diciembre,Lunes,18:00-23:59,Hombre,30-34,Otros,Santiago
+2462,2018,Diciembre,Lunes,6:00-11:59,Hombre,45-49,Playa,San Pedro de Macorís
+2463,2018,Diciembre,Domingo,12:00-17:59,Hombre,35-39,Otros,San Cristóbal
+2464,2018,Diciembre,Sábado,12:00-17:59,Mujer,25-29,Playa,Samaná
+2465,2018,Diciembre,Viernes,12:00-17:59,Hombre,N/D,Playa,Samaná
+2466,2018,Diciembre,Martes,12:00-17:59,Hombre,75-79,Playa,La Altagracia
+2467,2018,Diciembre,Martes,18:00-23:59,Hombre,50-54,Otros,La Vega
+2468,2018,Diciembre,Viernes,6:00-11:59,Mujer,0-4,Otros,Santo Domingo
+2469,2018,Diciembre,Miércoles,6:00-11:59,Hombre,20-24,Mar,Distrito Nacional
+2470,2018,Diciembre,Domingo,12:00-17:59,Hombre,30-34,Mar,Distrito Nacional
+2471,2018,Diciembre,Domingo,0:00-05:59,Hombre,50-54,Río,Santiago
+2472,2018,Diciembre,Sábado,12:00-17:59,Hombre,30-34,Playa,Monte Cristi
+2473,2019,Enero,Miércoles,12:00-17:59,Hombre,25-29,Mar,San Pedro de Macorís
+2474,2019,Enero,Miércoles,12:00-17:59,Hombre,70-74,Playa,Santo Domingo
+2475,2019,Enero,Lunes,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2476,2019,Enero,Lunes,12:00-17:59,Hombre,65-69,Otros,Santo Domingo
+2477,2019,Enero,Domingo,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2478,2019,Enero,Jueves,12:00-17:59,Hombre,15-19,Canal,Duarte
+2479,2019,Enero,Sábado,12:00-17:59,Hombre,60-64,Río,Santo Domingo
+2480,2019,Enero,Miércoles,12:00-17:59,Hombre,55-59,Playa,Puerto Plata
+2481,2019,Enero,Lunes,6:00-11:59,Hombre,0-4,Canal,San Cristóbal
+2482,2019,Enero,Miércoles,6:00-11:59,Hombre,75-79,Playa,La Altagracia
+2483,2019,Enero,Sábado,18:00-23:59,Hombre,9-May,Otros,Santo Domingo
+2484,2019,Enero,Jueves,6:00-11:59,Hombre,0-4,Otros,Santiago
+2485,2019,Enero,Miércoles,6:00-11:59,Hombre,40-44,Río,Santo Domingo
+2486,2019,Febrero,Jueves,6:00-11:59,Hombre,35-39,Río,San Cristóbal
+2487,2019,Febrero,Domingo,6:00-11:59,Hombre,25-29,Otros,San Juan
+2488,2019,Febrero,Domingo,6:00-11:59,Mujer,N/D,Mar,Distrito Nacional
+2489,2019,Febrero,Sábado,12:00-17:59,Mujer,0-4,Otros,Santiago
+2490,2019,Febrero,Viernes,6:00-11:59,Hombre,15-19,Playa,San Cristóbal
+2491,2019,Febrero,Viernes,12:00-17:59,Hombre,20-24,Otros,San José de Ocoa
+2492,2019,Febrero,Jueves,12:00-17:59,Hombre,15-19,Playa,Santo Domingo
+2493,2019,Febrero,Domingo,12:00-17:59,Hombre,30-34,Playa,Puerto Plata
+2494,2019,Febrero,Domingo,6:00-11:59,Hombre,0-4,Otros,Monte Plata
+2495,2019,Febrero,Miércoles,12:00-17:59,Hombre,45-49,Playa,La Romana
+2496,2019,Febrero,Domingo,6:00-11:59,Hombre,N/D,Río,Santo Domingo
+2497,2019,Febrero,Domingo,12:00-17:59,Mujer,50-54,Playa,La Altagracia
+2498,2019,Febrero,Sábado,6:00-11:59,Hombre,40-44,Otros,María Trinidad Sánchez
+2499,2019,Febrero,Sábado,6:00-11:59,Hombre,55-59,Otros,María Trinidad Sánchez
+2500,2019,Febrero,Lunes,12:00-17:59,Hombre,25-29,Canal,Santiago
+2501,2019,Febrero,Domingo,12:00-17:59,Hombre,0-4,Otros,Santo Domingo
+2502,2019,Febrero,Domingo,12:00-17:59,Mujer,65-69,Playa,La Romana
+2503,2019,Febrero,Viernes,12:00-17:59,Hombre,0-4,Otros,Peravia
+2504,2019,Marzo,Domingo,12:00-17:59,Hombre,N/D,Mar,Santo Domingo
+2505,2019,Marzo,Domingo,6:00-11:59,Mujer,45-49,Río,Duarte
+2506,2019,Marzo,Jueves,12:00-17:59,Hombre,30-34,Río,María Trinidad Sánchez
+2507,2019,Marzo,Martes,12:00-17:59,Hombre,35-39,Río,Santo Domingo
+2508,2019,Marzo,Lunes,12:00-17:59,Hombre,25-29,Otros,Sánchez Ramírez
+2509,2019,Marzo,Sábado,12:00-17:59,Hombre,50-54,Río,Duarte
+2510,2019,Marzo,Viernes,12:00-17:59,Hombre,N/D,Río,Dajabón
+2511,2019,Marzo,Domingo,12:00-17:59,Hombre,15-19,Playa,Barahona
+2512,2019,Marzo,Sábado,6:00-11:59,Hombre,60-64,Playa,San Pedro de Macorís
+2513,2019,Marzo,Martes,12:00-17:59,Hombre,0-4,Otros,María Trinidad Sánchez
+2514,2019,Marzo,Lunes,12:00-17:59,Hombre,75-79,Playa,Santo Domingo
+2515,2019,Marzo,Lunes,12:00-17:59,Hombre,25-29,Río,Monte Cristi
+2516,2019,Marzo,Lunes,12:00-17:59,Hombre,35-39,Otros,La Romana
+2517,2019,Marzo,Domingo,12:00-17:59,Hombre,14-Oct,Playa,Azua
+2518,2019,Marzo,Sábado,18:00-23:59,Hombre,14-Oct,Piscina,Santiago
+2519,2019,Marzo,Martes,6:00-11:59,Mujer,N/D,Río,Santiago
+2520,2019,Marzo,Martes,6:00-11:59,Hombre,35-39,Río,Duarte
+2521,2019,Marzo,Viernes,12:00-17:59,Mujer,0-4,Otros,Santiago Rodriguez
+2522,2019,Abril,Martes,12:00-17:59,Hombre,0-4,Río,Duarte
+2523,2019,Abril,Martes,12:00-17:59,Mujer,0-4,Otros,Sánchez Ramírez
+2524,2019,Abril,Lunes,12:00-17:59,Hombre,20-24,Playa,Santo Domingo
+2525,2019,Abril,Lunes,12:00-17:59,Hombre,15-19,Río,Espaillat
+2526,2019,Abril,Lunes,12:00-17:59,Hombre,15-19,Río,Espaillat
+2527,2019,Abril,Domingo,18:00-23:59,Hombre,20-24,Río,Santiago
+2528,2019,Abril,Jueves,12:00-17:59,Hombre,30-34,Río,Santiago
+2529,2019,Abril,Jueves,6:00-11:59,Hombre,45-49,Río,Espaillat
+2530,2019,Abril,Sábado,12:00-17:59,Hombre,25-29,Playa,San Pedro de Macorís
+2531,2019,Abril,Viernes,12:00-17:59,Hombre,N/D,Río,Santo Domingo
+2532,2019,Abril,Viernes,12:00-17:59,Hombre,N/D,Río,Monseñor Nouel
+2533,2019,Abril,Viernes,12:00-17:59,Hombre,20-24,Río,La Vega
+2534,2019,Abril,Miércoles,12:00-17:59,Hombre,0-4,Playa,Santo Domingo
+2535,2019,Abril,Martes,6:00-11:59,Hombre,14-Oct,Piscina,La Altagracia
+2536,2019,Abril,Lunes,18:00-23:59,Hombre,65-69,Río,Santiago Rodriguez
+2537,2019,Abril,Domingo,18:00-23:59,Hombre,45-49,Otros,Samaná
+2538,2019,Abril,Sábado,12:00-17:59,Hombre,9-May,Otros,San Juan
+2539,2019,Abril,Viernes,12:00-17:59,Hombre,45-49,Río,Distrito Nacional
+2540,2019,Abril,Viernes,18:00-23:59,Hombre,14-Oct,Río,Sánchez Ramírez
+2541,2019,Abril,Miércoles,12:00-17:59,Hombre,9-May,Otros,San Cristóbal
+2542,2019,Abril,Martes,12:00-17:59,Hombre,35-39,Mar,Santo Domingo
+2543,2019,Abril,Martes,6:00-11:59,Hombre,65-69,Piscina,Monte Cristi
+2544,2019,Abril,Domingo,18:00-23:59,Hombre,15-19,Playa,Santo Domingo
+2545,2019,Abril,Domingo,12:00-17:59,Mujer,14-Oct,Río,Santo Domingo
+2546,2019,Abril,Sábado,12:00-17:59,Hombre,60-64,Mar,Samaná
+2547,2019,Abril,Sábado,12:00-17:59,Hombre,N/D,Río,Monte Plata
+2548,2019,Abril,Sábado,12:00-17:59,Hombre,35-39,Canal,Duarte
+2549,2019,Abril,Viernes,12:00-17:59,Hombre,15-19,Río,Duarte
+2550,2019,Abril,Viernes,12:00-17:59,Hombre,15-19,Playa,Distrito Nacional
+2551,2019,Abril,Jueves,12:00-17:59,Hombre,30-34,Canal,Bahoruco
+2552,2019,Abril,Lunes,12:00-17:59,Hombre,60-64,Playa,Puerto Plata
+2553,2019,Mayo,Viernes,18:00-23:59,Mujer,15-19,Otros,Santiago
+2554,2019,Mayo,Miércoles,12:00-17:59,Hombre,20-24,Otros,Santo Domingo
+2555,2019,Mayo,Domingo,12:00-17:59,Hombre,65-69,Playa,Samaná
+2556,2019,Mayo,Sábado,6:00-11:59,Hombre,9-May,Canal,Monte Cristi
+2557,2019,Mayo,Viernes,12:00-17:59,Hombre,0-4,Río,Dajabón
+2558,2019,Mayo,Jueves,18:00-23:59,Hombre,15-19,Otros,La Altagracia
+2559,2019,Mayo,Martes,12:00-17:59,Mujer,15-19,Canal,Santiago
+2560,2019,Mayo,Martes,12:00-17:59,Hombre,20-24,Canal,Santiago
+2561,2019,Mayo,Martes,12:00-17:59,Hombre,60-64,Playa,Puerto Plata
+2562,2019,Mayo,Martes,12:00-17:59,Hombre,0-4,Piscina,La Altagracia
+2563,2019,Mayo,Viernes,12:00-17:59,Hombre,9-May,Canal,Peravia
+2564,2019,Mayo,Viernes,12:00-17:59,Mujer,9-May,Piscina,San Pedro de Macorís
+2565,2019,Mayo,Jueves,18:00-23:59,Hombre,20-24,Río,Santiago
+2566,2019,Mayo,Miércoles,12:00-17:59,Hombre,30-34,Río,Santo Domingo
+2567,2019,Mayo,Martes,12:00-17:59,Hombre,15-19,Mar,Santo Domingo
+2568,2019,Mayo,Martes,12:00-17:59,Hombre,15-19,Río,La Altagracia
+2569,2019,Mayo,Domingo,12:00-17:59,Hombre,20-24,Río,San Pedro de Macorís
+2570,2019,Mayo,Domingo,12:00-17:59,Hombre,20-24,Canal,Monte Plata
+2571,2019,Mayo,Domingo,12:00-17:59,Hombre,0-4,Otros,San Pedro de Macorís
+2572,2019,Mayo,Domingo,12:00-17:59,Hombre,20-24,Río,Santo Domingo
+2573,2019,Mayo,Domingo,12:00-17:59,Hombre,14-Oct,Río,Santo Domingo
+2574,2019,Mayo,Domingo,12:00-17:59,Hombre,30-34,Playa,Monte Cristi
+2575,2019,Mayo,Jueves,18:00-23:59,Hombre,35-39,Río,Barahona
+2576,2019,Mayo,Miércoles,12:00-17:59,Hombre,80 y mas,Playa,Santo Domingo
+2577,2019,Junio,Domingo,12:00-17:59,Hombre,9-May,Río,Monseñor Nouel
+2578,2019,Junio,Domingo,12:00-17:59,Hombre,60-64,Río,La Altagracia
+2579,2019,Junio,Domingo,12:00-17:59,Hombre,25-29,Río,San Cristóbal
+2580,2019,Junio,Miércoles,12:00-17:59,Hombre,25-29,Río,La Vega
+2581,2019,Junio,Lunes,18:00-23:59,Hombre,0-4,Canal,Valverde
+2582,2019,Junio,Lunes,18:00-23:59,Hombre,0-4,Canal,San Pedro de Macorís
+2583,2019,Junio,Domingo,12:00-17:59,Hombre,15-19,Río,Puerto Plata
+2584,2019,Junio,Domingo,18:00-23:59,Hombre,9-May,Otros,Santo Domingo
+2585,2019,Junio,Sábado,6:00-11:59,Hombre,20-24,Río,San Pedro de Macorís
+2586,2019,Junio,Sábado,12:00-17:59,Hombre,40-44,Mar,Santo Domingo
+2587,2019,Junio,Sábado,18:00-23:59,Hombre,60-64,Río,La Altagracia
+2588,2019,Junio,Jueves,12:00-17:59,Hombre,9-May,Río,La Vega
+2589,2019,Junio,Martes,12:00-17:59,Mujer,9-May,Playa,Puerto Plata
+2590,2019,Junio,Lunes,6:00-11:59,Hombre,14-Oct,Otros,Santo Domingo
+2591,2019,Junio,Domingo,12:00-17:59,Hombre,30-34,Río,La Vega
+2592,2019,Junio,Domingo,18:00-23:59,Hombre,25-29,Río,La Altagracia
+2593,2019,Junio,Domingo,6:00-11:59,Hombre,20-24,Canal,Hermanas Mirabal
+2594,2019,Junio,Jueves,12:00-17:59,Hombre,15-19,Río,San Pedro de Macorís
+2595,2019,Junio,Miércoles,18:00-23:59,Hombre,30-34,Piscina,San Cristóbal
+2596,2019,Junio,Martes,12:00-17:59,Mujer,40-44,Playa,Puerto Plata
+2597,2019,Junio,Lunes,6:00-11:59,Mujer,15-19,Playa,La Altagracia
+2598,2019,Junio,Domingo,12:00-17:59,Mujer,N/D,Playa,La Altagracia
+2599,2019,Junio,Domingo,12:00-17:59,Hombre,30-34,Piscina,Santo Domingo
+2600,2019,Junio,Sábado,12:00-17:59,Hombre,14-Oct,Otros,La Altagracia
+2601,2019,Junio,Lunes,12:00-17:59,Hombre,55-59,Canal,San Pedro de Macorís
+2602,2019,Julio,Lunes,18:00-23:59,Hombre,65-69,Canal,Valverde
+2603,2019,Julio,Sábado,6:00-11:59,Hombre,80 y mas,Río,Elías Pina
+2604,2019,Julio,Sábado,0:00-05:59,Hombre,15-19,Río,Espaillat
+2605,2019,Julio,Lunes,6:00-11:59,Hombre,0-4,Playa,La Altagracia
+2606,2019,Julio,Domingo,12:00-17:59,Hombre,45-49,Playa,Puerto Plata
+2607,2019,Julio,Domingo,12:00-17:59,Hombre,15-19,Playa,Barahona
+2608,2019,Julio,Sábado,18:00-23:59,Hombre,45-49,Canal,Santiago
+2609,2019,Julio,Viernes,18:00-23:59,Hombre,14-Oct,Canal,Santiago
+2610,2019,Julio,Miércoles,6:00-11:59,Hombre,25-29,Playa,Samaná
+2611,2019,Julio,Miércoles,12:00-17:59,Hombre,15-19,Río,La Altagracia
+2612,2019,Julio,Miércoles,12:00-17:59,Hombre,0-4,Otros,Santiago
+2613,2019,Julio,Martes,12:00-17:59,Hombre,30-34,Río,La Altagracia
+2614,2019,Julio,Domingo,12:00-17:59,Hombre,55-59,Canal,Valverde
+2615,2019,Julio,Jueves,12:00-17:59,Mujer,0-4,Otros,La Romana
+2616,2019,Julio,Miércoles,12:00-17:59,Mujer,0-4,Piscina,Santo Domingo
+2617,2019,Julio,Martes,12:00-17:59,Hombre,30-34,Mar,Puerto Plata
+2618,2019,Julio,Lunes,18:00-23:59,Mujer,80 y mas,Río,San Pedro de Macorís
+2619,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2620,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2621,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2622,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2623,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2624,2019,Julio,Lunes,6:00-11:59,Hombre,N/D,Canal,Santiago
+2625,2019,Julio,Lunes,6:00-11:59,Mujer,N/D,Canal,Santiago
+2626,2019,Julio,Lunes,6:00-11:59,Mujer,N/D,Canal,Santiago
+2627,2019,Julio,Lunes,6:00-11:59,Hombre,45-49,Canal,Santiago
+2628,2019,Julio,Lunes,12:00-17:59,Hombre,20-24,Río,San Cristóbal
+2629,2019,Julio,Domingo,6:00-11:59,Mujer,20-24,Mar,Santo Domingo
+2630,2019,Julio,Viernes,6:00-11:59,Hombre,N/D,Río,Valverde
+2631,2019,Julio,Jueves,6:00-11:59,Hombre,40-44,Río,San Pedro de Macorís
+2632,2019,Julio,Miércoles,12:00-17:59,Hombre,15-19,Río,San Cristóbal
+2633,2019,Julio,Martes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2634,2019,Julio,Lunes,18:00-23:59,Mujer,0-4,Otros,Peravia
+2635,2019,Julio,Lunes,18:00-23:59,Hombre,45-49,Otros,Santo Domingo
+2636,2019,Agosto,Viernes,18:00-23:59,Hombre,0-4,Otros,La Vega
+2637,2019,Agosto,Jueves,6:00-11:59,Hombre,45-49,Canal,Santiago
+2638,2019,Agosto,Martes,18:00-23:59,Hombre,N/D,Río,San Juan
+2639,2019,Agosto,Martes,18:00-23:59,Mujer,0-4,Otros,Santiago
+2640,2019,Agosto,Lunes,18:00-23:59,Hombre,20-24,Canal,Santiago
+2641,2019,Agosto,Domingo,12:00-17:59,Hombre,20-24,Playa,Barahona
+2642,2019,Agosto,Sábado,6:00-11:59,Hombre,45-49,Mar,Puerto Plata
+2643,2019,Agosto,Jueves,12:00-17:59,Hombre,14-Oct,Río,Dajabón
+2644,2019,Agosto,Miércoles,12:00-17:59,Hombre,20-24,Canal,Santiago
+2645,2019,Agosto,Domingo,18:00-23:59,Hombre,25-29,Mar,Santo Domingo
+2646,2019,Agosto,Domingo,18:00-23:59,Hombre,15-19,Río,La Altagracia
+2647,2019,Agosto,Domingo,12:00-17:59,Hombre,20-24,Otros,La Vega
+2648,2019,Agosto,Miércoles,18:00-23:59,Mujer,35-39,Otros,Santiago
+2649,2019,Agosto,Martes,18:00-23:59,Hombre,N/D,Río,Santiago
+2650,2019,Agosto,Martes,12:00-17:59,Hombre,15-19,Río,Santiago
+2651,2019,Agosto,Viernes,12:00-17:59,Hombre,45-49,Otros,Santo Domingo
+2652,2019,Agosto,Viernes,12:00-17:59,Mujer,15-19,Playa,Santo Domingo
+2653,2019,Septiembre,Domingo,12:00-17:59,Hombre,25-29,Playa,Pedernales
+2654,2019,Septiembre,Domingo,12:00-17:59,Hombre,15-19,Playa,Barahona
+2655,2019,Septiembre,Jueves,18:00-23:59,Hombre,50-54,Playa,Monte Cristi
+2656,2019,Septiembre,Miércoles,6:00-11:59,Mujer,0-4,Otros,Santo Domingo
+2657,2019,Septiembre,Sábado,18:00-23:59,Hombre,20-24,Río,Santiago
+2658,2019,Septiembre,Martes,6:00-11:59,Hombre,55-59,Playa,Puerto Plata
+2659,2019,Septiembre,Sábado,12:00-17:59,Hombre,35-39,Río,Santo Domingo
+2660,2019,Septiembre,Sábado,12:00-17:59,Hombre,50-54,Río,Santiago
+2661,2019,Septiembre,Viernes,12:00-17:59,Hombre,15-19,Canal,Santiago
+2662,2019,Septiembre,Viernes,12:00-17:59,Mujer,14-Oct,Mar,La Romana
+2663,2019,Septiembre,Miércoles,12:00-17:59,Hombre,0-4,Piscina,Santo Domingo
+2664,2019,Septiembre,Domingo,12:00-17:59,Mujer,0-4,Otros,La Romana
+2665,2019,Septiembre,Domingo,12:00-17:59,Hombre,25-29,Playa,Barahona
+2666,2019,Septiembre,Sábado,6:00-11:59,Mujer,40-44,Río,El Seybo
+2667,2019,Septiembre,Miércoles,12:00-17:59,Hombre,N/D,Mar,Puerto Plata
+2668,2019,Septiembre,Martes,12:00-17:59,Hombre,15-19,Canal,Santiago
+2669,2019,Septiembre,Martes,12:00-17:59,Hombre,50-54,Río,Puerto Plata
+2670,2019,Septiembre,Lunes,12:00-17:59,Hombre,15-19,Río,Santo Domingo
+2671,2019,Septiembre,Domingo,18:00-23:59,Hombre,20-24,Río,Sánchez Ramírez
+2672,2019,Septiembre,Domingo,12:00-17:59,Hombre,N/D,Río,Sánchez Ramírez
+2673,2019,Septiembre,Domingo,12:00-17:59,Mujer,14-Oct,Piscina,Santo Domingo
+2674,2019,Octubre,Viernes,6:00-11:59,Hombre,55-59,Río,Santiago
+2675,2019,Octubre,Sábado,12:00-17:59,Hombre,30-34,Playa,Azua
+2676,2019,Octubre,Martes,12:00-17:59,Hombre,0-4,Otros,Azua
+2677,2019,Octubre,Miércoles,12:00-17:59,Hombre,9-May,Otros,Santo Domingo
+2678,2019,Octubre,Miércoles,18:00-23:59,Hombre,N/D,Río,La Vega
+2679,2019,Octubre,Jueves,0:00-05:59,Mujer,45-49,Mar,Santo Domingo
+2680,2019,Octubre,Viernes,12:00-17:59,Hombre,15-19,Canal,Elías Pina
+2681,2019,Octubre,Viernes,12:00-17:59,Hombre,30-34,Piscina,La Altagracia
+2682,2019,Octubre,Lunes,6:00-11:59,Hombre,0-4,Otros,Azua
+2683,2019,Octubre,Domingo,18:00-23:59,Hombre,40-44,Río,Santiago
+2684,2019,Octubre,Sábado,12:00-17:59,Hombre,65-69,Playa,María Trinidad Sánchez
+2685,2019,Octubre,Domingo,12:00-17:59,Hombre,35-39,Río,San Pedro de Macorís
+2686,2019,Octubre,Lunes,0:00-05:59,Hombre,35-39,Canal,San Juan
+2687,2019,Octubre,Lunes,12:00-17:59,Hombre,N/D,Playa,Puerto Plata
+2688,2019,Octubre,Jueves,6:00-11:59,Hombre,25-29,Río,San Cristóbal
+2689,2019,Octubre,Viernes,12:00-17:59,Hombre,14-Oct,Playa,La Romana
+2690,2019,Octubre,Viernes,12:00-17:59,Hombre,0-4,Otros,Puerto Plata
+2691,2019,Octubre,Viernes,6:00-11:59,Hombre,35-39,Otros,Monte Cristi
+2692,2019,Octubre,Viernes,18:00-23:59,Hombre,70-74,Río,Santiago Rodriguez
+2693,2019,Octubre,Lunes,12:00-17:59,Mujer,0-4,Otros,Duarte
+2694,2019,Octubre,Lunes,18:00-23:59,Hombre,50-54,Otros,San Cristóbal
+2695,2019,Octubre,Viernes,12:00-17:59,Hombre,15-19,Otros,Santo Domingo
+2696,2019,Octubre,Viernes,18:00-23:59,Hombre,45-49,Río,Monseñor Nouel
+2697,2019,Octubre,Lunes,6:00-11:59,Hombre,40-44,Otros,Distrito Nacional
+2698,2019,Octubre,Martes,18:00-23:59,Hombre,9-May,Piscina,Samaná
+2699,2019,Octubre,Martes,12:00-17:59,Hombre,15-19,Mar,Barahona
+2700,2019,Octubre,Jueves,12:00-17:59,Hombre,80 y mas,Mar,La Romana
+2701,2019,Noviembre,Domingo,12:00-17:59,Hombre,60-64,Playa,El Seybo
+2702,2019,Noviembre,Domingo,18:00-23:59,Hombre,30-34,Río,Santiago
+2703,2019,Noviembre,Lunes,12:00-17:59,Hombre,30-34,Playa,Puerto Plata
+2704,2019,Noviembre,Miércoles,18:00-23:59,Hombre,9-May,Canal,Valverde
+2705,2019,Noviembre,Sábado,12:00-17:59,Hombre,9-May,Piscina,La Altagracia
+2706,2019,Noviembre,Sábado,12:00-17:59,Hombre,0-4,Otros,Monte Plata
+2707,2019,Noviembre,Domingo,12:00-17:59,Hombre,N/D,Río,San Cristóbal
+2708,2019,Noviembre,Domingo,12:00-17:59,Mujer,0-4,Canal,San Juan
+2709,2019,Noviembre,Domingo,12:00-17:59,Hombre,N/D,Otros,Sánchez Ramírez
+2710,2019,Noviembre,Martes,12:00-17:59,Mujer,35-39,Mar,San Pedro de Macorís
+2711,2019,Noviembre,Domingo,12:00-17:59,Mujer,0-4,Otros,Santo Domingo
+2712,2019,Noviembre,Jueves,12:00-17:59,Hombre,30-34,Mar,La Altagracia
+2713,2019,Noviembre,Viernes,6:00-11:59,Hombre,25-29,Río,Santo Domingo
+2714,2019,Noviembre,Domingo,12:00-17:59,Hombre,0-4,Piscina,Santo Domingo
+2715,2019,Noviembre,Domingo,12:00-17:59,Hombre,15-19,Playa,Puerto Plata
+2716,2019,Noviembre,Martes,6:00-11:59,Hombre,35-39,Playa,San Pedro de Macorís
+2717,2019,Noviembre,Jueves,12:00-17:59,Hombre,0-4,Otros,La Romana
+2718,2019,Noviembre,Sábado,18:00-23:59,Mujer,0-4,Otros,Espaillat
+2719,2019,Diciembre,Martes,12:00-17:59,Hombre,40-44,Piscina,La Altagracia
+2720,2019,Diciembre,Lunes,12:00-17:59,Mujer,0-4,Otros,Samaná
+2721,2019,Diciembre,Martes,12:00-17:59,Hombre,0-4,Canal,Peravia
+2722,2019,Diciembre,Domingo,18:00-23:59,Hombre,30-34,Playa,San Juan
+2723,2019,Diciembre,Martes,6:00-11:59,Hombre,N/D,Playa,Puerto Plata
+2724,2019,Diciembre,Martes,12:00-17:59,Hombre,15-19,Playa,Samaná
+2725,2019,Diciembre,Miércoles,12:00-17:59,Hombre,30-34,Playa,Santo Domingo
+2726,2019,Diciembre,Jueves,18:00-23:59,Hombre,45-49,Río,Santo Domingo
+2727,2019,Diciembre,Domingo,0:00-05:59,Mujer,0-4,Otros,Distrito Nacional
+2728,2019,Diciembre,Domingo,6:00-11:59,Hombre,65-69,Otros,Santo Domingo
+2729,2019,Diciembre,Domingo,12:00-17:59,Hombre,45-49,Río,Monte Plata
+2730,2019,Diciembre,Lunes,18:00-23:59,Mujer,9-May,Otros,Monseñor Nouel
+2731,2019,Diciembre,Martes,6:00-11:59,Hombre,N/D,Río,Monte Cristi
+2732,2019,Diciembre,Martes,6:00-11:59,Hombre,45-49,Río,Santo Domingo
+2733,2019,Diciembre,Viernes,12:00-17:59,Hombre,9-May,Piscina,Barahona
+2734,2019,Diciembre,Viernes,6:00-11:59,Mujer,0-4,Otros,Santo Domingo
+2735,2019,Diciembre,Viernes,6:00-11:59,Hombre,20-24,Río,Bahoruco
+2736,2019,Diciembre,Sábado,6:00-11:59,Hombre,45-49,Playa,La Altagracia
+2737,2019,Diciembre,Domingo,18:00-23:59,Hombre,35-39,Playa,La Altagracia
+2738,2019,Diciembre,Domingo,12:00-17:59,Hombre,40-44,Otros,Monte Cristi
